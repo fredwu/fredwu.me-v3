@@ -18,9 +18,9 @@ const Pagination = styled.div`
 
 export default class BlogPosts extends React.Component {
   render() {
-    const { data, pathContext } = this.props
+    const { data, pageContext } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const { previousPagePath, nextPagePath } = pathContext
+    const { previousPagePath, nextPagePath } = pageContext
 
     return (
       <Layout>
