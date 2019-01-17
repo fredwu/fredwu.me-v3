@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    title: 'Fred Wu - Engineering, Design, Photography, Leadership',
+    description: 'Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience.',
+    siteUrl: 'http://fredwu.me/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-styled-components',
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -46,7 +48,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 800,
             },
           },
           {
@@ -54,9 +56,22 @@ module.exports = {
             options: {
               destinationDir: 'static',
             }
-          }
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: true,
+            },
+          },
         ],
       },
+    },
+    {
+      resolve: 'gatsby-plugin-feed',
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',
@@ -65,12 +80,13 @@ module.exports = {
       },
     },
     {
-      resolve:'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
+      resolve:'gatsby-plugin-purgecss',
       options: {
-        develop: true,            // Activates purging in npm run develop
-        purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
+        develop: true,
+        purgeOnly: ['/all.scss'],
       },
     }, // must be after other CSS plugins
+    'gatsby-redirect-from',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }

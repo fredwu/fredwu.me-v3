@@ -1,0 +1,56 @@
+@import '~bulma/sass/utilities/initial-variables';
+
+$primary: #ffa000;
+$link: #ffa000;
+$code: #111;
+$text: #555;
+
+$code-size: 1.1rem;
+
+$navbar-breakpoint: $tablet;
+
+@import '~bulma';
+
+body {
+  font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p, ul, ol {
+  font-size: 1.3rem;
+  color: $text;
+}
+
+hr {
+  color: #ccc;
+  height: 1px;
+}
+
+.content {
+  table {
+    width: auto;
+  }
+
+  div + p {
+    margin-top: 1em;
+  }
+
+  ul, ol {
+    p {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  blockquote {
+    padding: 2.5rem;
+    border-left: none;
+    background: url('../img/quotes.svg') top 20px left no-repeat;
+
+    &:not(:last-child) {
+      padding-bottom: 1rem;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+  }
+}

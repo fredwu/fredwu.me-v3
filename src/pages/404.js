@@ -1,11 +1,15 @@
 import React from 'react'
+
 import Layout from '../components/Layout'
+import Section from '../components/Section'
 
 const NotFoundPage = () => (
   <Layout>
-    <div>
-      <h1>NOT FOUND</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <div className="container">
+      <Section className="container content">
+        <h1>Not Found</h1>
+        <p>The page you are looking for doesn't exist...</p>
+      </Section>
     </div>
   </Layout>
 )
