@@ -52,6 +52,13 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              related: false,
+              noIframeBorder: true,
+            },
+          },
+          {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
@@ -65,20 +72,6 @@ module.exports = {
               aliases: {},
               showLineNumbers: false,
               noInlineHighlight: true,
-            },
-          },
-        ],
-      },
-    },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-embed-video",
-            options: {
-              related: false,
-              noIframeBorder: true,
             },
           },
         ],
