@@ -13,7 +13,7 @@ redirect_from:
 ---
 It was the first time I presented in front of 400+ people so I was really nervous - I blasted through the talk in under 30 minutes even though I was supposed to talk for 45 minutes, oh well. ;)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/DeBsmdDmB9A" frameborder="0" allowfullscreen></iframe>
+`video: https://www.youtube.com/embed/DeBsmdDmB9A`
 
 Also, [my slides are available too](http://fredwu.me/post/36489590128/become-a-better-developer-you-can-slides-of-my).
 

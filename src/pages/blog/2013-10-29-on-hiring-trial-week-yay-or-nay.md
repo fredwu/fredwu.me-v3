@@ -99,6 +99,4 @@ The difference between the long probation period and the short trial period, is 
 
 So, let’s hear your say, what do _you_ think? :)
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/7516426.js"></script>
-
-<noscript><a href="http://polldaddy.com/poll/7516426/" target="_blank">Poll: Trial Week, Yay or Nay?</a></noscript>
+[Poll: Trial Week, Yay or Nay?](https://poll.fm/7516426)

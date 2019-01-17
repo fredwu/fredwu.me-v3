@@ -71,6 +71,20 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              related: false,
+              noIframeBorder: true,
+            },
+          },
+        ],
+      },
+    },
+    {
       resolve: 'gatsby-plugin-feed',
     },
     {
@@ -86,6 +100,7 @@ module.exports = {
         purgeOnly: ['/all.scss'],
       },
     }, // must be after other CSS plugins
+    'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
