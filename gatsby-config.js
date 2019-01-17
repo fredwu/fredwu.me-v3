@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Fred Wu - Engineering, Design, Photography, Leadership',
     description: 'Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience.',
-    siteUrl: 'http://fredwu.me/',
+    siteUrl: 'http://fredwu.me',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -96,6 +96,7 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
