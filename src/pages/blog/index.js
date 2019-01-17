@@ -33,17 +33,16 @@ export default class BlogPosts extends React.Component {
                 className="content"
                 key={post.id}
               >
-                <p>
+                <h2>
                   <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <br />
+                </h2>
+                <DateAndTags
+                  date={post.frontmatter.date}
+                  tags={post.frontmatter.tags}
+                />
 
-                  <DateAndTags
-                    date={post.frontmatter.date}
-                    tags={post.frontmatter.tags}
-                  />
-                </p>
                 <p className="excerpt">{post.excerpt}</p>
                 <hr />
               </div>
