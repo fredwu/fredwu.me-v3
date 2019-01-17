@@ -69,6 +69,20 @@ const FooterInner = styled.footer`
     color: #eee;
     text-align: center;
   }
+
+  .divider {
+    display: inline-block;
+    margin: auto 10px;
+    color: #999;
+  }
+
+  a {
+    color: #eee;
+
+    &:hover {
+      color: #ffa000;
+    }
+  }
 `
 
 export default class extends React.Component {
@@ -90,7 +104,11 @@ export default class extends React.Component {
         <FooterInner className="hero">
           <div className="container content has-text-centered">
             <Social />
-            <p>Copyright &copy; Fred Wu</p>
+            <p>
+              Copyright &copy; Fred Wu
+              <span className="divider">|</span>
+              <a href="https://github.com/fredwu/fredwu.me-v3">Site Source Code</a>
+            </p>
           </div>
         </FooterInner>
       </>

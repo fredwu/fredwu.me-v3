@@ -28,6 +28,10 @@ const Social = styled.ul`
     background-size: contain;
     opacity: 0.8;
     text-indent: -9999px;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 
   a.contact-email { background-image: url(${email}); }
