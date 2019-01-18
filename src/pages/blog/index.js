@@ -39,6 +39,8 @@ export default class BlogPosts extends React.Component {
                   </Link>
                 </h2>
                 <DateAndTags
+                  id={post.id}
+                  title={post.frontmatter.title}
                   date={post.frontmatter.date}
                   tags={post.frontmatter.tags}
                 />
