@@ -13,7 +13,7 @@ tags:
 redirect_from:
 - /post/113196748165/history-text-analysis-over-spreadsheets-a-poker
 ---
-Ever since I started transitioning into a team leadership role over three years ago, I had been trying to find ways to [eliminate waste caused by repetitive work](https://github.com/fredwu/security_guard) and to [keep myself on the fringe of pushing the technical boundaries](http://fredwu.me/post/54009567748/datamappify-a-new-take-on-decoupling-domain).
+Ever since I started transitioning into a team leadership role over three years ago, I had been trying to find ways to [eliminate waste caused by repetitive work](https://github.com/fredwu/security_guard) and to [keep myself on the fringe of pushing the technical boundaries](/blog/2013-06-27-datamappify-a-new-take-on-decoupling-domain/).
 
 Four months ago I started my current role where my official job title is Delivery Lead. People don’t often know what a delivery lead is, but in my mind it is a role to ensure the success of the project delivery by identifying and closing the gaps in the team and in the organisation. And in order to do that, one of our responsibilities is to **measure, understand and improve our team’s agile process**.
 

@@ -16,7 +16,7 @@ tags:
 redirect_from:
 - /post/54175219257/the-future-of-computing-the-future-of-computer
 ---
-A while ago I [translated an interview with Matz](http://fredwu.me/post/36493181321/an-interview-with-yukihiro-matz-matsumoto) done by a Chinese book publisher. The interview and the translation were well received, so this time I am translating another interview with Matz, done by Ito, the editor-in-chief from Japanese website [Engineer Type](http://engineer.typemag.jp/article/matz). Since I don’t read Japanese, the translation is based on [Turing Book’s Chinese translation](http://www.ituring.com.cn/article/45484).
+A while ago I [translated an interview with Matz](/blog/2012-11-25-an-interview-with-yukihiro-matz-matsumoto/) done by a Chinese book publisher. The interview and the translation were well received, so this time I am translating another interview with Matz, done by Ito, the editor-in-chief from Japanese website [Engineer Type](http://engineer.typemag.jp/article/matz). Since I don’t read Japanese, the translation is based on [Turing Book’s Chinese translation](http://www.ituring.com.cn/article/45484).
 
 The Chinese translator has done a great job translating the interview, but there are still many words and sentences lack sufficient context and therefore are difficult to grasp. I have put in many hours translating the text as well as doing researches to ensure the final article is readable. I hope you will enjoy it! :)
 

@@ -15,7 +15,7 @@ It was the first time I presented in front of 400+ people so I was really nervou
 
 `video: https://www.youtube.com/embed/DeBsmdDmB9A`
 
-Also, [my slides are available too](http://fredwu.me/post/36489590128/become-a-better-developer-you-can-slides-of-my).
+Also, [my slides are available too](/blog/2012-11-25-become-a-better-developer-you-can-slides-of-my/).
 
 P.S. If you’re located in China, you may [view the talk at Railscasts China](http://railscasts-china.com/episodes/rubyconf-2012-fred-wu).
 

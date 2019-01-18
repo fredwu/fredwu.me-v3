@@ -51,7 +51,7 @@ exports.createPages = ({ actions, graphql }) => {
       createPage,
       items: posts,
       itemsPerPage: 10,
-      pathPrefix: '/blog',
+      pathPrefix: '/blogs',
       component: path.resolve(`src/pages/blog/index.js`),
     })
 

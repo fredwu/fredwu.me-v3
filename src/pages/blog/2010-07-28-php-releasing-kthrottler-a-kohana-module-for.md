@@ -13,7 +13,7 @@ tags:
 redirect_from:
 - /post/870726249/php-releasing-kthrottler-a-kohana-module-for
 ---
-Similarly to [Action Throttler for Rails](http://fredwu.me/post/658651700/rails-releasing-action-throttler-a-rails-plugin-for), [KThrottler](http://github.com/fredwu/kthrottler) is an easy to use [Kohana](http://kohanaframework.org/) module to quickly throttle application actions based on configurable duration and limit.
+Similarly to [Action Throttler for Rails](/blog/2010-06-03-rails-releasing-action-throttler-a-rails-plugin/), [KThrottler](http://github.com/fredwu/kthrottler) is an easy to use [Kohana](http://kohanaframework.org/) module to quickly throttle application actions based on configurable duration and limit.
 
 Go [check out the code](http://github.com/fredwu/kthrottler) now! :)
 

@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /post/16510145575/on-hiring-how-not-to-annoy-developers
 ---
-_If you are looking at finding technical co-founders, [check out my article on this subject](http://fredwu.me/post/16623516071/on-hiring-how-to-be-a-non-technical-co-founder)._
+_If you are looking at finding technical co-founders, [check out my article on this subject](/2012-01-28-on-hiring-how-to-be-a-non-technical-co-founder/)._
 
 In recent years developers become hotter and hotter - especially the good ones - they are hard to find, and they have plenty of employment options to choose from.
 

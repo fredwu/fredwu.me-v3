@@ -84,7 +84,7 @@ export const PostTemplate = ({
           <PostContent content={content} />
           <hr />
 
-          <Link className="back" to="/blog">&lt; Back to Blog</Link>
+          <Link className="back" to="/blogs">&lt; Back to Blog</Link>
           <hr />
 
           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />

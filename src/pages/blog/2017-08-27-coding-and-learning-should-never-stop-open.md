@@ -46,7 +46,7 @@ If you take a look at the source code of [OPQ](https://github.com/fredwu/opq) yo
 
 Up until this point, as far as writing open source Elixir code goes, it had mostly been me writing my own code for my own projects. But open sourcing is much more than just writing one’s own code and publishing them on Github.
 
-If you’ve [followed my work](http://fredwu.me/#page-about) you’ll know that I’m a big fan of contributing to other projects, some of which are well-known ones like [Rails](http://contributors.rubyonrails.org/contributors/fred-wu/commits) and [Slim](https://github.com/slim-template).
+If you’ve followed my work you’ll know that I’m a big fan of contributing to other projects, some of which are well-known ones like [Rails](http://contributors.rubyonrails.org/contributors/fred-wu/commits) and [Slim](https://github.com/slim-template).
 
 It just so happens, that over the weekend I ran into situations where I needed to contribute to other Elixir projects - and spoiler alert: one of which is Elixir itself.
 

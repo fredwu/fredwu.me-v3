@@ -11,7 +11,7 @@ tags:
 redirect_from:
 - /post/16623516071/on-hiring-how-to-be-a-non-technical-co-founder
 ---
-_If you are looking at hiring developers, [check out my article on this subject](http://fredwu.me/post/16510145575/on-hiring-how-not-to-annoy-developers)._
+_If you are looking at hiring developers, [check out my article on this subject](/blog/2012-01-26-on-hiring-how-not-to-annoy-developers/)._
 
 The goal or the dream of working on your own startup is always full of excitement. And apart from some rare cases [such as Dropbox](http://www.forbes.com/sites/bruceupbin/2011/10/18/paul-graham-dropbox-and-the-single-founder-exception/), you probably need one or more co-founders to work with you on The Next Big Thing ™.
 
@@ -59,7 +59,7 @@ What are _you_ obsessed with?
 
 Only when you are obsessed with something, can you answer questions like “what annoys you so much?”
 
-As I wrote in [an ealier article](http://fredwu.me/post/8254974029/its-year-2011-why-arent-people-more-open-minded):
+As I wrote in [an ealier article](/blog/2011-07-30-its-year-2011-why-arent-people-more/):
 
 > Inventions and innovations aren’t born out of happiness, they are born out of frustration, anger and sometimes, curiosity.
 

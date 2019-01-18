@@ -19,7 +19,7 @@ tags:
 redirect_from:
 - /post/9036730472/open-sourcing-a-200-hour-project-the-story
 ---
-_Update: I have blogged about [the things I have learnt](http://fredwu.me/post/9703934823/startup-vc-and-the-things-i-learnt-from-open-sourcing) from this._
+_Update: I have blogged about [the things I have learnt](/blog/2011-09-02-startup-vc-and-the-things-i-learnt-from/) from this._
 
 Last night, after some long overdue frustration, I have open sourced [Angel Nest](https://github.com/fredwu/angel_nest) - an online platform for connecting entrepreneurs and investors, similar to [AngelList](http://angel.co/).
 

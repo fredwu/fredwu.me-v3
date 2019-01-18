@@ -14,7 +14,7 @@ redirect_from:
 ---
 After four days of sketching, designing and cutting up HTML/CSS, the new design (as you are seeing now) is finally live!
 
-The new design is structurally similar to [the old design](http://fredwu.me/post/421741438/blog-redesigned), but with a fresh header and better use of space.
+The new design is structurally similar to [the old design](/blog/2010-03-02-blog-redesigned/), but with a fresh header and better use of space.
 
 ![](/img/posts/old/tumblr_lwtph23mnm1qalr27.png)
 

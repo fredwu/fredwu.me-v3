@@ -11,7 +11,7 @@ tags:
 redirect_from:
 - /post/61571741083/protip-faster-ruby-tests-with-databasecleaner-and
 ---
-_Please also see [this blog post on tweaking your ruby GC settings](http://fredwu.me/post/60441991350/protip-ruby-devs-please-tweak-your-gc-settings-for)._
+_Please also see [this blog post on tweaking your ruby GC settings](/blog/2013-09-06-protip-ruby-devs-please-tweak-your-gc-settings/)._
 
 I use and love [DatabaseCleaner](https://github.com/bmabey/database_cleaner), although historically I had never paid too much attention on the performance of its varies cleaning strategies - I’d always used `truncation`.
 

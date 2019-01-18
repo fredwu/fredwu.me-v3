@@ -24,5 +24,5 @@ Since I had been preparing for my talk for over a month, I’ve done many revisi
 
 Hope you will enjoy them! :)
 
-**Update:** [The video of my talk is up!](http://fredwu.me/post/37107236222/become-a-better-developer-you-can-video-of-my) :)
+**Update:** [The video of my talk is up!](/blog/2012-12-03-become-a-better-developer-you-can-video-of-my/) :)
 

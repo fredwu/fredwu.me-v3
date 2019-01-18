@@ -18,7 +18,7 @@ redirect_from:
 ---
 A couple of days ago, a blog post titled [“First employee of startup? You are probably getting screwed!”](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/) has made to the Hacker News front page and has [spawned some great discussion and debate](http://news.ycombinator.com/item?id=2949323).
 
-Since [I had just been screwed recently](http://fredwu.me/post/9036730472/open-sourcing-a-200-hour-project-the-story-behind-it), I thought it might be a good opportunity for me to share what I’ve learnt.
+Since [I had just been screwed recently](/blog/2011-08-17-open-sourcing-a-200-hour-project-the-story/), I thought it might be a good opportunity for me to share what I’ve learnt.
 
 After my story got [picked up by Hacker News](http://news.ycombinator.com/item?id=2891907) and some other sites, I was contacted by my client. It was a very interesting and surreal experience which included keywords such as _sue_, _settle_, _donation_ and _disappearance_. I am however going to spare you the details and instead, going to focus on the things I have learnt.
 

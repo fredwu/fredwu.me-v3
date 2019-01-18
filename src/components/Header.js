@@ -114,7 +114,7 @@ export default class extends React.Component {
               <div className="navbar-start">
                 <Link className="navbar-item" activeClassName="active" to="/">Home</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/blog">Blog</Link>
+                <Link className="navbar-item" activeClassName="active" to="/blogs">Blog</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
                 <Link className="navbar-item" activeClassName="active" to="/manager-readme">Manager Readme</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>

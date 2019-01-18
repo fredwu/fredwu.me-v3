@@ -17,7 +17,7 @@ If you don't know me, here are a few links to get you started:
 
 - [LinkedIn](https://www.linkedin.com/in/wufred/) for my CV
 - [Github](https://github.com/fredwu/) for my code
-- [Blog](http://fredwu.me/) for my thoughts
+- [Blog](https://fredwu.me/) for my thoughts
 - [Flickr](https://www.flickr.com/photos/ifredwu/albums) for my photos
 - [Twitter](https://twitter.com/fredwu/) for my rants
 

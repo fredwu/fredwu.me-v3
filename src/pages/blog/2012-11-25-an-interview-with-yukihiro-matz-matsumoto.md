@@ -14,7 +14,7 @@ tags:
 redirect_from:
 - /post/36493181321/an-interview-with-yukihiro-matz-matsumoto
 ---
-_Update: Please check out [this new interview with Matz](http://fredwu.me/post/54175219257/), done by Engineer Type._
+_Update: Please check out [this new interview with Matz](/blog/2013-06-29-the-future-of-computing-the-future-of-computer/), done by Engineer Type._
 
 A week ago I went to Shanghai, China to attend and to give a talk at [RubyConf China](http://rubyconfchina.org/). The day before the conference’s first day a bunch of us were invited to a VIP dinner where we [met with Matz](http://www.flickr.com/photos/76172385@N07/8212328817/in/set-72157632083056277/lightbox/) and got to play with [a device running MRuby](http://www.flickr.com/photos/76172385@N07/8213422808/in/set-72157632083056277/lightbox/). And I heard that earlier on that day Matz was ‘adopted’ by a book publisher to do an interview.
 
