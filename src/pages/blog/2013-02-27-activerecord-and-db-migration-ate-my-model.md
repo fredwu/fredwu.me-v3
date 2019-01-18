@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /post/44098506856/activerecord-and-db-migration-ate-my-model
 ---
-_Update: You might also want to check out [`reset_column_information`](/blog/2010-05-25-rails-tip-model-attributes-not-updating/)._
+*Update: You might also want to check out [`reset_column_information`](/blog/2010-05-25-rails-tip-model-attributes-not-updating/).*
 
 So a few days ago we started seeing the following errors on our Jenkins builds (swapped with fictional model and attribute names):
 
