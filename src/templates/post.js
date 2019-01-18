@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import styled from 'styled-components'
+import { DiscussionEmbed } from "disqus-react"
 
 import Layout from '../components/Layout'
 import Section from '../components/Section'
@@ -48,6 +49,7 @@ const PostInner = styled.div`
 `
 
 export const PostTemplate = ({
+  id,
   content,
   contentComponent,
   tags,
@@ -56,6 +58,11 @@ export const PostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  const disqusShortname = 'ifred'
+  const disqusConfig = {
+    identifier: id,
+    title: title,
+  }
 
   return (
     <>
@@ -76,6 +83,9 @@ export const PostTemplate = ({
           <hr />
 
           <Link className="back" to="/blog">&lt; Back to Blog</Link>
+          <hr />
+
+          <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </Section>
       </PostInner>
     </>
@@ -83,6 +93,7 @@ export const PostTemplate = ({
 }
 
 PostTemplate.propTypes = {
+  id: PropTypes.number,
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
@@ -96,6 +107,7 @@ const Post = ({ data }) => {
   return (
     <Layout>
       <PostTemplate
+        id={post.id}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
