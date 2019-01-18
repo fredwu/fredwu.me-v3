@@ -10,6 +10,7 @@
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-image": "^2.0.23",
     "gatsby-plugin-feed": "^2.0.11",
+    "gatsby-plugin-google-analytics": "^2.0.9",
     "gatsby-plugin-netlify": "^2.0.6",
     "gatsby-plugin-netlify-cms": "^3.0.9",
     "gatsby-plugin-purgecss": "^3.1.0",

@@ -53,7 +53,7 @@ module.exports = {
             },
           },
           {
-            resolve: "gatsby-remark-embed-video",
+            resolve: 'gatsby-remark-embed-video',
             options: {
               related: false,
               noIframeBorder: true,
@@ -88,12 +88,21 @@ module.exports = {
       },
     },
     {
-      resolve:'gatsby-plugin-purgecss',
+      resolve: 'gatsby-plugin-purgecss',
       options: {
         develop: true,
         purgeOnly: ['/all.scss'],
       },
     }, // must be after other CSS plugins
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-13137273-1',
+        head: false,
+        exclude: ['/preview/**', '/admin/**'],
+        cookieDomain: 'fredwu.me',
+      },
+    },
     'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',
     'gatsby-plugin-sitemap',
