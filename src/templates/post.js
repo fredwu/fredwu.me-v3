@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import styled from 'styled-components'
-import { DiscussionEmbed } from "disqus-react"
+import { DiscussionEmbed } from 'disqus-react'
 
 import Layout from '../components/Layout'
 import Section from '../components/Section'
@@ -74,6 +74,8 @@ export const PostTemplate = ({
           </h1>
 
           <DateAndTags
+            id={id}
+            title={title}
             date={date}
             tags={tags}
           />
