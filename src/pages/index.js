@@ -31,17 +31,14 @@ export default class extends React.Component {
             </p>
             <p>
               After being a "webmaster" for a few years, I began my career in web development
-              and design. I graduated with Bachelor of Information Technology and Systems from&nbsp;
-              <a href="https://www.monash.edu/">Monash University</a>.
+              and design. I graduated with Bachelor of Information Technology and Systems from <a href="https://www.monash.edu/">Monash University</a>.
             </p>
             <p>
-              I am currently the Head of Engineering at&nbsp;
-              <a href="https://ourxplor.com/" title="Xplor">Xplor</a> - we are relentlessly
-              making education great. Before Xplor, I worked at companies such as&nbsp;
-              <a href="https://envato.com/">Envato</a>,&nbsp;
-              <a href="https://sitepoint.com/">SitePoint</a>,&nbsp;
-              <a href="https://locomote.com/">Locomote</a> and&nbsp;
-              <a href="https://realestate.com.au/">REA Group</a>.
+              I am currently the Head of Engineering at <a href="https://ourxplor.com/" title="Xplor">Xplor</a> -
+              we are relentlessly making education great. Before Xplor, I worked at companies
+              such as <a href="https://envato.com/">Envato</a>
+              , <a href="https://sitepoint.com/">SitePoint</a>
+              , <a href="https://locomote.com/">Locomote</a> and <a href="https://realestate.com.au/">REA Group</a>.
             </p>
             <p>
               I am a passionate open source developer who has made contributions to dozens of
