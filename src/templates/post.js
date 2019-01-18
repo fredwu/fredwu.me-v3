@@ -95,7 +95,7 @@ export const PostTemplate = ({
 }
 
 PostTemplate.propTypes = {
-  id: PropTypes.number,
+  id: PropTypes.string,
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
