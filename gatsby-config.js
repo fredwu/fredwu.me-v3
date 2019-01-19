@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Fred Wu - Engineering, Design, Photography, Leadership',
     description: 'Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience.',
-    siteUrl: 'http://fredwu.me',
+    siteUrl: 'https://fredwu.me',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

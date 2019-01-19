@@ -8,6 +8,7 @@ import { DiscussionEmbed } from 'disqus-react'
 import Layout from '../components/Layout'
 import Section from '../components/Section'
 import DateAndTags from '../components/DateAndTags'
+import SocialShare from '../components/SocialShare'
 import Content, { HTMLContent } from '../components/Content'
 
 const PostInner = styled.div`
@@ -55,6 +56,7 @@ export const PostTemplate = ({
   tags,
   date,
   title,
+  url,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -84,6 +86,9 @@ export const PostTemplate = ({
           <PostContent content={content} />
           <hr />
 
+          <SocialShare url={url} title={title} />
+          <hr />
+
           <Link className="back" to="/blogs">&lt; Back to Blog</Link>
           <hr />
 
@@ -100,11 +105,13 @@ PostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  slug: PropTypes.string,
+  url: PropTypes.string,
   helmet: PropTypes.object,
 }
 
 const Post = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post, site } = data
 
   return (
     <Layout>
@@ -115,7 +122,7 @@ const Post = ({ data }) => {
         description={post.frontmatter.description}
         helmet={
           <Helmet
-            titleTemplate="%s | Blog"
+            titleTemplate={`%s | ${site.siteMetadata.title}`}
           >
             <title>{`${post.frontmatter.title}`}</title>
             <meta name="description" content={`${post.frontmatter.description}`} />
@@ -124,6 +131,7 @@ const Post = ({ data }) => {
         date={post.frontmatter.date}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        url={`${site.siteMetadata.siteUrl}${post.fields.slug}`}
       />
     </Layout>
   )
@@ -147,6 +155,15 @@ export const pageQuery = graphql`
         title
         description
         tags
+      }
+      fields {
+        slug
+      }
+    }
+    site {
+      siteMetadata {
+        title
+        siteUrl
       }
     }
   }
