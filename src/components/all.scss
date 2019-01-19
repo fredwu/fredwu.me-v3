@@ -11,6 +11,7 @@ $navbar-breakpoint: $tablet;
 
 @import '~bulma';
 
+/* purgecss start ignore */
 body {
   font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -23,6 +24,10 @@ p, ul, ol {
 hr {
   color: #ccc;
   height: 1px;
+}
+
+code[class*="language-"] {
+  padding: 0;
 }
 
 .content {
@@ -55,18 +60,22 @@ hr {
   }
 
   // fix for Bulma's conflict with Prism
-  .number {
+  .number, .tag {
     align-items: inherit;
     background-color: inherit;
     border-radius: inherit;
+    color: inherit;
     display: inherit;
     font-size: inherit;
     height: inherit;
     justify-content: inherit;
+    line-height: inherit;
     margin-right: inherit;
     min-width: inherit;
     padding: inherit;
     text-align: inherit;
     vertical-align: inherit;
+    white-space: inherit;
   }
 }
+/* purgecss end ignore */
