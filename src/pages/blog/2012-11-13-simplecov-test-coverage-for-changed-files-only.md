@@ -14,16 +14,18 @@ The other day a colleague asked whether or not it’s possible to have [SimpleCo
 
 The answer is **yes**! After some digging around, we found the following way:
 
-    # in spec_helper.rb
-    SimpleCov.start 'rails' do
-      add_group 'Changed' do |source_file|
-        `git ls-files --exclude-standard --others \
-          && git diff --name-only \
-          && git diff --name-only --cached`.split("\n").detect do |filename|
-          source_file.filename.ends_with?(filename)
-        end
-      end
+```ruby
+# in spec_helper.rb
+SimpleCov.start 'rails' do
+  add_group 'Changed' do |source_file|
+    `git ls-files --exclude-standard --others \
+      && git diff --name-only \
+      && git diff --name-only --cached`.split("\n").detect do |filename|
+      source_file.filename.ends_with?(filename)
     end
+  end
+end
+```
 
 Basically use `git ls-files --exclude-standard --others` for untracked files, `git diff --name-only` for unstaged files and `git diff --name-only --cached` for staged files.
 

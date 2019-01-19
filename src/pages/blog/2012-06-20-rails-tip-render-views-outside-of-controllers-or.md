@@ -16,36 +16,40 @@ Ever wondered how you could utilise the `render` method outside the context of R
 
 For example, what if you want to do this in your view?
 
-    <%=raw Awesome::FormBuilder.new(some_options).html %>
+```ruby
+<%=raw Awesome::FormBuilder.new(some_options).html %>
+```
 
 You could do something like this:
 
-    module Awesome
-      class FormBuilder < AbstractController::Base
-        include AbstractController::Rendering
-        include ActionView::Context
-        include ActionView::Helpers::CaptureHelper
+```ruby
+module Awesome
+  class FormBuilder < AbstractController::Base
+    include AbstractController::Rendering
+    include ActionView::Context
+    include ActionView::Helpers::CaptureHelper
 
-        # set the view paths from your engine or from your application root, i.e. Rails.root
-        self.view_paths = Awesome::Engine.root.join('app/views')
+    # set the view paths from your engine or from your application root, i.e. Rails.root
+    self.view_paths = Awesome::Engine.root.join('app/views')
 
-        def initialize(params)
-          flush_output_buffer
-          @_buffer = ''
-          add_to_buffer(params)
-        end
-
-        def html
-          @_buffer
-        end
-
-        private
-
-        def add_to_buffer(params)
-          # some logic to add rendered content to @_buffer
-        end
-      end
+    def initialize(params)
+      flush_output_buffer
+      @_buffer = ''
+      add_to_buffer(params)
     end
+
+    def html
+      @_buffer
+    end
+
+    private
+
+    def add_to_buffer(params)
+      # some logic to add rendered content to @_buffer
+    end
+  end
+end
+```
 
 The idea is to mixin the `render` method, but also ensuring the view buffer is correctly reset with `flush_output_buffer`.
 

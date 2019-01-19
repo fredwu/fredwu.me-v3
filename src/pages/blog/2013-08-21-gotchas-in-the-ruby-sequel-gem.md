@@ -17,28 +17,36 @@ I haven’t really used [Sequel](http://sequel.rubyforge.org/) much therefore I 
 
 In ActiveRecord, joining an associated model couldn’t be simpler:
 
-    Post.joins(:author)
+```ruby
+Post.joins(:author)
+```
 
 In Sequel, despite having a similar API for models to declare associations and their corresponding primary and foreign keys, you cannot do a `join` without specifying the keys:
 
 
 _Not good:_
 
-    Post.join(:authors)
-    # or
-    Post.join(Author)
+```ruby
+Post.join(:authors)
+# or
+Post.join(Author)
+```
 
 _Better:_
 
-    Post.join(:authors, :id => :author_id)
+```ruby
+Post.join(:authors, :id => :author_id)
+```
 
 You would think the version above works - it doesn’t. Even worse, the above example **will give you incorrect data** - the IDs of the Post records will now contain the IDs from their corresponding Author records! This is because upon a `join`, Sequel merges attributes from both models into a single hash.
 
 _The correct version:_
 
-    Post.join(:authors, :id => :author_id).select(:posts __id, :posts__ title, :posts__body)
-    # or
-    Post.join(:authors, :id => :author_id).select_all(:posts)
+```ruby
+Post.join(:authors, :id => :author_id).select(:posts __id, :posts__ title, :posts__body)
+# or
+Post.join(:authors, :id => :author_id).select_all(:posts)
+```
 
 ![](/img/posts/old/tumblr_inline_mrvsa2sBB81qz4rgp.png)
 
@@ -46,33 +54,43 @@ _The correct version:_
 
 In ActiveRecord, all of the below examples return an `ActiveRecord::Relation` collection:
 
-    Post.where(:title => 'Hello world')
-    Post.joins(:author)
-    Post.includes(:author)
+```ruby
+Post.where(:title => 'Hello world')
+Post.joins(:author)
+Post.includes(:author)
+```
 
 And indeed, calling `first` on any of them returns an object of class `Post` (assuming the result collection is not empty).
 
-    Post.where(:title => 'Hello world').first.class #=> Post
-    Post.joins(:author).first.class #=> Post
-    Post.includes(:author).first.class #=> Post
+```ruby
+Post.where(:title => 'Hello world').first.class #=> Post
+Post.joins(:author).first.class #=> Post
+Post.includes(:author).first.class #=> Post
+```
 
 In Sequel, the below examples all return a `Sequel::DataSet` collection:
 
-    Post.where(:title => 'Hello world')
-    Post.eager(:author)
-    Post.eager_graph(:author)
+```ruby
+Post.where(:title => 'Hello world')
+Post.eager(:author)
+Post.eager_graph(:author)
+```
 
 But let’s see what we get from calling `first.class` on them:
 
-    Post.where(:title => 'Hello world').first.class #=> Post
-    Post.eager(:author).first.class #=> Post
-    Post.eager_graph(:author).first.class #=> Hash
+```ruby
+Post.where(:title => 'Hello world').first.class #=> Post
+Post.eager(:author).first.class #=> Post
+Post.eager_graph(:author).first.class #=> Hash
+```
 
 Huh? Last one is a `Hash`? It turns out, if you call `all` at the end of chains to convert them to `Array`s, then the returned collections are consistent:
 
-    Post.where(:title => 'Hello world').all.first.class #=> Post
-    Post.eager(:author).all.first.class #=> Post
-    Post.eager_graph(:author).all.first.class #=> Post
+```ruby
+Post.where(:title => 'Hello world').all.first.class #=> Post
+Post.eager(:author).all.first.class #=> Post
+Post.eager_graph(:author).all.first.class #=> Post
+```
 
 ![](/img/posts/old/tumblr_inline_mrvsa2sBB81qz4rgp.png)
 
