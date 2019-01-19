@@ -43,7 +43,7 @@ Drawing from my personal experience, as a technical person, there are a few _key
 
 ## Technical Ability
 
-“Excuse me? Aren’t _you_ the technical co-founder? Why are you looking for _my_ technical ability?” You ask.
+"Excuse me? Aren’t _you_ the technical co-founder? Why are you looking for _my_ technical ability?" You ask.
 
 That is right. Even if you are not a developer by trade, having a certain degree of understanding of technologies is still crucial to most modern, web-based projects.
 
@@ -57,7 +57,7 @@ Wozniak is obsessed with electrical engineering and gadgets, Steve Jobs was obse
 
 What are _you_ obsessed with?
 
-Only when you are obsessed with something, can you answer questions like “what annoys you so much?”
+Only when you are obsessed with something, can you answer questions like "what annoys you so much?"
 
 As I wrote in [an ealier article](/blog/2011-07-30-its-year-2011-why-arent-people-more/):
 
@@ -65,15 +65,15 @@ As I wrote in [an ealier article](/blog/2011-07-30-its-year-2011-why-arent-peopl
 
 ## Curiosity
 
-In web-based projects, it is surprisingly easy to have “what if …?” scenarios. Not sure which sign up form will have a higher conversion rate? Easy, just make two or more of them and run A/B tests.
+In web-based projects, it is surprisingly easy to have "what if …?" scenarios. Not sure which sign up form will have a higher conversion rate? Easy, just make two or more of them and run A/B tests.
 
-Sometimes, as developers, we are so in the zone that we would keep on building stuff the way we envisioned. You will need to step in, pull us out, and say “hey, have you thought about …? What if …?”
+Sometimes, as developers, we are so in the zone that we would keep on building stuff the way we envisioned. You will need to step in, pull us out, and say "hey, have you thought about …? What if …?"
 
-Flickr as it is today would never have existed if the founders didn’t raise the question of “hey, how about doing _just_ the photo uploading and sharing features?”
+Flickr as it is today would never have existed if the founders didn’t raise the question of "hey, how about doing _just_ the photo uploading and sharing features?"
 
 ## High Expectation
 
-“This is shit!” “We can’t ship this!” If the product stinks, say so, and find ways to improve it. An MVP should always be half-polished, not half-arsed.
+"This is shit!" "We can’t ship this!" If the product stinks, say so, and find ways to improve it. An MVP should always be half-polished, not half-arsed.
 
 The original iPhone was shipped without 3rd party native apps support, or multi-tasking - it wasn’t ideal, but they didn’t effect the core user experience. Now look at [PlayBook](http://en.wikipedia.org/wiki/BlackBerry_PlayBook#Reception_and_sales), it has the features most Android devices have, but the core user experience is so bad that the product never took off. If someone at RIM’s top management had the same obsession on user experience as Steve Job’s, PlayBook would never have shipped in such a bad shape.
 
@@ -81,7 +81,7 @@ The original iPhone was shipped without 3rd party native apps support, or multi-
 
 Are you in this for the money? Or for something else? Wealth is rarely a good motivation for creating great products.
 
-“It can potentially generate massive revenue and profit” is a big red flag to me when someone pitches their projects.
+"It can potentially generate massive revenue and profit" is a big red flag to me when someone pitches their projects.
 
 These are the _key_ attributes I look for. Things like people connections and experience are also important but not essential. What about you? Do you look for any particular attributes in your potential co-founder(s)?
 

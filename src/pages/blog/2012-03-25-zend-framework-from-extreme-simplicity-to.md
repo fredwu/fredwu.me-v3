@@ -32,7 +32,7 @@ Having layers and layers of structures might appeal to certain users (Enterprise
 
 That’s right, Zend Framework was marketed as an extremely simple to use web framework. In fact, we can still [read Andi Gutsmans’ post on this topic](http://andigutmans.blogspot.com.au/2005/10/zend-framework-post-is-too-long-so.html). Let me quote the relevant part (emphasis mine):
 
-> As some know, our ultimate goal for the framework is what we call “ **Extreme Simplicity** ”. Some might have heard me use that term in some of the talks regarding PHP, and I’d like to bring this concept over to the framework. **I believe this is what the PHP spirit is all about** and the idea behind it is that it’s possible to create very simple & easy-to-use languages&frameworks which still remain powerful and flexible.
+> As some know, our ultimate goal for the framework is what we call " **Extreme Simplicity** ". Some might have heard me use that term in some of the talks regarding PHP, and I’d like to bring this concept over to the framework. **I believe this is what the PHP spirit is all about** and the idea behind it is that it’s possible to create very simple & easy-to-use languages&frameworks which still remain powerful and flexible.
 
 Can anyone, including the Zend Framework developers, honestly say that Zend Framework is an extremely easy to use framework?
 

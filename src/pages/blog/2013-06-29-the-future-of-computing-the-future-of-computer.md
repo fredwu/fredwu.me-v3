@@ -51,21 +51,21 @@ Matz: Software has not seen major changes for years.
 
 **Ito:** After interviewing many web and mobile startups, we realised that the number of software engineers working in [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service) and cloud computing have been increasing rapidly.
 
-> **Matz:** Absolutely. And I do believe that “not needing to purchase and own dedicated hardware” is going to be the mainstream. The idea and thought process of “not owning” is not only important for software development, but also important for business development.
+> **Matz:** Absolutely. And I do believe that "not needing to purchase and own dedicated hardware" is going to be the mainstream. The idea and thought process of "not owning" is not only important for software development, but also important for business development.
 
-## “Owning” Becoming a Liability, Not Asset
+## "Owning" Becoming a Liability, Not Asset
 
-> **Matz:** In the past, “owning” was seen as the source of vitality of a corporation - those who own high performance mainframe computers were able to do business transactions in high volume whereas those who do not were not able to compete.
+> **Matz:** In the past, "owning" was seen as the source of vitality of a corporation - those who own high performance mainframe computers were able to do business transactions in high volume whereas those who do not were not able to compete.
 >
-> These days the landscape is changing - those corporations who do not “own” expensive hardware have more competitive edge. Let’s say it takes five years to break even from the expensive investment of servers, during that time those machines are being put in use to realise their full potential and to justify their cost. It may appear to have saved the business cost but it is not, simply because the value of the hardware decreases as each day passes by.
+> These days the landscape is changing - those corporations who do not "own" expensive hardware have more competitive edge. Let’s say it takes five years to break even from the expensive investment of servers, during that time those machines are being put in use to realise their full potential and to justify their cost. It may appear to have saved the business cost but it is not, simply because the value of the hardware decreases as each day passes by.
 >
-> To put simply, we are now entering the era of “owning” being a liability rather than asset. If you had the most advanced hardware, software engineers were able to develop efficiently. On the contrary, if you didn’t, then you might want to get used to the hours-long waiting for the code to compile. \*chuckles\* The rise of cloud computing platforms like [Heroku](http://www.2gocn.com/) is making “owning” a thing of the past.
+> To put simply, we are now entering the era of "owning" being a liability rather than asset. If you had the most advanced hardware, software engineers were able to develop efficiently. On the contrary, if you didn’t, then you might want to get used to the hours-long waiting for the code to compile. \*chuckles\* The rise of cloud computing platforms like [Heroku](http://www.2gocn.com/) is making "owning" a thing of the past.
 >
-> Also, “not owning” has several advantages on the development as well as the commercial front. For instance, it allows many startups to rise. In the past, in order to start a new business you would need capital for purchasing servers and/or renting servers in a data centre. These days, to get started on a platform like Heroku couldn’t be easier, for example on Heroku you could start with just one dyno for free. This new way of developing software significantly reduces costs and risks.
+> Also, "not owning" has several advantages on the development as well as the commercial front. For instance, it allows many startups to rise. In the past, in order to start a new business you would need capital for purchasing servers and/or renting servers in a data centre. These days, to get started on a platform like Heroku couldn’t be easier, for example on Heroku you could start with just one dyno for free. This new way of developing software significantly reduces costs and risks.
 >
-> Years ago I read an essay called [Ramen Profitable](http://www.paulgraham.com/ramenprofitable.html) by [Y Combinator](http://ycombinator.com/)’s founder [Paul Graham](http://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29). “Not owning”’s flexibility and agility contribute a great deal to it. And this trend has now grown beyond just relevant to startups, in fact in the recent years many large corporations have begun adapting this approach too.
+> Years ago I read an essay called [Ramen Profitable](http://www.paulgraham.com/ramenprofitable.html) by [Y Combinator](http://ycombinator.com/)’s founder [Paul Graham](http://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29). "Not owning"’s flexibility and agility contribute a great deal to it. And this trend has now grown beyond just relevant to startups, in fact in the recent years many large corporations have begun adapting this approach too.
 >
-> In the United States, corporations like Disney and Best Buy are indeed utilising Ruby, Rails and Heroku to rapidly grow their internal infrastructure in a cost-effective fashion. What was once considered competitive edges to venture capitalists, like “rapid development” and “development flexibility” are now also possible for these giant corporations.
+> In the United States, corporations like Disney and Best Buy are indeed utilising Ruby, Rails and Heroku to rapidly grow their internal infrastructure in a cost-effective fashion. What was once considered competitive edges to venture capitalists, like "rapid development" and "development flexibility" are now also possible for these giant corporations.
 
 **Ito:** What about the giant corporations in Japan?
 
@@ -79,9 +79,9 @@ Matz: Software has not seen major changes for years.
 
 > **Matz:** The traditional approach of developing software is still the norm. For example, some corporations, even though use Amazon Web Services, still rely on system administrators to handle their infrastructure. It is too common to see a software development team consists of over a dozen people.
 >
-> This in my opinion defeats the purpose and forfeits the benefits of “not owning” servers. There are simply too many of these case studies whereby only on the surface of cloud computing is explored and understood.
+> This in my opinion defeats the purpose and forfeits the benefits of "not owning" servers. There are simply too many of these case studies whereby only on the surface of cloud computing is explored and understood.
 >
-> I have to say I am disappointed by some of the so-called “private clouds” owned by large corporations. The advantage of cloud computing is to utilise multiple computers in the cloud, but those private clouds are essentially their internal data centres. Isn’t that the same as owning a bunch of servers?
+> I have to say I am disappointed by some of the so-called "private clouds" owned by large corporations. The advantage of cloud computing is to utilise multiple computers in the cloud, but those private clouds are essentially their internal data centres. Isn’t that the same as owning a bunch of servers?
 
 ![](/img/posts/old/tumblr_inline_mp4x3ym1v61qz4rgp.jpg)
 
@@ -89,9 +89,9 @@ Matz: Many companies barely scratch the surface of emerging technologies.
 
 **Ito:** Indeed, it is too often to see the real benefits of emerging technologies overlooked or misunderstood. Anything else that makes you concerned about the future?
 
-> **Matz:** Nowadays the speed of development has always been a priority from big development projects in [B2B](http://en.wikipedia.org/wiki/Business-to-business) to small development projects in many startups. [Yahoo! Japan](http://www.yahoo.co.jp/) even coined a term “爆速化” (explosively high speed) to indicate the importance of development speed in the ever more competitive and engaging markets.
+> **Matz:** Nowadays the speed of development has always been a priority from big development projects in [B2B](http://en.wikipedia.org/wiki/Business-to-business) to small development projects in many startups. [Yahoo! Japan](http://www.yahoo.co.jp/) even coined a term "爆速化" (explosively high speed) to indicate the importance of development speed in the ever more competitive and engaging markets.
 >
-> Looking at things this way, those so-called “system integrators” are becoming obsolete. Should they just give up what they do or continue? I don’t know, but I do know that the gap between them and engineers who have the capability and skills to create real value is increasing.
+> Looking at things this way, those so-called "system integrators" are becoming obsolete. Should they just give up what they do or continue? I don’t know, but I do know that the gap between them and engineers who have the capability and skills to create real value is increasing.
 
 ## Career Longevity of Software Engineering
 
@@ -119,7 +119,7 @@ Matz: Unbalanced skill combination leads to a gloomy future.
 
 ## Difference Between Those Who Control Their Destiny to Those Who Don’t
 
-**Ito:** Do you have any advice for those who do not wish to be in a “gloomy future”? What can they do?
+**Ito:** Do you have any advice for those who do not wish to be in a "gloomy future"? What can they do?
 
 > **Matz:** To innovate and to create new things, I suppose.
 >
@@ -127,7 +127,7 @@ Matz: Unbalanced skill combination leads to a gloomy future.
 >
 > Having said that, it is always good to create new things or even invent new programming languages.
 
-**Ito:** What are these “new things”?
+**Ito:** What are these "new things"?
 
 > **Matz:** I see three types of new things.
 >
@@ -153,9 +153,9 @@ Matz: Unbalanced skill combination leads to a gloomy future.
 
 **Ito:** Here is a sharp question: be a follower rather than an inventor is always easier and perhaps makes more money too. What makes you keep inventing?
 
-> **Matz:** My standard answer would be “because writing and running new programs make me happy”. But the real reason is because I don’t like deficiency.
+> **Matz:** My standard answer would be "because writing and running new programs make me happy". But the real reason is because I don’t like deficiency.
 >
-> There are people who have different opinions and thought processes, I would often come up with questions like “why was it done this way” or “this will be too hard to use”.
+> There are people who have different opinions and thought processes, I would often come up with questions like "why was it done this way" or "this will be too hard to use".
 
 ![](/img/posts/old/tumblr_inline_mp4x4bIpWG1qz4rgp.jpg)
 
@@ -175,21 +175,21 @@ Matz dislikes deficiency, so he invented the ruby programming language.
 
 ![](/img/posts/old/tumblr_inline_mp4x4fRpd91qz4rgp.jpg)
 
-Matz talking about developer happiness, wearing his “[Ruby City MATSUE]([https://www.facebook.com/rubycitymatsue](https://www.facebook.com/rubycitymatsue))” polo shirt.
+Matz talking about developer happiness, wearing his "[Ruby City MATSUE]([https://www.facebook.com/rubycitymatsue](https://www.facebook.com/rubycitymatsue))" polo shirt.
 
 > **Matz:** I think I have the right personality for developing software. Only the software industry can tolerate my carefreeness - am I too arrogant for saying that? \*chuckles\*
 >
 > In all honesty, software development is one of the rare careers that could bring positive changes to the society on your own. It’s a wonderful occupation that brings happiness and fulfillment!
 
-**Ito:** Many people would predict their software future based on theories, but Matz you always use “happiness”.
+**Ito:** Many people would predict their software future based on theories, but Matz you always use "happiness".
 
-> **Matz:** That’s right. Because only you can control your own destiny. It doesn’t matter if you were told to do things in a way just becasue “Matz said so” - ultimately, I cannot be responsible for your destiny. You should make your own decisions.
+> **Matz:** That’s right. Because only you can control your own destiny. It doesn’t matter if you were told to do things in a way just becasue "Matz said so" - ultimately, I cannot be responsible for your destiny. You should make your own decisions.
 >
-> I would still say things like “the future might look like this”, but these are just my personal opinions.
+> I would still say things like "the future might look like this", but these are just my personal opinions.
 >
 > And this is the same even for today’s discussion - if someone thinks he does not agree with what Matz has said, he should follow his own decision and the path he chooses.
 
-## Exploring the Future: “You” Are the Only Constant
+## Exploring the Future: "You" Are the Only Constant
 
 **Ito:** Having read _The Future of Computing_, I remember you talked about the inception and development of varies programming languages. But we all know that the IT industry is moving in a rapid pace, it is difficult to rely on history to guide us through to the future. If multi-core and cloud computing are only just the beginning of a paradigm shift, why did you write about the things happened in the past?
 
@@ -201,9 +201,9 @@ Matz: Technologies progress just like a pendulum clock.
 >
 > As more and more new programming languages, techniques and frameworks pop up, software development related technologies are progressing whilst seeking for balance.
 >
-> So, how does “the most balanced from the past” become “the most balanced right now”? Think about how pendulum clock swings and in the past how technologies have emerged - you could then predict roughly what would constitute “the most balanced in the future”.
+> So, how does "the most balanced from the past" become "the most balanced right now"? Think about how pendulum clock swings and in the past how technologies have emerged - you could then predict roughly what would constitute "the most balanced in the future".
 >
-> Use “centralised computing vs distributed computing” as an example, in the past there was usually only one centralised mainframe computer, later on to increase the processing capability commodity server farms were utilised, and now we are moving towards cloud computing.
+> Use "centralised computing vs distributed computing" as an example, in the past there was usually only one centralised mainframe computer, later on to increase the processing capability commodity server farms were utilised, and now we are moving towards cloud computing.
 >
 > There is no point to look at a particular past event. If you wanted to predict a technology in the future, knowing what has contributed to the balance of a past technology’s rise and fall is going to help.
 >
@@ -217,7 +217,7 @@ Matz: Technologies progress just like a pendulum clock.
 >
 > Programming languages invented over fifty years ago are still in use today, and Ruby has been around for twenty years now. This proves that computing is progressing slower than what a lot of people believe.
 >
-> On that note, there are many past cases whereby focuses were put on what was cool and new without understanding why. Compared to those “follower” software developers, the ones who command and understand the principles and theories behind changes and progresses have a much longer career longevity.
+> On that note, there are many past cases whereby focuses were put on what was cool and new without understanding why. Compared to those "follower" software developers, the ones who command and understand the principles and theories behind changes and progresses have a much longer career longevity.
 >
 > If you are a software developer who wants a longer career longevity, please read _The Future of Computing_! \*chuckles\*
 

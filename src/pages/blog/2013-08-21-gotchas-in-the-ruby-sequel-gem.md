@@ -13,7 +13,7 @@ redirect_from:
 ---
 I haven’t really used [Sequel](http://sequel.rubyforge.org/) much therefore I am definitely a newbie. However, after days and nights of frustration, endless debugging and some search-fu during the development of [Datamappify](https://github.com/fredwu/datamappify), I have finally arrived at the conclusion that Sequel is a capable library, as long as you are aware of the gotchas.
 
-### Gotcha 1: Always use “`select`”/“`select_all`”, or your data records will mysteriously have wrong IDs!
+### Gotcha 1: Always use "`select`"/"`select_all`", or your data records will mysteriously have wrong IDs!
 
 In ActiveRecord, joining an associated model couldn’t be simpler:
 
@@ -50,7 +50,7 @@ Post.join(:authors, :id => :author_id).select_all(:posts)
 
 ![](/img/posts/old/tumblr_inline_mrvsa2sBB81qz4rgp.png)
 
-### Gotcha 2: Always call “`all`” at the end of the chain, or the chain will present data in a different format.
+### Gotcha 2: Always call "`all`" at the end of the chain, or the chain will present data in a different format.
 
 In ActiveRecord, all of the below examples return an `ActiveRecord::Relation` collection:
 

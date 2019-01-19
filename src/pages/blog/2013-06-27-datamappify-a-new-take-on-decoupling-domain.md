@@ -100,7 +100,7 @@ We include `Datamappify::Entity` in the `User` class to make it an entity. We se
 
 The `attribute` DSL is from [Virtus](https://github.com/solnic/virtus) - we get attribute type coercion for free, awesome!
 
-`attributes_from` is a DSL provided by Datamappify - it essentially “mounts” all the attributes from another entity, in this case the `Contact` entity, which looks like this:
+`attributes_from` is a DSL provided by Datamappify - it essentially "mounts" all the attributes from another entity, in this case the `Contact` entity, which looks like this:
 
 ```ruby
 class Contact
@@ -115,7 +115,7 @@ class Contact
 end
 ```
 
-All the attributes and validation rules from `Contact` are now “mounted” on `User`. `attributes_from Contact, prefix_with: :work` is equivalent to:
+All the attributes and validation rules from `Contact` are now "mounted" on `User`. `attributes_from Contact, prefix_with: :work` is equivalent to:
 
 ```ruby
 attribute :work_email, String

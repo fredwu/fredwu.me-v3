@@ -13,7 +13,7 @@ redirect_from:
 ---
  **TL;DR - PHP is still a useful tool, but as a PHP developer, have you started playing with other useful tools? Here’s my story.**
 
-Today Jeff Atwood’s new piece “[The PHP Singularity](http://www.codinghorror.com/blog/2012/06/the-php-singularity.html)” and Marco Arment’s “[PHP Addiction](http://www.marco.org/2012/06/29/php-addiction)” have started another round of heated discussion on PHP.
+Today Jeff Atwood’s new piece "[The PHP Singularity](http://www.codinghorror.com/blog/2012/06/the-php-singularity.html)" and Marco Arment’s "[PHP Addiction](http://www.marco.org/2012/06/29/php-addiction)" have started another round of heated discussion on PHP.
 
 As someone who started his career as a PHP developer, I feel like sharing my thoughts from a different perspective.
 
@@ -28,7 +28,7 @@ Compared to most software developers, the **intention** of doing programming for
 
 Was I wrong? According to the market, no. There are many clients who want affordable websites, just like there are many people who want affordable Android phones. On one end you have Android phones that compete with the iPhone and take time to get released, on the other end you have Android phones that use readily available, often less desirable components and are quick to market. Each serves its purpose and fulfils customer demands.
 
-As I kept developing websites and educating myself, I became more and more interested in software development. That’s when I started reading books like “[PHP Objects, Patterns, and Practice](http://www.apress.com/9781590599099/)”. But even then, my knowledge was still extremely limited, and my desire at that time was to **increase my PHP knowledge** and **become a better developer**.
+As I kept developing websites and educating myself, I became more and more interested in software development. That’s when I started reading books like "[PHP Objects, Patterns, and Practice](http://www.apress.com/9781590599099/)". But even then, my knowledge was still extremely limited, and my desire at that time was to **increase my PHP knowledge** and **become a better developer**.
 
 For the first desire I made it happen by reading more books and articles, but for the second desire - I thought I made it happen, but in reality I didn’t because I did not correctly identify my weakness. It wasn’t just about the depth of knowledge, but also the breadth.
 

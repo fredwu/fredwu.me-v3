@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /post/20058808238/agile-is-not-a-sham
 ---
-This blog post titled “[Agile is a Sham](http://williamedwardscoder.tumblr.com/post/20054342100/agile-is-a-sham)” offends me a little bit. The post screams _hey, I am a cowboy programmer_, and it almost implies that if you employ processes then you are stupid.
+This blog post titled "[Agile is a Sham](http://williamedwardscoder.tumblr.com/post/20054342100/agile-is-a-sham)" offends me a little bit. The post screams _hey, I am a cowboy programmer_, and it almost implies that if you employ processes then you are stupid.
 
 In this day and age, I would have thought **finding the right tool for the right job** is common sense. Apparently not.
 

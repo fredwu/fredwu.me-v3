@@ -44,7 +44,7 @@ Also, pair programming is an excellent way for both parties to get a sense of wh
 
 This applies more to hiring remote workers and freelancers. If you are pitching your project to a developer, please at the very least write a sentence or two to explain what your project is.
 
-“Would you have time to have a quick chat?” is simply not good enough - good developers are all very busy and are likely to have many projects or potential projects to work on. Even if the developers have the time to chat to you (without knowing what your project is), it is still better to have the conversation via emails so the developers can keep track of things.
+"Would you have time to have a quick chat?" is simply not good enough - good developers are all very busy and are likely to have many projects or potential projects to work on. Even if the developers have the time to chat to you (without knowing what your project is), it is still better to have the conversation via emails so the developers can keep track of things.
 
 ## Developer Relationship
 

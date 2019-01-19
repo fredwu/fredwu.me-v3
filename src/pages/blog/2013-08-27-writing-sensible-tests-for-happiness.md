@@ -177,7 +177,7 @@ end
 
 ## Do Not Replicate Implementation Details
 
-I am often surprised to see many seasoned developers “enjoy” writing tests that essentially replicate the production code logic without much benefit. See below:
+I am often surprised to see many seasoned developers "enjoy" writing tests that essentially replicate the production code logic without much benefit. See below:
 
 ```ruby
 describe ApprovalStakeholder do
@@ -582,7 +582,7 @@ describe "form dates", ->
     $("input#filled").val().should.equal(value)
 ```
 
-## “Real” UI Tests
+## "Real" UI Tests
 
 Isolated JavaScript tests are super fast and useful. However, there are times when having pure JavaScript tests simply isn’t enough, due to the complicated nature of DOM interaction and template rendering.
 
@@ -604,7 +604,7 @@ Feature: UI
 
 ## Effective Acceptance Tests
 
-Writing acceptance tests - also known to many Rubyists as “[Cucumber](https://github.com/cucumber/cucumber) tests”, is a double-edged sword - it’s extremely useful, but very few developers can write good, maintainable [Gherkin](https://github.com/cucumber/gherkin)-style acceptance tests.
+Writing acceptance tests - also known to many Rubyists as "[Cucumber](https://github.com/cucumber/cucumber) tests", is a double-edged sword - it’s extremely useful, but very few developers can write good, maintainable [Gherkin](https://github.com/cucumber/gherkin)-style acceptance tests.
 
 Here’s an example of a badly written feature spec with too much implementation details and noise:
 

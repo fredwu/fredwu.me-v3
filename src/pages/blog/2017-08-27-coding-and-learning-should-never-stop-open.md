@@ -38,7 +38,7 @@ So I licked the wounds, learnt my mistakes and changed tactics. This time, I sco
 
 I knew Crawler could technically work without any queueing system, or GenStage. So I kept on building Crawler, until I felt productive in writing Elixir again, and touched enough areas and concepts that I knew exactly what I needed from GenStage.
 
-And luckily for me too, GenStage over the past year has matured and more importantly, has better documentation with more code examples. Upon closer investigation of the code examples, I found that their [GenEvent](https://github.com/elixir-lang/gen_stage/blob/v0.12.2/examples/gen_event.exs) and [RateLimiter](https://github.com/elixir-lang/gen_stage/blob/v0.12.2/examples/rate_limiter.exs) examples were almost exactly what I needed. It was an epiphany moment for me after reading and understanding these examples, all of a sudden I “get it”.
+And luckily for me too, GenStage over the past year has matured and more importantly, has better documentation with more code examples. Upon closer investigation of the code examples, I found that their [GenEvent](https://github.com/elixir-lang/gen_stage/blob/v0.12.2/examples/gen_event.exs) and [RateLimiter](https://github.com/elixir-lang/gen_stage/blob/v0.12.2/examples/rate_limiter.exs) examples were almost exactly what I needed. It was an epiphany moment for me after reading and understanding these examples, all of a sudden I "get it".
 
 If you take a look at the source code of [OPQ](https://github.com/fredwu/opq) you’ll notice that the heavy lifting logic was mostly inspired (or even copy-pasted) from those examples.
 
@@ -76,5 +76,5 @@ And so, [a pull request was created](https://github.com/elixir-lang/elixir/pull/
 
 The bulk of Crawler as well as the entirety of OPQ were built in the past month or so. I hope some people will benefit from having these libraries around. And, I hope people also enjoyed me sharing my experience, and perhaps be inspired to start sharing more too.
 
-I will leave you all with a Chinese saying: [滴水石穿](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%BB%B4%E6%B0%B4%E7%A9%BF%E7%9F%B3). The literal translation is “dripping water penetrates the stone”, and what it means is “ **constant perseverance yields success** ”.
+I will leave you all with a Chinese saying: [滴水石穿](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%BB%B4%E6%B0%B4%E7%A9%BF%E7%9F%B3). The literal translation is "dripping water penetrates the stone", and what it means is "**constant perseverance yields success**".
 

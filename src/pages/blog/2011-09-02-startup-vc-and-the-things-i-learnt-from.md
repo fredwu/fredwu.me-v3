@@ -16,7 +16,7 @@ tags:
 redirect_from:
 - /post/9703934823/startup-vc-and-the-things-i-learnt-from
 ---
-A couple of days ago, a blog post titled [“First employee of startup? You are probably getting screwed!”](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/) has made to the Hacker News front page and has [spawned some great discussion and debate](http://news.ycombinator.com/item?id=2949323).
+A couple of days ago, a blog post titled ["First employee of startup? You are probably getting screwed!"](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/) has made to the Hacker News front page and has [spawned some great discussion and debate](http://news.ycombinator.com/item?id=2949323).
 
 Since [I had just been screwed recently](/blog/2011-08-17-open-sourcing-a-200-hour-project-the-story/), I thought it might be a good opportunity for me to share what I’ve learnt.
 

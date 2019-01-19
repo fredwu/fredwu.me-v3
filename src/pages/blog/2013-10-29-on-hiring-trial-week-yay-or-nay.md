@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /post/65426660472/on-hiring-trial-week-yay-or-nay
 ---
-Today a blog post titled “[Trial Week: Our Hiring Secret](http://www.sequoiacap.com/grove/posts/akzj/trial-week-our-hiring-secret)” has made to the Hacker News homepage. I naively [tweeted my dislike](https://twitter.com/fredwu/status/395097315913916416) and now I feel obligated to share my thoughts in a more meaningful and constructive way.
+Today a blog post titled "[Trial Week: Our Hiring Secret](http://www.sequoiacap.com/grove/posts/akzj/trial-week-our-hiring-secret)" has made to the Hacker News homepage. I naively [tweeted my dislike](https://twitter.com/fredwu/status/395097315913916416) and now I feel obligated to share my thoughts in a more meaningful and constructive way.
 
 First of all, congratulations to the Weebly team, as this trial week strategy is clearly working very well for them.
 
@@ -31,7 +31,7 @@ Candidates who are currently employed, with multiple offers from other organisat
 - Shrinks the candidate pool
 - Misses top talents who are unable to make the one-week commitment
 - As a result, the overall quality of the candidate pool drops
-- Paints an image of “not-caring (enough) about the employee’s well being”
+- Paints an image of "not-caring (enough) about the employee’s well being"
 
 Of course, since the trial week is paid for, the employee could always take unpaid leave from their current employer.
 
@@ -41,7 +41,7 @@ Of course, since the trial week is paid for, the employee could always take unpa
 
 ## One Week is a Major Commitment for the Team
 
-Given the trial only lasts a week - we better make it count! That means one or more current developers need to be assigned to take care of the trial developer - pairing and walking through existing systems, etc. This is assuming we are going to act responsibly, and not simply just direct the trial developers to their desks and ask them to “go for it”.
+Given the trial only lasts a week - we better make it count! That means one or more current developers need to be assigned to take care of the trial developer - pairing and walking through existing systems, etc. This is assuming we are going to act responsibly, and not simply just direct the trial developers to their desks and ask them to "go for it".
 
 #### Side Effects
 

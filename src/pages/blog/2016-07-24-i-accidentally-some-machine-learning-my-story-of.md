@@ -76,7 +76,7 @@ You may think having doctests is not a big deal, what I can say is that I am rea
 
 The best way to learn something new is to practice it as you learn it. Instead of diving straight into a complicated system, or to write a `hello world` program, I thought I would dig out a code test and re-implement it in Elixir.
 
-The code test is the rather infamous [Toy Robot](https://github.com/search?q=toy+robot) test. As an interviewer, I must have reviewed a few hundreds of these tests, most of which in Ruby. I know what a good OO solution looks like, so naturally I was looking forward to “rethink” the problem and have a crack at it using Elixir.
+The code test is the rather infamous [Toy Robot](https://github.com/search?q=toy+robot) test. As an interviewer, I must have reviewed a few hundreds of these tests, most of which in Ruby. I know what a good OO solution looks like, so naturally I was looking forward to "rethink" the problem and have a crack at it using Elixir.
 
 Here is the result: [https://github.com/fredwu/toy-robot-elixir](https://github.com/fredwu/toy-robot-elixir)
 
@@ -160,7 +160,7 @@ end
 
 The `changset/2` function can be used when a user needs to be updated, whereas the `creation_changeset/2` is to be used only when a user is first created. Sure, you can achieve similar result in Rails by using custom validators, but the fact that this practice is enforced by the library and the framework, is encouraging.
 
-One other thing that I’ve seen in larger Rails apps, is the leaky abstraction of view-level logic, they typically sit in controllers, helpers (which are globally available) or worse, models. Phoenix in this case follows what [Hanami](http://hanamirb.org/), [Trailblazer](http://trailblazer.to/) and many other frameworks do: it introduces a “view model” layer.
+One other thing that I’ve seen in larger Rails apps, is the leaky abstraction of view-level logic, they typically sit in controllers, helpers (which are globally available) or worse, models. Phoenix in this case follows what [Hanami](http://hanamirb.org/), [Trailblazer](http://trailblazer.to/) and many other frameworks do: it introduces a "view model" layer.
 
 Something along the lines of:
 
@@ -255,7 +255,7 @@ SimpleBayes.init(stem: false)
 # ]
 ```
 
-Oops, the probabilities of the sentence “buy apple” of being `apple` and `banana` are the same, that’s not good, as we know “buying” and “buy” should mean the same thing. This is where stemming comes in handy. Let’s enable stemming and run the example again:
+Oops, the probabilities of the sentence "buy apple" of being `apple` and `banana` are the same, that’s not good, as we know "buying" and "buy" should mean the same thing. This is where stemming comes in handy. Let’s enable stemming and run the example again:
 
 ```elixir
 SimpleBayes.init(stem: true)
@@ -268,7 +268,7 @@ SimpleBayes.init(stem: true)
 # ]
 ```
 
-Stemming in this case correctly identified “buy” and “buying” as the same thing (they both have the stemmed root of “buy”).
+Stemming in this case correctly identified "buy" and "buying" as the same thing (they both have the stemmed root of "buy").
 
 How did I include stemming in Simple Bayes you wonder? Let me introduce you to [Stemmer](https://github.com/fredwu/stemmer) - as of writing this is the only Porter2 stemmer available in Elixir. :)
 

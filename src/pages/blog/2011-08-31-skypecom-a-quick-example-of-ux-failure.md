@@ -15,10 +15,10 @@ Today I noticed that I don’t have Skype installed, so naturally, I went to Sky
 
 ![](/img/posts/old/tumblr_lqsaqvMauJ1qalr27.png)
 
-The problem? No “Download” action button above the fold, or below the fold for that matter. That is, quite frankly, shocking.
+The problem? No "Download" action button above the fold, or below the fold for that matter. That is, quite frankly, shocking.
 
 
-So I hovered on the “Get Skype” drop down menu and clicked on the one for Mac. On the new page I was presented with, I clicked on the “Download Skype” button. And then …
+So I hovered on the "Get Skype" drop down menu and clicked on the one for Mac. On the new page I was presented with, I clicked on the "Download Skype" button. And then …
 
 ![](/img/posts/old/tumblr_lqsatrI5XY1qalr27.png)
 
