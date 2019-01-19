@@ -26,7 +26,7 @@ Until now.
 
 ## Crawler, on Steroids
 
-![](https://cdn.rawgit.com/fredwu/crawler/26a0860fe2885eccfa657a4752b915410bc06466/architecture.svg)
+![](/img/posts/old/crawler-architecture.png)
 
 I’d realised that the way I was trying to incorporate GenStage into my project was never going to work. Not because of GenStage itself, but because of **the way I approached learning it**. At the time I was so eager to make use of GenStage, and coming off the back of my good streak of releasing the aforementioned machine learning libraries, I thought I could take shortcuts and things would all work out perfectly.
 
