@@ -34,7 +34,7 @@ export default ({ url, title }) => (
     <TwitterShareButton url={url} title={`${title} by @fredwu`}>
       <TwitterIcon size={size} />
     </TwitterShareButton>
-    <FacebookShareButton url={url} title={title} quote={title}>
+    <FacebookShareButton url={url} quote={title}>
       <FacebookIcon size={size} />
     </FacebookShareButton>
     <LinkedinShareButton url={url} title={title}>
