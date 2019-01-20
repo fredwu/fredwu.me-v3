@@ -10,6 +10,8 @@ tags:
 - sharing
 redirect_from:
 - /post/164668682508/coding-and-learning-should-never-stop-open
+- /post/164668682508/
+- /post/164668682508
 ---
 I’ve had a productive coding weekend, and so I decided to share my experience. Now, many developers choose to treat their career as a series of 9-5 jobs, but if you’re reading this, I assume you’re like the rest of us who love continuous learning and self improvement.
 

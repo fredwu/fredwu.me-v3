@@ -10,6 +10,8 @@ tags:
 - ruby
 redirect_from:
 - /post/61571741083/protip-faster-ruby-tests-with-databasecleaner-and
+- /post/61571741083/
+- /post/61571741083
 ---
 _Please also see [this blog post on tweaking your ruby GC settings](/blog/2013-09-06-protip-ruby-devs-please-tweak-your-gc-settings/)._
 

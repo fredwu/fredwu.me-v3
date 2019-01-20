@@ -8,6 +8,8 @@ tags:
 - design
 redirect_from:
 - /post/421741438/blog-redesigned
+- /post/421741438/
+- /post/421741438
 ---
 After spending the weekend coming up with the design, one night of chopping and slicing and half a night of [Tumblr themeing](http://www.tumblr.com/docs/en/custom_themes), I have finally done it!
 

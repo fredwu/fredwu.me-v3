@@ -14,6 +14,8 @@ tags:
 - Haml
 redirect_from:
 - /post/434076573/rails-tip-making-i18n-forms-the-easy-way
+- /post/434076573/
+- /post/434076573
 ---
 Web applications normally have many forms. Building forms is always a mind-boggling task because it involves repetition and chaos.
 

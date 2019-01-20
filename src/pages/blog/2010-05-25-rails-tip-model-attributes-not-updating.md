@@ -11,6 +11,8 @@ tags:
 - migration
 redirect_from:
 - /post/630987126/rails-tip-model-attributes-not-updating
+- /post/630987126/
+- /post/630987126
 ---
 So you were wondering why some of your model attributes weren’t updating properly? Well, it is perhaps because the db schema has changed but the changed schema has not been passed onto ActiveRecord, as is often the case in DB migration.
 

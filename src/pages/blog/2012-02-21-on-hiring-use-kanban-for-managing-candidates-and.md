@@ -10,6 +10,8 @@ tags:
 - job
 redirect_from:
 - /post/17993679423/on-hiring-use-kanban-for-managing-candidates-and
+- /post/17993679423/
+- /post/17993679423
 ---
 Hiring is usually a long and difficult process - in order to streamline and simply it, I use [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)) to manage the whole process. I believe, hiring should be as lean and agile as our development process.
 

@@ -15,6 +15,8 @@ tags:
 - job
 redirect_from:
 - /post/9703934823/startup-vc-and-the-things-i-learnt-from
+- /post/9703934823/
+- /post/9703934823
 ---
 A couple of days ago, a blog post titled ["First employee of startup? You are probably getting screwed!"](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/) has made to the Hacker News front page and has [spawned some great discussion and debate](http://news.ycombinator.com/item?id=2949323).
 

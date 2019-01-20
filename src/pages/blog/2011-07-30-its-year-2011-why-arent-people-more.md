@@ -12,6 +12,8 @@ tags:
 - ignorance
 redirect_from:
 - /post/8254974029/its-year-2011-why-arent-people-more
+- /post/8254974029/
+- /post/8254974029
 ---
 _On a cold windy day, we are comfortably sitting in our chairs beside the fireplace, holding a mug full of hot tasty latte. We are slowly and calmly sipping on our coffee, imagining that things could be far worse outside of our safe and warm house._
 

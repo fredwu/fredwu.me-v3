@@ -14,6 +14,8 @@ tags:
 - stemmer
 redirect_from:
 - /post/147855522498/i-accidentally-some-machine-learning-my-story-of
+- /post/147855522498/
+- /post/147855522498
 ---
 About a month ago I was in-between jobs - I had two weeks to rest up, recharge and get ready for my new job. So I thought,&nbsp;I should use those two weeks to learn something new.
 

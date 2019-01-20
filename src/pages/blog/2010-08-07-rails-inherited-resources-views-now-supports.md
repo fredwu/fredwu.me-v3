@@ -10,6 +10,8 @@ tags:
 - compatibility
 redirect_from:
 - /post/916705478/rails-inherited-resources-views-now-supports
+- /post/916705478/
+- /post/916705478
 ---
 I have just [pushed a commit](http://github.com/fredwu/inherited_resources_views/commit/5fd1f928a0ee1f31f413794b8569505ac072f814) that added Rails 2.x compatibility to [Inherited Resources Views](http://github.com/fredwu/inherited_resources_views). Please give it a spin! :-)
 

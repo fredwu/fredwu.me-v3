@@ -9,6 +9,8 @@ tags:
 - logo
 redirect_from:
 - /post/2420977306/sneak-peak-of-the-redesign-of-slim-langcom
+- /post/2420977306/
+- /post/2420977306
 ---
  ![](/img/posts/old/tumblr_lduoh5xH981qb7ot5o1_r1_1280.png)
 

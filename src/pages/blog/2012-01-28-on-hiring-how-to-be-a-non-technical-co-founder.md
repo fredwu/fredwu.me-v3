@@ -10,6 +10,8 @@ tags:
 - tips
 redirect_from:
 - /post/16623516071/on-hiring-how-to-be-a-non-technical-co-founder
+- /post/16623516071/
+- /post/16623516071
 ---
 _If you are looking at hiring developers, [check out my article on this subject](/blog/2012-01-26-on-hiring-how-not-to-annoy-developers/)._
 

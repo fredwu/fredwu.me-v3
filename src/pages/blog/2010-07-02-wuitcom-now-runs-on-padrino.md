@@ -12,6 +12,8 @@ tags:
 - latest_release
 redirect_from:
 - /post/759061247/wuitcom-now-runs-on-padrino
+- /post/759061247/
+- /post/759061247
 ---
 A few days ago I discovered [Padrino](http://www.padrinorb.com/), an excellent ruby framework built on top of [Sinatra](http://www.sinatrarb.com/). What can be a better than experimenting with it? Build an actual website with it!
 

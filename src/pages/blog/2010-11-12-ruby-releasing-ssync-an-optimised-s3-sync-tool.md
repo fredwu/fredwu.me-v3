@@ -16,6 +16,8 @@ tags:
 - tool
 redirect_from:
 - /post/1550844695/ruby-releasing-ssync-an-optimised-s3-sync-tool
+- /post/1550844695/
+- /post/1550844695
 ---
 At [Envato](http://envato.com/) we have a few dozen sites residing on multiple servers. The data on a portion of the servers need to be regularly backed up to [Amazon S3](http://aws.amazon.com/s3/).
 

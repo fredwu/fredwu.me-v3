@@ -10,6 +10,8 @@ tags:
 - YAML
 redirect_from:
 - /post/632640092/rails-use-appconfig-for-your-application
+- /post/632640092/
+- /post/632640092
 ---
 A simple [Google search](http://www.google.com/search?q=rails+app_config) will reveal that there are a number of different App\_Config plugins for Rails. After comparing them side by side, I have decided to use [the one by Christopher J. Bottaro](http://github.com/cjbottaro/app_config).
 

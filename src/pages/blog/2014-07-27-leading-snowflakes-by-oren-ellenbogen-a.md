@@ -12,6 +12,8 @@ tags:
 - ebook
 redirect_from:
 - /post/92926561298/leading-snowflakes-by-oren-ellenbogen-a
+- /post/92926561298/
+- /post/92926561298
 ---
 Two weeks ago as I was reading [Software Lead Weekly](http://softwareleadweekly.com/) which I had subscribed to for a while, I discovered its curator, [Oren Ellenbogen](http://lnbogen.com/)’s book - [Leading Snowflakes](http://leadingsnowflakes.com/).
 

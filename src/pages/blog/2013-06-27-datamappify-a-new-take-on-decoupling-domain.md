@@ -13,6 +13,8 @@ tags:
 - decoupling
 redirect_from:
 - /post/54009567748/datamappify-a-new-take-on-decoupling-domain
+- /post/54009567748/
+- /post/54009567748
 ---
 _This post is about the ruby library we are building - [Datamappify](https://github.com/fredwu/datamappify), please go check it out._
 

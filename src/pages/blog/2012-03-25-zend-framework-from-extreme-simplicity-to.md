@@ -12,6 +12,8 @@ tags:
 - java
 redirect_from:
 - /post/19888742513/zend-framework-from-extreme-simplicity-to
+- /post/19888742513/
+- /post/19888742513
 ---
 Today [an interesting blog post on Zend Framework](http://www.alexhudson.com/2012/03/24/a-fond-farewell-to-zend-framework/) has made to the Hacker News front page. I have to agree with the author - Zend Framework is an over-engineered piece of software.
 

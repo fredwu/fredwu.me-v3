@@ -10,6 +10,8 @@ tags:
 - zeiss
 redirect_from:
 - /post/82284517623/photos-from-jsconf-au-2014
+- /post/82284517623/
+- /post/82284517623
 ---
 [JSConf AU](http://au.jsconf.com/) has been fun - great talks and great venue! It was also a wonderful opportunity for me to test out my new camera kit: SONY A7r + Sony Sonnar T\* FE 35mm f/2.8 ZA + Voigtlander Color Skopar 20mm f/3.5 SL-II with Novoflex SONY E-Mount to Nikon adapter.
 

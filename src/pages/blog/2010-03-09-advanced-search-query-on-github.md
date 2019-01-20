@@ -10,6 +10,8 @@ tags:
 - tips
 redirect_from:
 - /post/436521412/advanced-search-query-on-github
+- /post/436521412/
+- /post/436521412
 ---
 Did you know, you can perform advanced search queries on [GitHub](http://github.com/)?
 

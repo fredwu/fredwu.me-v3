@@ -7,6 +7,8 @@ tags:
 - error
 redirect_from:
 - /post/419537933/dear-photoshop-please-dont-just-dont
+- /post/419537933/
+- /post/419537933
 ---
  ![](/img/posts/old/tumblr_kylh9blF3k1qb7ot5o1_500.png)
 

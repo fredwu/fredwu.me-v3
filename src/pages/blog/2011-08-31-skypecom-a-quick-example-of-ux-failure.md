@@ -10,6 +10,8 @@ tags:
 - action button
 redirect_from:
 - /post/9621390590/skypecom-a-quick-example-of-ux-failure
+- /post/9621390590/
+- /post/9621390590
 ---
 Today I noticed that I don’t have Skype installed, so naturally, I went to Skype.com. Then I was presented with their homepage:
 

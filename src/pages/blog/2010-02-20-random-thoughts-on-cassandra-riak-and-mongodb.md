@@ -11,6 +11,8 @@ tags:
 - NoSQL
 redirect_from:
 - /post/400348678/random-thoughts-on-cassandra-riak-and-mongodb
+- /post/400348678/
+- /post/400348678
 ---
 A few days ago I was conducting some preliminary tests and benchmarks on a couple of [NoSQL](http://en.wikipedia.org/wiki/NoSQL) solutions such as [Redis](http://code.google.com/p/redis/), [Cassandra](http://incubator.apache.org/cassandra/) and [Riak](http://riak.basho.com/).
 

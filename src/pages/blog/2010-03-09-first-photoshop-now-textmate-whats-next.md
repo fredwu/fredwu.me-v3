@@ -8,6 +8,8 @@ tags:
 - crash
 redirect_from:
 - /post/436632475/first-photoshop-now-textmate-whats-next
+- /post/436632475/
+- /post/436632475
 ---
  ![](/img/posts/old/tumblr_kz0ggnkBa21qb7ot5o1_540.png)
 

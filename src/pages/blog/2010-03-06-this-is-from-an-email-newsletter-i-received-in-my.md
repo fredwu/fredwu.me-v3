@@ -10,6 +10,8 @@ tags:
 - Gmail
 redirect_from:
 - /post/429073067/this-is-from-an-email-newsletter-i-received-in-my
+- /post/429073067/
+- /post/429073067
 ---
  ![](/img/posts/old/tumblr_kyu21vVFBR1qb7ot5o1_400.png)
 

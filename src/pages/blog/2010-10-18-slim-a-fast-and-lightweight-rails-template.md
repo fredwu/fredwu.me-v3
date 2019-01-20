@@ -10,6 +10,8 @@ tags:
 - engine
 redirect_from:
 - /post/1338899831/slim-a-fast-and-lightweight-rails-template
+- /post/1338899831/
+- /post/1338899831
 ---
 For the past few weeks I have started contributing to a small project - [Slim](http://github.com/stonean/slim).
 

@@ -10,6 +10,8 @@ tags:
 - osx-gcc-installer
 redirect_from:
 - /post/30171591426/brewing-nodejs-on-os-x-without-xcode
+- /post/30171591426/
+- /post/30171591426
 ---
 If you are like me who has no need for a full Xcode installation just to get the command line tools, chances are you are using one of these: Apple’s [Command Line Tools](https://developer.apple.com/downloads/) or the [osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer).
 

@@ -7,6 +7,8 @@ tags:
 - crash
 redirect_from:
 - /post/446676542/i-hate-it-when-this-happens-and-i-have-a-dozen-of
+- /post/446676542/
+- /post/446676542
 ---
  ![](/img/posts/old/tumblr_kz941b1bHr1qb7ot5o1_500.png)
 

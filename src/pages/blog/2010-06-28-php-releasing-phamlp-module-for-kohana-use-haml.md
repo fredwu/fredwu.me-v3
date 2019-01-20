@@ -10,6 +10,8 @@ tags:
 - sass
 redirect_from:
 - /post/742116307/php-releasing-phamlp-module-for-kohana-use-haml
+- /post/742116307/
+- /post/742116307
 ---
 [Haml](http://haml-lang.com/) and [Sass](http://sass-lang.com/) are two extremely useful template engines. They are very popular amongst the Ruby and Rails community.
 

@@ -9,6 +9,8 @@ tags:
 - job
 redirect_from:
 - /post/3912935571/moving-on-from-envato-whats-next
+- /post/3912935571/
+- /post/3912935571
 ---
 Today is my last day at [Envato](http://envato.com/). I have been working here for a year and half and it has been, without a doubt the most fulfilling experience I have ever had in my professional career.
 

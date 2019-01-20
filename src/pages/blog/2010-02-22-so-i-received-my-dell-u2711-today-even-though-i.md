@@ -9,6 +9,8 @@ tags:
 - DisplayPort
 redirect_from:
 - /post/404506293/so-i-received-my-dell-u2711-today-even-though-i
+- /post/404506293/
+- /post/404506293
 ---
  ![](/img/posts/old/tumblr_ky8fstZk5Y1qb7ot5o1_1280.jpg)
 

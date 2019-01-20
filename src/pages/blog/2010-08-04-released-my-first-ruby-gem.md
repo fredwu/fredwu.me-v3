@@ -9,6 +9,8 @@ tags:
 - gemcutter
 redirect_from:
 - /post/902597907/released-my-first-ruby-gem
+- /post/902597907/
+- /post/902597907
 ---
  ![](/img/posts/old/tumblr_l6mleacQXa1qb7ot5o1_1280.png)
 

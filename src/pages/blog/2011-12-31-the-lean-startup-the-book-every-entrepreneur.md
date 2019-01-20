@@ -11,6 +11,8 @@ tags:
 - recommendation
 redirect_from:
 - /post/15074546787/the-lean-startup-the-book-every-entrepreneur
+- /post/15074546787/
+- /post/15074546787
 ---
 Holidays period is the perfect time to gear up and learn a thing or two from the masters - and as it turned out, reading Eric Ries’ [The Lean Startup](http://theleanstartup.com/) is one of the most exciting and joyful things I’ve done during the holidays.
 

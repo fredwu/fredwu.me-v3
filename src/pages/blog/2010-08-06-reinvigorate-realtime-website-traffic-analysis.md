@@ -11,6 +11,8 @@ tags:
 - heatmap
 redirect_from:
 - /post/910037109/reinvigorate-realtime-website-traffic-analysis
+- /post/910037109/
+- /post/910037109
 ---
 It isn’t the [first](http://www.woopra.com/) [time](http://chartbeat.com/) realtime website traffic analysis has been introduced. [Reinvigorate](http://reinvigorate.net/) is one of the services that provides realtime traffic tracking and analysis.
 

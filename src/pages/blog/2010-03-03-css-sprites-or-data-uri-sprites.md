@@ -11,6 +11,8 @@ tags:
 - Smush.it
 redirect_from:
 - /post/423506403/css-sprites-or-data-uri-sprites
+- /post/423506403/
+- /post/423506403
 ---
 When making the new design of this blog, I inevitably come to the dilemma of whether to use [traditional CSS sprites](http://css-tricks.com/css-sprites/) (i.e. to use background image positions to locate the images) or to use [Data URI sprites](http://en.wikipedia.org/wiki/Data_URI_scheme) (i.e. to use Data URI / [MHTML](http://en.wikipedia.org/wiki/MHTML) to replace the actual image files).
 

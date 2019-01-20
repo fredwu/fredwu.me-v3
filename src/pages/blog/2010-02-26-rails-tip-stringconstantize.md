@@ -10,6 +10,8 @@ tags:
 - eval
 redirect_from:
 - /post/412810181/rails-tip-stringconstantize
+- /post/412810181/
+- /post/412810181
 ---
 So we want to dynamically instantiate an object (i.e. convert a string to a class constant).
 

@@ -13,6 +13,8 @@ tags:
 - interval
 redirect_from:
 - /post/472366667/rails-run-queued-tasks-using-delayedjob-now
+- /post/472366667/
+- /post/472366667
 ---
 If you don’t already know, ’[delayed\_job](http://github.com/collectiveidea/delayed_job)’ is a database based asynchronously priority queue system extracted from [Shopify](http://www.shopify.com/).
 

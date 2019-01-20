@@ -13,6 +13,8 @@ tags:
 - schema
 redirect_from:
 - /post/844973463/rails-introducing-datamappify-activerecord
+- /post/844973463/
+- /post/844973463
 ---
 ## Introduction
 

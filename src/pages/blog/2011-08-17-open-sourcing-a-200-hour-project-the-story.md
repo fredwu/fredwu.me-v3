@@ -18,6 +18,8 @@ tags:
 - contract
 redirect_from:
 - /post/9036730472/open-sourcing-a-200-hour-project-the-story
+- /post/9036730472/
+- /post/9036730472
 ---
 _Update: I have blogged about [the things I have learnt](/blog/2011-09-02-startup-vc-and-the-things-i-learnt-from/) from this._
 

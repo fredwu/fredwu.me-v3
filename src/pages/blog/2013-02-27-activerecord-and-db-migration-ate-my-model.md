@@ -9,6 +9,8 @@ tags:
 - migration
 redirect_from:
 - /post/44098506856/activerecord-and-db-migration-ate-my-model
+- /post/44098506856/
+- /post/44098506856
 ---
 *Update: You might also want to check out [`reset_column_information`](/blog/2010-05-25-rails-tip-model-attributes-not-updating/).*
 

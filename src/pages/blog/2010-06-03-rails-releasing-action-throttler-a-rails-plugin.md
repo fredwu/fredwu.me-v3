@@ -12,6 +12,8 @@ tags:
 - action_throttler
 redirect_from:
 - /post/658651700/rails-releasing-action-throttler-a-rails-plugin
+- /post/658651700/
+- /post/658651700
 ---
 Sometimes we would want to throttle certain application actions. For instance, a user should only be allowed to send x amount of emails to other members of the site in order to reduce the spam risk.
 

@@ -18,6 +18,8 @@ tags:
 - Opera
 redirect_from:
 - /post/413162220/browser-javascript-and-dom-benchmark-tests
+- /post/413162220/
+- /post/413162220
 ---
 Today Opera has released its [latest and greatest version of Opera browser 10.5 Beta for Mac](http://www.opera.com/browser/next/). It features speed enhancement as well as a unified Cocoa interface. Just how speedy is it exactly? Let’s test it out against other major browsers.
 

@@ -14,6 +14,8 @@ tags:
 - api taster
 redirect_from:
 - /post/59395419899/writing-sensible-tests-for-happiness
+- /post/59395419899/
+- /post/59395419899
 ---
 Writing good, sensible tests is hard. As a Rubyist, I feel lucky to be part of a community that embraces tests. Though at the same time, I have come across too many projects that suffered from not having sensible tests.
 

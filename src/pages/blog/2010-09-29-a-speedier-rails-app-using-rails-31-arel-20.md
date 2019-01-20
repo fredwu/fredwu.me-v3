@@ -8,6 +8,8 @@ tags:
 - arel
 redirect_from:
 - /post/1207334598/a-speedier-rails-app-using-rails-31-arel-20
+- /post/1207334598/
+- /post/1207334598
 ---
 **Before (Rails 3.0.1pre stable branch + Arel 1.0.1):**
 

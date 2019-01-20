@@ -13,6 +13,8 @@ tags:
 - ruby
 redirect_from:
 - /post/447443106/use-the-textmate-command-to-quickly-install
+- /post/447443106/
+- /post/447443106
 ---
 Initially developed by Yehuda Katz, the [Textmate gem](http://yehudakatz.com/2008/05/19/textmate-gem/) is an extremely handy tool for installing and managing your Textmate bundle files.
 

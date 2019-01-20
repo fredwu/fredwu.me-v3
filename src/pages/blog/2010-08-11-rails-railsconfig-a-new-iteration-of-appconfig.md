@@ -10,6 +10,8 @@ tags:
 - config
 redirect_from:
 - /post/934714722/rails-railsconfig-a-new-iteration-of-appconfig
+- /post/934714722/
+- /post/934714722
 ---
 If you haven’t already been using [AppConfig](http://github.com/fredwu/app_config) in your Rails project, well, you should!
 

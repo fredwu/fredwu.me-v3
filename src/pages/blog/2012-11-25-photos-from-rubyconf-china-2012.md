@@ -11,6 +11,8 @@ tags:
 - gallery
 redirect_from:
 - /post/36432141846/photos-from-rubyconf-china-2012
+- /post/36432141846/
+- /post/36432141846
 ---
 I had such a wonderful time at [RubyConf China](http://rubyconfchina.org/)! So here are some photos from the conference. :)
 

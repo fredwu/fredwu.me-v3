@@ -7,6 +7,8 @@ tags:
 - Tumblr
 redirect_from:
 - /post/400301275/hello-tumblr
+- /post/400301275/
+- /post/400301275
 ---
 I’m hoping to post more regularly by having this Tumblr blog. :)
 

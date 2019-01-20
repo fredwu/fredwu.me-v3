@@ -9,6 +9,8 @@ tags:
 - tips
 redirect_from:
 - /post/16510145575/on-hiring-how-not-to-annoy-developers
+- /post/16510145575/
+- /post/16510145575
 ---
 _If you are looking at finding technical co-founders, [check out my article on this subject](/2012-01-28-on-hiring-how-to-be-a-non-technical-co-founder/)._
 

@@ -11,6 +11,8 @@ tags:
 - infinite scroll
 redirect_from:
 - /post/710659813/jquery-endless-scroll-updated-now-works-with
+- /post/710659813/
+- /post/710659813
 ---
 [jQuery Endless Scroll](http://github.com/fredwu/jquery-endless-scroll) has now been updated to work with any DOM elements, not just `$(document)`.
 

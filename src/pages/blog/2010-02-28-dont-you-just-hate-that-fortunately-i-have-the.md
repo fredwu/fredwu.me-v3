@@ -8,6 +8,8 @@ tags:
 - crash
 redirect_from:
 - /post/416856948/dont-you-just-hate-that-fortunately-i-have-the
+- /post/416856948/
+- /post/416856948
 ---
  ![](/img/posts/old/tumblr_kyjcc4mYEC1qb7ot5o1_540.png)
 

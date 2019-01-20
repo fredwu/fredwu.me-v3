@@ -13,6 +13,8 @@ tags:
 - The World of Code
 redirect_from:
 - /post/36493181321/an-interview-with-yukihiro-matz-matsumoto
+- /post/36493181321/
+- /post/36493181321
 ---
 _Update: Please check out [this new interview with Matz](/blog/2013-06-29-the-future-of-computing-the-future-of-computer/), done by Engineer Type._
 

@@ -11,6 +11,8 @@ tags:
 - spec
 redirect_from:
 - /post/507351482/rails-tip-run-specs-faster
+- /post/507351482/
+- /post/507351482
 ---
 If you are using `rake spec` to run the specs. Try using `spec spec` instead! It avoids doing some preliminary tasks and therefore is quicker to execute.
 

@@ -8,15 +8,14 @@ tags:
 - Passenger
 - ruby
 - rails
-- 1.8.6
-- 1.8.7
-- 1.9.1
 - Apache
 - Nginx
 - performance
 - New Relic
 redirect_from:
 - /post/637072473/a-whole-world-of-difference-phusion-passenger
+- /post/637072473/
+- /post/637072473
 ---
 Yesterday we have launched the new design of [Creattica](http://creattica.com/). It runs well during the testing and staging phase, unfortunately the server quickly became overloaded and unresponsive after the relaunch was [made public](http://psd.tutsplus.com/articles/contests/win-1000-by-submitting-work-to-creattica/).
 

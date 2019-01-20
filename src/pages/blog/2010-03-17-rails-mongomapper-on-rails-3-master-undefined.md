@@ -10,6 +10,8 @@ tags:
 - patch
 redirect_from:
 - /post/454107244/rails-mongomapper-on-rails-3-master-undefined
+- /post/454107244/
+- /post/454107244
 ---
 Rails 3 has recently [renamed `key` method to `to_key`](http://github.com/rails/rails/commit/f81c6bc0404ba2a03eed0ec6c08bbac45661305f), which consequently rendered [MongoMapper](http://github.com/jnunemaker/mongomapper) unusable.
 

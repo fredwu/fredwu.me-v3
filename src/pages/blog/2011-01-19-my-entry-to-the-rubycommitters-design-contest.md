@@ -9,6 +9,8 @@ tags:
 - ruby
 redirect_from:
 - /post/2816823595/my-entry-to-the-rubycommitters-design-contest
+- /post/2816823595/
+- /post/2816823595
 ---
  ![](/img/posts/old/tumblr_lf8ozrtSef1qb7ot5o1_1280.jpg)
 

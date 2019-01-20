@@ -11,6 +11,8 @@ tags:
 - Beyond Coding
 redirect_from:
 - /post/427910936/okay-this-is-actually-an-archive-post-from-my
+- /post/427910936/
+- /post/427910936
 ---
  ![](/img/posts/old/tumblr_kystjbqzQq1qb7ot5o1_1280.jpg)
 

@@ -8,6 +8,8 @@ tags:
 - sync
 redirect_from:
 - /post/63794595864/protip-unsync-the-index-folder-of-sublime-text
+- /post/63794595864/
+- /post/63794595864
 ---
 If you’re like me who uses both Sublime Text 3 and Dropbox, chances are you have your Sublime Text 3 folder synced in Dropbox.
 

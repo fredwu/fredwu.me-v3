@@ -7,6 +7,8 @@ tags:
 - Smush.it
 redirect_from:
 - /post/423954586/punypng-smushit
+- /post/423954586/
+- /post/423954586
 ---
 In case you don’t already know, both [PunyPNG](http://www.gracepointafterfive.com/punypng/) and [Smush.it](http://developer.yahoo.com/yslow/smushit/) are lossless image compression services.
 

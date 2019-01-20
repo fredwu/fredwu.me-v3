@@ -13,6 +13,8 @@ tags:
 - ruby
 redirect_from:
 - /post/532810569/rails-tip-datamapper-timestamps-bug-and
+- /post/532810569/
+- /post/532810569
 ---
 It has been [confirmed](http://datamapper.lighthouseapp.com/projects/20609/tickets/1245-inconsistent-timestamps-behaviour-when-hard-setting-the-aton-values) by [DataMapper](http://datamapper.org/)’s core developer [Martin Gamsjaeger (snusnu)](http://github.com/snusnu) that it is a bug.
 

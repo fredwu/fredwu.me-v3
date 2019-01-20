@@ -8,6 +8,8 @@ tags:
 - ping
 redirect_from:
 - /post/408533708/dear-vodafone-3g-please-fix-your-network-kthx
+- /post/408533708/
+- /post/408533708
 ---
  ![](/img/posts/old/tumblr_kybzubpPFC1qb7ot5o1_400.png)
 

@@ -7,6 +7,8 @@ tags:
 - doctest
 redirect_from:
 - /post/163901408538/elixir-and-doctest-help-writing-better-programs
+- /post/163901408538/
+- /post/163901408538
 ---
 ## Preface
 

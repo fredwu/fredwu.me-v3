@@ -14,6 +14,8 @@ tags:
 - path
 redirect_from:
 - /post/1130675143/bundle-command-not-found-or-could-not-find
+- /post/1130675143/
+- /post/1130675143
 ---
 Don’t you just hate it when you get the following errors during a [Capistrano](http://www.capify.org/) deployment?
 

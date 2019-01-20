@@ -10,6 +10,8 @@ tags:
 - software development
 redirect_from:
 - /post/26156441619/php-devs-have-you-started-playing-with-more-toys
+- /post/26156441619/
+- /post/26156441619
 ---
  **TL;DR - PHP is still a useful tool, but as a PHP developer, have you started playing with other useful tools? Here’s my story.**
 

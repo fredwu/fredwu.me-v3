@@ -8,6 +8,8 @@ tags:
 - mongomapper
 redirect_from:
 - /post/7300017337/comic-because-activerecord-is-slow
+- /post/7300017337/
+- /post/7300017337
 ---
  ![](/img/posts/old/tumblr_lnwv8teVP01qb7ot5o1_r3_1280.png)
 

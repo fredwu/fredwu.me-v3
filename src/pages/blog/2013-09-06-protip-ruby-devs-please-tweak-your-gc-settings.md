@@ -9,6 +9,8 @@ tags:
 - tests
 redirect_from:
 - /post/60441991350/protip-ruby-devs-please-tweak-your-gc-settings
+- /post/60441991350/
+- /post/60441991350
 ---
 It was made apparent to me that many ruby devs either aren’t aware or couldn’t be bothered to tweak their ruby garbage collector settings.
 

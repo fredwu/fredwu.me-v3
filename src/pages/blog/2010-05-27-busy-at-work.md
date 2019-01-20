@@ -8,6 +8,8 @@ tags:
 - busy
 redirect_from:
 - /post/636752796/busy-at-work
+- /post/636752796/
+- /post/636752796
 ---
  ![](/img/posts/old/tumblr_l32djaiUtl1qb7ot5o1_1280.png)
 

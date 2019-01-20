@@ -8,6 +8,8 @@ tags:
 - poke
 redirect_from:
 - /post/909916081/poke-me-on-github-d
+- /post/909916081/
+- /post/909916081
 ---
 I have just added a [Github](http://github.com/) ribbon to my blog (look at the top left corner!). Please feel free to [poke me](http://github.com/fredwu)! :D
 

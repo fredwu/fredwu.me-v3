@@ -8,6 +8,8 @@ tags:
 - tweets
 redirect_from:
 - /post/861485139/whatdatingislike-what-dating-is-like
+- /post/861485139/
+- /post/861485139
 ---
 [Dating girls is like calling a callback function without knowing the accepted arguments. Random exceptions would throw right in your face.](http://twitter.com/fredwu/status/19571058314)
 

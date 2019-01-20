@@ -14,6 +14,8 @@ tags:
 - N+1
 redirect_from:
 - /post/551873525/rails-tip-datamapper-mm-association-bug-and
+- /post/551873525/
+- /post/551873525
 ---
 It was confirmed that DataMapper [is incorrectly setting table names in SQL JOINs](http://datamapper.lighthouseapp.com/projects/20609/tickets/1249).
 

@@ -9,6 +9,8 @@ tags:
 - diff
 redirect_from:
 - /post/35625566267/simplecov-test-coverage-for-changed-files-only
+- /post/35625566267/
+- /post/35625566267
 ---
 The other day a colleague asked whether or not it’s possible to have [SimpleCov](https://github.com/colszowka/simplecov) return a group that only contains uncommitted changes.
 

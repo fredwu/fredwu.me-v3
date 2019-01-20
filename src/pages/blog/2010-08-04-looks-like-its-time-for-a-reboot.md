@@ -9,6 +9,8 @@ tags:
 - fail
 redirect_from:
 - /post/902048122/looks-like-its-time-for-a-reboot
+- /post/902048122/
+- /post/902048122
 ---
  ![](/img/posts/old/tumblr_l6mb9eIQfL1qb7ot5o1_500.png)
 

@@ -7,6 +7,8 @@ tags:
 - rant
 redirect_from:
 - /post/454137741/i-need-textmate-2-or-a-3d-monitorprojector-to
+- /post/454137741/
+- /post/454137741
 ---
  ![](/img/posts/old/tumblr_kzf65svXDW1qb7ot5o1_1280.png)
 

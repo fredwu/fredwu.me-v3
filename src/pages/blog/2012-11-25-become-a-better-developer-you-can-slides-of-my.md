@@ -11,6 +11,8 @@ tags:
 - rubyconf china
 redirect_from:
 - /post/36489590128/become-a-better-developer-you-can-slides-of-my
+- /post/36489590128/
+- /post/36489590128
 ---
 Contrary to what the title of the talk suggests, I am by no means a superstar developer myself. Though I would like to think that I am extremely passionate about what I do, therefore I love to share my thoughts and tips on web development and software engineering.
 

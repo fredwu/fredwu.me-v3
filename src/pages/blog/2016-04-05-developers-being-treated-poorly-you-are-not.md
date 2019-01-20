@@ -5,6 +5,8 @@ date: '2016-04-05T21:40:45+10:00'
 tags: []
 redirect_from:
 - /post/142289849178/developers-being-treated-poorly-you-are-not
+- /post/142289849178/
+- /post/142289849178
 ---
 UPDATE: Reading Hacker News [comments](https://news.ycombinator.com/item?id=11429590) it is apparent to me that I have not explained my position and intention very well. Please allow me to clarify - I do not resent the people involved in these moments, if anything, I thought those encounters were good learning experience for me, as I know there are things I would do and say differently so others around me won’t feel I’ve been too harsh on them. I did not share these moments to complain, but to raise the awareness that kinder communication styles might be better received.
 

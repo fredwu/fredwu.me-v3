@@ -11,6 +11,8 @@ tags:
 - Endless Scroll
 redirect_from:
 - /post/30990819723/skinny-coffee-machine-a-simple-state-machine
+- /post/30990819723/
+- /post/30990819723
 ---
 After a few nights of working on the 2.0 rewrite of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll), I am now releasing one of the tools I built for the project: **[Skinny Coffee Machine](https://github.com/fredwu/skinny-coffee-machine)**.
 

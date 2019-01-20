@@ -10,6 +10,8 @@ tags:
 - protip
 redirect_from:
 - /post/58910814911/gotchas-in-the-ruby-sequel-gem
+- /post/58910814911/
+- /post/58910814911
 ---
 I haven’t really used [Sequel](http://sequel.rubyforge.org/) much therefore I am definitely a newbie. However, after days and nights of frustration, endless debugging and some search-fu during the development of [Datamappify](https://github.com/fredwu/datamappify), I have finally arrived at the conclusion that Sequel is a capable library, as long as you are aware of the gotchas.
 

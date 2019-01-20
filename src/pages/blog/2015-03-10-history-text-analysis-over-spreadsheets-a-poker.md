@@ -12,6 +12,8 @@ tags:
 - leankit
 redirect_from:
 - /post/113196748165/history-text-analysis-over-spreadsheets-a-poker
+- /post/113196748165/
+- /post/113196748165
 ---
 Ever since I started transitioning into a team leadership role over three years ago, I had been trying to find ways to [eliminate waste caused by repetitive work](https://github.com/fredwu/security_guard) and to [keep myself on the fringe of pushing the technical boundaries](/blog/2013-06-27-datamappify-a-new-take-on-decoupling-domain/).
 

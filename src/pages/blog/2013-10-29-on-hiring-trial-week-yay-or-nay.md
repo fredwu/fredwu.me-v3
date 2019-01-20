@@ -9,6 +9,8 @@ tags:
 - commitment
 redirect_from:
 - /post/65426660472/on-hiring-trial-week-yay-or-nay
+- /post/65426660472/
+- /post/65426660472
 ---
 Today a blog post titled "[Trial Week: Our Hiring Secret](http://www.sequoiacap.com/grove/posts/akzj/trial-week-our-hiring-secret)" has made to the Hacker News homepage. I naively [tweeted my dislike](https://twitter.com/fredwu/status/395097315913916416) and now I feel obligated to share my thoughts in a more meaningful and constructive way.
 

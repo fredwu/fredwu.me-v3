@@ -11,6 +11,8 @@ tags:
 - template
 redirect_from:
 - /post/2334862541/ruby-haml2slim-convert-your-haml-templates-to
+- /post/2334862541/
+- /post/2334862541
 ---
 So, you are using Slim, right? If not, go [check it out](https://github.com/stonean/slim) because it’s awesome. ;)
 

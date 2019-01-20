@@ -11,6 +11,8 @@ tags:
 - buffer
 redirect_from:
 - /post/25496030861/rails-tip-render-views-outside-of-controllers-or
+- /post/25496030861/
+- /post/25496030861
 ---
 Ever wondered how you could utilise the `render` method outside the context of Rails controllers and views? If you wonder why anyone would do that. Well, imagine you are building an awesome form builder, you need to output and/or store rendered partials in the buffer. How do you do that?
 

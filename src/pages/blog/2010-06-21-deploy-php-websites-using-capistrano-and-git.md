@@ -12,6 +12,8 @@ tags:
 - github
 redirect_from:
 - /post/720733257/deploy-php-websites-using-capistrano-and-git
+- /post/720733257/
+- /post/720733257
 ---
 The [Rails](http://rubyonrails.org/) deployment flow is really smooth thanks to the powerful (and easy to use) [Capistrano](http://www.capify.org/).
 

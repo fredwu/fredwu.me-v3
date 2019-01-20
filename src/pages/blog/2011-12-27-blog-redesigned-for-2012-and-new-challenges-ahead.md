@@ -11,6 +11,8 @@ tags:
 - SitePoint
 redirect_from:
 - /post/14818525265/blog-redesigned-for-2012-and-new-challenges-ahead
+- /post/14818525265/
+- /post/14818525265
 ---
 After four days of sketching, designing and cutting up HTML/CSS, the new design (as you are seeing now) is finally live!
 

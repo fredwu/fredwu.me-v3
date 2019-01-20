@@ -15,6 +15,8 @@ tags:
 - The Future of Computing
 redirect_from:
 - /post/54175219257/the-future-of-computing-the-future-of-computer
+- /post/54175219257/
+- /post/54175219257
 ---
 A while ago I [translated an interview with Matz](/blog/2012-11-25-an-interview-with-yukihiro-matz-matsumoto/) done by a Chinese book publisher. The interview and the translation were well received, so this time I am translating another interview with Matz, done by Ito, the editor-in-chief from Japanese website [Engineer Type](http://engineer.typemag.jp/article/matz). Since I don’t read Japanese, the translation is based on [Turing Book’s Chinese translation](http://www.ituring.com.cn/article/45484).
 

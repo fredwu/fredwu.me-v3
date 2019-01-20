@@ -7,6 +7,8 @@ tags:
 - trademark
 redirect_from:
 - /post/1018936632/wuit-trademarked-in-australia-now-the
+- /post/1018936632/
+- /post/1018936632
 ---
  ![](/img/posts/old/tumblr_l7szu5WSQ51qb7ot5o1_1280.jpg)
 

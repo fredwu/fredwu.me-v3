@@ -12,6 +12,8 @@ tags:
 - string
 redirect_from:
 - /post/554746690/jquery-tip-traverseparse-html-string
+- /post/554746690/
+- /post/554746690
 ---
 When you are getting an HTML string from an external source (e.g. from an AJAX get result) and you want to rip out a certain part of the HTML source, you need to make sure that the ‘certain part’ is not at the top level of the HTML source.
 

@@ -10,6 +10,8 @@ tags:
 - rubyconf china
 redirect_from:
 - /post/37107236222/become-a-better-developer-you-can-video-of-my
+- /post/37107236222/
+- /post/37107236222
 ---
 It was the first time I presented in front of 400+ people so I was really nervous - I blasted through the talk in under 30 minutes even though I was supposed to talk for 45 minutes, oh well. ;)
 

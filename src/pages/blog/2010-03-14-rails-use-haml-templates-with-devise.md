@@ -9,6 +9,8 @@ tags:
 - ERb
 redirect_from:
 - /post/445463159/rails-use-haml-templates-with-devise
+- /post/445463159/
+- /post/445463159
 ---
 If you are a Rails developers, chances are you have heard of, or are using either [Devise](http://github.com/plataformatec/devise) or [HAML](http://haml-lang.com/) in your projects.
 

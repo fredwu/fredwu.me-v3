@@ -13,6 +13,8 @@ tags:
 - ssl
 redirect_from:
 - /post/28834446907/fix-openssl-error-on-mountain-lion-and-rvm
+- /post/28834446907/
+- /post/28834446907
 ---
 Don’t you just hate it when you have a fresh intall of Mountain Lion, RVM and some rubies - then all of a sudden you hit this `OpenSSL::SSL::SSLError` error message:
 
