@@ -12,6 +12,10 @@ import SocialShare from '../components/SocialShare'
 import Content, { HTMLContent } from '../components/Content'
 
 const PostInner = styled.div`
+  img {
+    border: 8px solid #eee;
+  }
+
   table {
     border-spacing: 0;
     margin-bottom: 1.5rem;

@@ -23,7 +23,6 @@ const Share = styled.div`
 
     &:hover {
       filter: contrast(200%);
-      cursor: pointer;
     }
   }
 `

@@ -22,6 +22,7 @@ const DateTagList = styled.div`
       display: inline;
 
       &:not(:last-child):after {
+        color: #ccc;
         content: ", ";
       }
     }
