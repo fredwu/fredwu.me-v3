@@ -103,6 +103,12 @@ module.exports = {
         cookieDomain: 'fredwu.me',
       },
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', disallow: '/admin' }]
+      }
+    },
     'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',
     'gatsby-plugin-sitemap',
