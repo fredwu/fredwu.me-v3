@@ -43,6 +43,7 @@ export default class BlogPosts extends React.Component {
                   title={post.frontmatter.title}
                   date={post.frontmatter.date}
                   tags={post.frontmatter.tags}
+                  readingTime={post.fields.readingTime.text}
                 />
 
                 <p className="excerpt">{post.excerpt}</p>
@@ -88,6 +89,9 @@ export const blogPostsQuery = graphql`
           id
           fields {
             slug
+            readingTime {
+              text
+            }
           }
           frontmatter {
             title

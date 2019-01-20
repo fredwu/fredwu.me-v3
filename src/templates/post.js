@@ -61,6 +61,7 @@ export const PostTemplate = ({
   date,
   title,
   url,
+  readingTime,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -84,6 +85,7 @@ export const PostTemplate = ({
             title={title}
             date={date}
             tags={tags}
+            readingTime={readingTime}
           />
           <hr />
 
@@ -111,6 +113,7 @@ PostTemplate.propTypes = {
   title: PropTypes.string,
   slug: PropTypes.string,
   url: PropTypes.string,
+  readingTime: PropTypes.string,
   helmet: PropTypes.object,
 }
 
@@ -137,6 +140,7 @@ const Post = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         url={`${site.siteMetadata.siteUrl}${post.fields.slug}`}
+        readingTime={post.fields.readingTime.text}
       />
     </Layout>
   )
@@ -163,6 +167,9 @@ export const pageQuery = graphql`
       }
       fields {
         slug
+        readingTime {
+          text
+        }
       }
     }
     site {

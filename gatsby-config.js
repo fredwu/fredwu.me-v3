@@ -75,6 +75,7 @@ module.exports = {
               noInlineHighlight: true,
             },
           },
+          'gatsby-remark-reading-time',
         ],
       },
     },

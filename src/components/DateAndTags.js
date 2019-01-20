@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
+import { kebabCase, startCase } from 'lodash'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 import { CommentCount } from 'disqus-react'
@@ -29,7 +29,7 @@ const DateTagList = styled.div`
   }
 `
 
-const DateAndTags = ({ id, title, date, tags }) => {
+const DateAndTags = ({ id, title, date, tags, readingTime }) => {
   const disqusShortname = 'ifred'
   const disqusConfig = {
     identifier: id,
@@ -39,6 +39,9 @@ const DateAndTags = ({ id, title, date, tags }) => {
   return (
     <DateTagList>
       <small className="note">{date}</small>
+      <span className="divider">|</span>
+
+      <small className="note">{startCase(readingTime)}</small>
       <span className="divider">|</span>
 
       <CommentCount shortname={disqusShortname} config={disqusConfig}>
@@ -62,7 +65,10 @@ const DateAndTags = ({ id, title, date, tags }) => {
 }
 
 DateAndTags.propTypes = {
+  id: PropTypes.string,
+  title: PropTypes.string,
   date: PropTypes.string,
+  readingTime: PropTypes.string,
   tags: PropTypes.array,
 }
 
