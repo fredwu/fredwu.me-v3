@@ -156,6 +156,8 @@ Suffice to say, I am very satisfied with this revamp experience - Sketch, Gatsby
 
 It only took me around 50 hours to get to 99%, and a few hours more to add in things like [Disqus](https://github.com/disqus/disqus-react) and [social sharing](https://github.com/nygardk/react-share).
 
+Oh, and for those who are curious, the source code of this blog is [available on GitHub here](https://github.com/fredwu/fredwu.me-v3).
+
 Let me just say:
 
 > The last time I fell in love with JavaScript was when [JQuery](https://jquery.com/) first came to the scene many moons ago. Ever since then I dread working on the JS stack mostly because I've been spoiled by the Ruby and Elixir ecosystems. It's nice to fall in love JavaScript again after so many years of simply "getting by".
