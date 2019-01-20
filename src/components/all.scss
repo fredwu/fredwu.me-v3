@@ -46,13 +46,9 @@ code[class*="language-"] {
   }
 
   blockquote {
-    padding: 2.5rem;
+    padding: 1rem 2.5rem;
     border-left: none;
-    background: url('../img/quotes.svg') top 20px left no-repeat;
-
-    &:not(:last-child) {
-      padding-bottom: 1rem;
-    }
+    background: url('../img/quotes.svg') top left no-repeat;
 
     p {
       font-size: 1.5rem;

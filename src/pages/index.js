@@ -16,6 +16,7 @@ export default class extends React.Component {
       <Layout>
         <HomeContainer className="container">
           <div className="column content">
+            <br />
             <Quote>
               Hi, I’m Fred Wu.<br /><br />
               Located in Melbourne, Australia, I am a software developer and leader with
