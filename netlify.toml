@@ -14,3 +14,8 @@
   to = "https://fredwu.me/:splat"
   status = 301
   force = true
+[[redirects]]
+  from = "https://fredwu.netlify.com/*"
+  to = "https://fredwu.me/:splat"
+  status = 301
+  force = true
