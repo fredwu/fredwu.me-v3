@@ -119,6 +119,8 @@ export default class extends React.Component {
                 <Link className="navbar-item" activeClassName="active" to="/manager-readme">Manager Readme</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
                 <Link className="navbar-item" activeClassName="active" to="/talks">Talks</Link>
+                <span className="navbar-item is-hidden-mobile">|</span>
+                <Link className="navbar-item" activeClassName="active" to="/photos">Photography</Link>
               </div>
             </nav>
           </div>
