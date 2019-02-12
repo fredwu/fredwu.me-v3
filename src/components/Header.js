@@ -68,7 +68,7 @@ const NavBar = styled.div`
     display: block;
     text-indent: -9999px;
     width: 50px;
-    background: url(${find}) top right no-repeat;
+    background: url(${find}) center center no-repeat;
     background-size: 50px;
     opacity: 0.5;
 
