@@ -6,6 +6,7 @@ import Social from './Social'
 
 import hero from '../img/hero.png'
 import background from '../img/background.png'
+import find from '../img/find.png'
 
 const height = 260
 const padding = 20
@@ -62,6 +63,19 @@ const HeaderStrip = styled.div`
 const NavBar = styled.div`
   background: #eee;
   margin-bottom: 0;
+
+  #search a {
+    display: block;
+    text-indent: -9999px;
+    width: 50px;
+    background: url(${find}) top right no-repeat;
+    background-size: 50px;
+    opacity: 0.5;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
 
   .navbar {
     &.is-transparent {
@@ -121,6 +135,13 @@ export default class extends React.Component {
                 <Link className="navbar-item" activeClassName="active" to="/talks">Talks</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
                 <Link className="navbar-item" activeClassName="active" to="/photos">Photography</Link>
+                <div className="is-hidden-tablet">
+                  <span className="navbar-item is-hidden-mobile">|</span>
+                  <a className="navbar-item" href="https://www.google.com/search?q=site%3Afredwu.me">Search</a>
+                </div>
+              </div>
+              <div id="search" className="navbar-end is-hidden-mobile">
+                <a className="navbar-item" href="https://www.google.com/search?q=site%3Afredwu.me">Search</a>
               </div>
             </nav>
           </div>
