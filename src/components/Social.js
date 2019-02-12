@@ -26,7 +26,7 @@ const Social = styled.ul`
     height: ${dimension}px;
     background-repeat: no-repeat;
     background-size: contain;
-    opacity: 0.8;
+    opacity: 0.6;
     text-indent: -9999px;
 
     &:hover {
