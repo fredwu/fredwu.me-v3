@@ -3,6 +3,7 @@ import styled from 'styled-components'
 
 import Layout from '../components/Layout'
 import Quote from '../components/Quote'
+import { Link } from 'gatsby';
 
 const HomeContainer = styled.div`
   .column {
@@ -32,21 +33,23 @@ export default class extends React.Component {
             </p>
             <p>
               After being a "webmaster" for a few years, I began my career in web development
-              and design. I graduated with Bachelor of Information Technology and Systems from <a href="https://www.monash.edu/">Monash University</a>.
+              and design. I graduated with Bachelor of Information Technology and Systems
+              from <a href="https://www.monash.edu/">Monash University</a> in 2008.
             </p>
             <p>
-              I am currently the Head of Engineering at <a href="https://ourxplor.com/" title="Xplor">Xplor</a> -
+              I am currently the Head of Engineering at <a href="https://ourxplor.com/">Xplor</a> -
               we are relentlessly making education great. Before Xplor, I worked at companies
               such as <a href="https://envato.com/">Envato</a>
               , <a href="https://sitepoint.com/">SitePoint</a>
-              , <a href="https://locomote.com/">Locomote</a> and <a href="https://realestate.com.au/">REA Group</a>.
+              , <a href="https://www.locomote.com/">Locomote</a> and <a href="https://realestate.com.au/">REA Group</a>.
             </p>
             <p>
-              I am a passionate open source developer who has made contributions to dozens of
-              open source projects, including Ruby on Rails.
+              I am a passionate open source developer who has made contributions
+              to <a href="https://github.com/fredwu/">dozens of open source projects</a>,
+              including <a href="https://contributors.rubyonrails.org/contributors/fred-wu/commits">Ruby on Rails</a>.
             </p>
             <p>
-              My leadership style is people focused. I truely believe in building a champion
+              My <Link to="/manager-readme">leadership style</Link> is people focused. I truely believe in building a champion
               team, and to have the team to work collaboratively to achieve great outcome. I
               see myself as a server as opposed to a manager, of a team. I take unconditional,
               genuine care of the team to build rapport and trust.
