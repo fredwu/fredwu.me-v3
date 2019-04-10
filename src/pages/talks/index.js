@@ -12,6 +12,28 @@ export default class extends React.Component {
         <div className="container">
           <Section className="section content">
             <h3 className="title is-size-4">
+              Leadership Master Class: Adaptable Human - Taking the Company and Your Career to the Next Level
+            </h3>
+            <p>
+              <a href="https://www.youtube.com/watch?v=txm4l1DAWQY">Recording</a>
+              <span className="divider">|</span>
+              <a href="https://docs.google.com/presentation/d/1dLiasgNzrGHzArFAmo_1Z0xY7L3CgFCB19-Il3HGD2o/edit?usp=sharing">Slides</a>
+              <span className="divider">|</span>
+              <small className="note">Apr 2019, Xplor</small>
+            </p>
+            <p>
+              In this Leadership Master Class session, I'll be talking about the adaptability
+              of an organisation and an individual, and how things could affect an organisation
+              as well as one's career.
+            </p>
+            <p>
+              I'll cover concepts that are fundamental but easy to overlook, as well as
+              interesting concepts that I personally observed/invented over my decade-long
+              career.
+            </p>
+            <hr />
+
+            <h3 className="title is-size-4">
               Git Gud - Beyond Simply Commit &amp; Push
             </h3>
             <p>
