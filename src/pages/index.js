@@ -49,7 +49,7 @@ export default class extends React.Component {
               including <a href="https://contributors.rubyonrails.org/contributors/fred-wu/commits">Ruby on Rails</a>.
             </p>
             <p>
-              My <Link to="/manager-readme">leadership style</Link> is people focused. I truely believe in building a champion
+              My <Link to="/manager-readme">leadership style</Link> is people focused. I truly believe in building a champion
               team, and to have the team to work collaboratively to achieve great outcome. I
               see myself as a server as opposed to a manager, of a team. I take unconditional,
               genuine care of the team to build rapport and trust.

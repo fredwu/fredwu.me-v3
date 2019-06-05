@@ -80,7 +80,7 @@ Every now and then I find myself extracting a piece of logic to a private functi
 
 ## Closing
 
-I wanted to write this article for a while now - as I truely love and appreciate Elixir’s asthetics and features. Many developers might find functional programming as a barrier, but I can assure you that with Elixir’s tooling and ecosystem, and of course doctest (_wink_), building software feels like a breeze.
+I wanted to write this article for a while now - as I truly love and appreciate Elixir’s asthetics and features. Many developers might find functional programming as a barrier, but I can assure you that with Elixir’s tooling and ecosystem, and of course doctest (_wink_), building software feels like a breeze.
 
 Last time when I was this happy building software was when I first discovered ruby. If you haven’t given Elixir a try yet, I encourage you to do so sooner rather than later, it will not only give you a functional programming perspective, but will also help you write better code in other languages.
 
