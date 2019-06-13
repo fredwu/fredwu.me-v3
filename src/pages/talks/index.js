@@ -12,6 +12,23 @@ export default class extends React.Component {
         <div className="container">
           <Section className="section content">
             <h3 className="title is-size-4">
+              Lightning Talk: GatsbyJS + Netlify
+            </h3>
+            <p>
+              <a href="https://www.youtube.com/watch?v=1Z2vDZtTMrU">Recording</a>
+              <span className="divider">|</span>
+              <a href="https://docs.google.com/presentation/d/1BH1vG_Ik0dvO8PGrJJMGX46nN7QoEGH7lIOJ_Jor3Sw/edit?usp=sharing">Slides</a>
+              <span className="divider">|</span>
+              <small className="note">Jun 2019, Xplor</small>
+            </p>
+            <p>
+              In this lightning talk, I will talk about my experience revamping my blog using
+              GatsbyJS and Netlify, and why it turned me from a JavaScript hater to a JavaScript
+              lover again.
+            </p>
+            <hr />
+
+            <h3 className="title is-size-4">
               Leadership Master Class: Adaptable Human - Taking the Company and Your Career to the Next Level
             </h3>
             <p>
