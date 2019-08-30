@@ -67,6 +67,12 @@ export default class extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/Cj9D3a4orZ36aXce6">
+                  <img alt="2019-08 Shanghai &amp; Suzhou" src="https://lh3.googleusercontent.com/h8SqGEfzCysoHd11zCikMAO5PZ6F8czpOAyQoekNE_Bxq0JCCcE-t_mXfjnikmkiAm2vV0DZm8cwMbvM0Sgoa1nAXuzHq41K80l3dEtG5892oWI6UXt67RPwulrs34pGYNLRrgjlnxFjdBIT2rQcOX_5rl19fGTbrL-W9zmOmO2f_i9snaUsDErMxUd8ctwlcT3dzPWx2uExg_kclYh60kZ-am_aoCdXArfvQVIJPcvvcYGon8iX3-2OIukEiceoKQjeHMZLHslPZz8duQvN5G9HYlgxkgCjecQ9auQ87SbXQtosIgEWLhT40AGWC1OBzRU1TxpPI6gha28IXW2Nyi6pMe96KoctWDMnYXXmnR8pE-BLqMPmH3X4mLVCWiMPRJMi0-ZTR2DYbwej1skN3wHlZX9rs-DKMAhh3G4G02CLT8_7XWdIo5hqeiPFhHKJi4UWBdK70oxn76_5uN2B_ge-feHRLNdP0FAmDtMfUldDM7acIn-bKBcVK3YYa0iK3-AABK5v7ZspHhQ8Cek4GU6OrxLGi_Ar7lMUO5mPjAnsP1IsPwbkJfIonVIDpn9JVrz5IeClTdX2iwq94Am8ilQwUXiBQozegB39_FrXErnb1aghZzZW-k8zhttON0iBifKgCi582Y0RaPNWHvOC2Y69MjPrkATEDgEEk_C3jbEaVwvQvx8kDeKv=s500-p-k-no" />
+                  <h2>2019-08 Shanghai &amp; Suzhou</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/LWeZVt2xk4tocK8A6">
                   <img alt="2019-06 LaunchVic Scale Up Careers Fair (Mobile)" src="https://lh3.googleusercontent.com/HjRLQ2XCQVxov8uz0YWSsV264X-WXuaijBzz5Z8F12QQS-vFY3xxiAYdSFRR01Zkuq-TtiQcWF1rk4ub6IrPiFhFHJiAJobcfkzQ1RUSejkILqhG4xPKtv-63nc2Cml05dtJAfxzILQByLz5znTDo2HlgRnvwSw3bvr5MmRQa_T7IaRuZWTZxMU2GtKgRHQYNH_BIj-I_xuf8H-B__h7rRx9gn5gzqFGXNbHRZg7fQPzn7vydtKQ7FgK4Q3qp6pAjdr1UwWa1HlBBqp75SU89hIGDrHB2_XHUBzT0Cers9x2fRhsvHWCyGvTQv1Ai_ppZM0A8BVYn4Km2He4ugjRWVVPI_f9Easc1QWj2RZV0Yi3ni8sLHuL5d8qz5h2pYat9CcaSVm-BGgWXwfPECv-ivA4lg-IXpIExL-BgAvGvhxgphl2hGSNm1_mWz2GPTdjeFSLUwXx--I9zz3Oy7gtGaYJ-8vm3TZr_s-X-hs9yZerPAOXTR9CkNuZJLmKK7i-OuYiqGZYD6Pc42GxbRaZNodsAn77gdjCtu5K33aUZESEchQoAE6Y2VPnWjcCErMMYZhw5J4aRSKbqe8YDTy62v91m0SyYxb1f7_Kur1VR8nvSrc8GTsJ9zvXYvqrHcv6AuvgiCONq4-MeA9i-ysq7w5zct1oeFqj=s500-p-k-no" />
                   <h2>2019-06 LaunchVic Scale Up Careers Fair (Mobile)</h2>
