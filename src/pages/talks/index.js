@@ -12,6 +12,22 @@ export default class extends React.Component {
         <div className="container">
           <Section className="section content">
             <h3 className="title is-size-4">
+              Adaptable Human - Taking the Company and Your Career to the Next Level @ RubyConf China 2019
+            </h3>
+            <p>
+              <a href="https://www.youtube.com/watch?v=MBczdO7RgNo">Recording</a>
+              <span className="divider">|</span>
+              <a href="https://docs.google.com/presentation/d/1lyP1WTAD2nQq22nOX2cIlzo3dGGq6MCZwpMqQcVqiVQ/edit?usp=sharing">Slides</a>
+              <span className="divider">|</span>
+              <small className="note">Aug 2019, RubyConf China</small>
+            </p>
+            <p>
+              I travelled to RubyConf China again to deliver this talk - this is effectively the same talk
+              I gave a few months ago internally at Xplor, which is also posted below.
+            </p>
+            <hr />
+
+            <h3 className="title is-size-4">
               Lightning Talk: GatsbyJS + Netlify
             </h3>
             <p>
