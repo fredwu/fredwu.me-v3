@@ -81,6 +81,33 @@ module.exports = {
     },
     {
       resolve: 'gatsby-plugin-feed',
+      options: {
+        feeds: [
+          {
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            match: "^/blog/",
+          },
+        ],
+      },
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',
