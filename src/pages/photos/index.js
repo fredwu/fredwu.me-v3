@@ -67,6 +67,12 @@ export default class extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/zwBE7qUYSGEUAwB49">
+                  <img alt="2019-10 Xplor Halloween" src="https://lh3.googleusercontent.com/Ro4i3tB60KSZiXkHP2HZPhuwUYxOK_EwTkDRvNLQ5YRnEFNeQA48DbMJcWpst53SXbO0N8U0lf0Rlkz-YEbL-6p7cq98cNnShtT5mxeJdSsuYLzeIjn1tPBmcugZg3SI04_ZGuVsp71cO2ROTYczicXHYA3CjulkbSHvZkNsn8OoRL_G9FZhR-FkzLhpWPCeQcuajx7uSNij9o-d2YI8FUL7rJN9qjfW0A8SlqwTt_1TwvceXP_vpqzThD--f1ZNATw3NK6a2ieYl4tM-DGVQ8-srtFmFBzFECo7wNA-b3w5kmX1LVE7P62ZiiT2Bpb0Pm1waIYhRGu7ZEsfkpjI3yKLwVZ0bPz74C6D-55c4TloY24qHxil3NepLSidqvVE46HFCF2Gb-0unWXfdIVXd9Yc96wBEadfWz3HbZibHX8rGIHCxKMulCul-oBCTlG-vpd80l-qh-S6TgYXTESw67yrWHKEsAzkH0R1pihxzuDEDTSRuu-2Sl26Qo9jjLUqXAsVKGSRIIDCEu6c0KX6zAmdl9eIBCz-y8zds-MRJ5mFx4D0KMUbJSvHxbE3YoscnWcbJcDm_sDtT7JAxUdmib396l7f6TBEq-FjEddXyl39qcBx0qcchYsjEk8KZ8_ugK9XLI_FO1LXotbA2uuMYlE4qC6qTgWT7BRAueOsci-LtEGVTWq4AaEA=s500-p-k-no" />
+                  <h2>2019-10 Xplor Halloween</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/64dCjfRwNPZU12Rj8">
                   <img alt="2019-10 Xplor Space Jam" src="https://lh3.googleusercontent.com/Y42JaIz3Sh9GaebmAFvBnAehyHDMWx0JDme7o1_IC8Bn8lg5A0eqRQn2R2joo35ycyOR-ma5hJyVd_iZ7Fzl4OuRd7ClRdeqBBv0EG98VlTR6h71Gdqt2MNF4G-ZW-1WQ1VJVdpkp-SxmGrfPQeBlEExBkkFj-kDS88_MakimSqKq6qf3MNTiHmEjvGCbYlhmYA4gwu3ZuPcq2jLNajnWF_pAJ6EW1pr-E5kLCWbQtnrTK182uXUcdw5vIel_U5EgHDXaXb-vsvdJkVK8ykhZEVjv-vzaEiVwoYc5cgp4Ll-lRFapcfieqIDykbO3wDZQWghk1bNlRXdw3OpM8LcPj7URZ9bFrSon_ZiHT81uQzGhiyxB6ciorN3-kBQdJu6VO9eGIKfwPp-pMj_WHv7rdYWEVk4vc255UsdWvDafPDaqlfRCNSBbmgUi0onaRVvNke3enyO5QX5ZNgi8LXhw91jyIXbWZG1hExS7rrkFEbiZn3C2IsbWFsF7NnS9XZlLHXjz43N64eo3M-SuZ-RG6rD2hMI3b-E_LDrlKyd8xRpYSYoKeInQAhaZ3O6B9DWsp3A-WuFnuK3O5KPI99yf6xVfUfcdx_r-h_s0QF457H2vOuu-0s9fS0XcTlQUgqMH5XvM0MefVSduAZtcwnmAMCLuZhS7SIUuhipqBfMMYxbCOYpuY4TKB3J=s500-p-k-no" />
                   <h2>2019-10 Xplor Space Jam</h2>
