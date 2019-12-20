@@ -67,6 +67,12 @@ export default class extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/6rjxK4sn11f1Bbxb8">
+                  <img alt="2019-12 Xplor Xmas Lunch" src="https://lh3.googleusercontent.com/rHRSoPq-3PxJRJcB3xMC7YOpyGV__B7t9CdWTGs4fPlt53xrwQu8pOHIaxc0wbxH7Ld1DXEwAgjpfn914nENz5Qtvpey7k4iyHY5EA9So3bjwteD8jBNY-GD1Y0n-zjBcOuWmvtIY0yJODjDc0CoAyrsnu1cktwocr_u4tj6ggG7JPFYZ9tPUf6S097I79X5RtxOUxh5-a3_SrbomlATIjdoCfPy7OR-R3OkNPw3p4ovIYABXc8wKRlMyiNPXwGrVsKuuRK_DB3jYYOTB6iq-sONvRYOd8FXQkINA9TNlECIpPVP1iitUcUJRii34DSGlTix5oOLmJUYnG0xytpVrmMUjy_oYn-rqkgAxiWSVKNkdqvW26BHHK4yc4_GvTiF_XKE0ZWKLHiMwIgO-7i1WykktYgHUMPCmv5rIK44MbebpXkrZ5alMEr30wGkxJghZMGng8MBK-piANQqLULkuJoYq0kpZpZ86f-EUGW8cpruNfxaxCypDoGsinvRB_FxI1fDlI9YVVXuR6tcXLLqWtVtuMjLI5vcPtAO1Y4_Hh4-bX-vup4ez76ikk4v3v02QqeDYqe20nTOCuaUg22-v-Vmexq3a38wFe60s_PEzYHBo3AZxdKPGcTo8sT1TZFqDBv0IYioRbzgDq8JA6ykyxLK9f1alCNrLzhF72aFh8a4VIsMQ4KFVuxJ=s500-p-k-no" />
+                  <h2>2019-12 Xplor Xmas Lunch</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/AJxCVvh81Mc5VAFU8">
                   <img alt="2019-12 Torquay" src="https://lh3.googleusercontent.com/68nmDD25iJZmIOVegp2t2zJPxo7ylygTvemP8zuyeOpQ4quSdBVeMe5lsTDv-yi_zA_lBm_yLlEUY4byDXAv1RRtgXdSApvLHAvJlR3GKF7cLZGiCL45zBc36Je4DDWAFbBGLOOcGfasxB67NN3KfI1rKX_GYFuHW7gjlmD9_Un91JorldehxXMsLdiByYJcVlEdi-hlzV8KRTjF5en0LxAf0Z-QywYEHLnNBqU5lQCHNTvMq5cXZzV1y2HJdoFstI9IwaoZf8zWprnqaR5vJWWnCZt8fb-YLh7Ai3mDN3DhRr_LNA0kOX2YExvZApXROFP4hp714RvNp2Qfx7JckU8uwbn_TjdKEVucoYdlpZiiUwksH7aTFhmCGqHJfLX07kPm5RQ290HglCN6tNWaqFMGdexWQlyE4DWzJcv26RAPf2Bm7kWfcGa_0wo8rPmfGUNLOntKvpHECXODCxxWPeukJO_MfRLuLwHqL6sUw4J9uEhXJFEwiu0ot6g1v2gSy8B1VwcH7WE3L5d798ROmZkwWS8vI0u1E3Vefm2hqgFUunQxrAXf25B4eTtfJCQBaj4fdUTyxZ4aASakpVEzvU1wMy256U47R51ox0NJ_GADGQvKNDRgSS3OVDQ-cv7Ss9TIoouv32-7nnCam5L6h5SD7YB_9WOlNASPslxsRspbG1TYtvU8HZ8P=s500-p-k-no" />
                   <h2>2019-12 Torquay</h2>
