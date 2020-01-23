@@ -113,7 +113,7 @@ I am generally a well organised person. In order to communicate effectively with
 
 ## Receiving and Providing Feedback
 
-Feedback should be provided and received as soon as possible. Instead of waiting for our next 1:1, or the next Officevibe survey, or the next watercooler conversation, grab me and let's talk it out.
+Feedback should be provided and received as soon as possible. Instead of waiting for our next 1:1, or the next survey, or the next water-cooler conversation, grab me and let's talk it out.
 
 Every person is different, and therefore every project and every team are different. There is __always__ room for improvement, for __everyone__. So, if you have any feedback for me, please come talk to me, I promise I won't bite! ;)
 
