@@ -7,7 +7,7 @@ title: Manager Readme
 
 Inspired by [other senior tech leaders](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) in the industry, this is my version of README that hopefully gives you some insights into how to work with me more effectively at Xplor.
 
-I am a big fan of valueing people over process, so please treat this document as a guideline only.
+I am a big fan of valuing people over process, so please treat this document as a guideline only.
 
 ## Hi, I'm Fred Wu!
 
@@ -25,7 +25,7 @@ If you don't know me, here are a few links to get you started:
 
 Let's start by talking about my leadership style, as it's the cornerstone of everything I will talk about in this README.
 
-I started working as a software engineer in 2006, and as a tech/team lead in 2011. Over the years I kept refining my leadership approach, but the foundation of it - largly due to my personality, hasn't changed.
+I started working as a software engineer in 2006, and as a tech/team lead in 2011. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personality, hasn't changed.
 
 I am a firm believer in __People__, __Product__, __Profit__, in that order. One of my top priorities is to ensure people __stay motivated__ and __stay challenged__. My goal is to work with you to find the right amount of stretch so you don't get bored and you don't get too stressed.
 
@@ -70,7 +70,7 @@ That said, with the help of others, I would like:
 - to ensure you work on the right things
 - to ensure you talk to the right people
 - to ensure you feel it's a safe and supportive workplace
-- to ensure you upskill yourself
+- to ensure you up-skill yourself
 
 ### For Tech & QA Leads (My Direct Reports)
 
@@ -100,7 +100,7 @@ That said, with the help of others, I would like:
 I am generally a well organised person. In order to communicate effectively with me, please:
 
 - be straight-up and cut the bullshit
-- be explicit rathar than assume I already have the knowledge of something
+- be explicit rather than assume I already have the knowledge of something
 - grab me if it's urgent, or requires back and forth
 - call me if it's urgent and I'm out of office
 - Slack me if it's short and don't require back and forth
