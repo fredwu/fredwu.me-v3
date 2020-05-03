@@ -86,6 +86,6 @@ This one hopefully is obvious, but I just have to emphasis its importance. Pleas
 
 Software development is evolving rapidly, some fundamentals however are always useful and relevant. I hope you find this article useful.
 
-I've mentioned my talk a few times, but if you haven't already, check it out below, it covers a few topics mentioned in this article, and some more.
+I've mentioned my talk a few times, but if you haven't already, check it out below, it covers a few topics mentioned in this article, and some more. Also check out [my tiny Youtube channel](https://www.youtube.com/channel/UCYzkbDiuqtiNkQvQBzStVqQ) for more tech talks I've done in the past.
 
 `video: https://www.youtube.com/watch?v=MBczdO7RgNo`
