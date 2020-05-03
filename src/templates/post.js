@@ -119,7 +119,9 @@ PostTemplate.propTypes = {
 
 const Post = ({ data }) => {
   const { markdownRemark: post, site } = data
+  const title = `${post.frontmatter.title} | ${site.siteMetadata.title}`
   const description = post.frontmatter.description || post.frontmatter.title
+  const url = `${site.siteMetadata.siteUrl}${post.fields.slug}`
 
   return (
     <Layout>
@@ -132,14 +134,17 @@ const Post = ({ data }) => {
           <Helmet
             titleTemplate={`%s | ${site.siteMetadata.title}`}
           >
-            <title>{post.frontmatter.title}</title>
+            <title>{title}</title>
             <meta name="description" content={description} />
+
+            <meta property="og:title" content={title} />
+            <meta property="og:url" content={url} />
           </Helmet>
         }
         date={post.frontmatter.date}
         tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
-        url={`${site.siteMetadata.siteUrl}${post.fields.slug}`}
+        title={title}
+        url={url}
         readingTime={post.fields.readingTime.text}
       />
     </Layout>
