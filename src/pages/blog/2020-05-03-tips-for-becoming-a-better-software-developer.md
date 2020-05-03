@@ -38,7 +38,7 @@ Let's be honest, as a software developer we are extremely lucky to be in a high 
 Every now and then I see conflicts between people who share different philosophies on what work and career mean to them. We should embrace the different ways people prefer to spend their time and energy on, rather than force our own ideology on them. Discovering and knowing the difference between working at a giant corporation versus working at a small start-up is key to our happiness.
 
 ### Pain and Gain, There's Always a Trade-off
-An extension of the 9-5 vs crazy work hours: adjust your expectation based on the effort you put in. You can't have everything, prioritising family life over career building is 100% okay, as long as you know what you are giving up on, vice versa. In my 20s, many of my similarly aged friends and colleagues went out and had fun after work and on weekends while I was in front of my computer building open source projects, is an example of a conscious trade-off I made.
+An extension of the 9-5 vs crazy work hours: adjust your expectation based on the effort you put in. You can't have everything, prioritising family life over career building is 100% okay, as long as you know what you are giving up on, vice versa. In my 20s, many of my similarly aged friends and colleagues would go out and have fun after work and on weekends while I was in front of my computer building open source projects, is an example of a conscious trade-off I made.
 
 ### Speed vs Quality
 Internalising the need for speed and the need for quality should always be on our mind. Pursuing only quality or only speed will significantly limit your problem-solving capability as well as your career progression.
