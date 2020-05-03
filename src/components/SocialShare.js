@@ -17,7 +17,7 @@ import {
 } from 'react-share'
 
 const Share = styled.div`
-  .SocialMediaShareButton {
+  button {
     display: inline-block;
     margin-right: 10px;
 
