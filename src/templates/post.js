@@ -143,7 +143,7 @@ const Post = ({ data }) => {
         }
         date={post.frontmatter.date}
         tags={post.frontmatter.tags}
-        title={title}
+        title={post.frontmatter.title}
         url={url}
         readingTime={post.fields.readingTime.text}
       />
