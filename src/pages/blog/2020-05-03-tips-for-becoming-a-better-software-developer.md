@@ -20,7 +20,7 @@ Now, let's break down the tips into three main areas: __mindset__, __technical__
 This one hopefully should be obvious, if you haven't heard of it, please [read more here](https://www.google.com/search?q=growth+mindset).
 
 ### Have a StarCraft Mindset
-This one is "new", I've given a talk that includes more details on what it means, [check it out here](https://www.youtube.com/watch?v=MBczdO7RgNo). In essence, it's a mindset that requires you to always consider things around you, and forces you think beyond your narrowly focused task at hand.
+This one is "new", I've given a talk that includes more details on what it means, [check it out here](https://www.youtube.com/watch?v=MBczdO7RgNo). In essence, it's a mindset that requires you to always consider things around you, and forces you to think beyond your narrowly focused task at hand.
 
 ### Recognise the Dunning–Kruger Effect
 I once interviewed a mid-level developer who rated himself as a 9.9 out of 10. The [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) is essentially the opposite of the [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), both are very common in our field.
