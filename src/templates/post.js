@@ -131,9 +131,7 @@ const Post = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet
-            titleTemplate={`%s | ${site.siteMetadata.title}`}
-          >
+          <Helmet titleTemplate={title}>
             <title>{title}</title>
             <meta name="description" content={description} />
 
