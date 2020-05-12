@@ -4,6 +4,8 @@
 [build.environment]
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
 [[redirects]]
   from = "http://www.fredwu.me/*"
   to = "http://fredwu.me/:splat"
