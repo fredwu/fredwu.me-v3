@@ -139,3 +139,9 @@ If during the interview there have been things mentioned that you could provide 
 ~
 
 To all the junior developers out there - enjoy the journey! You are in for an amazing ride, make every second count.
+
+---
+
+_If you enjoyed this article, checkout my other tips articles:_
+- _[Tips for Becoming a Better Software Developer](../2020-05-03-tips-for-becoming-a-better-software-developer/)_
+- _[Tips for Writing a Good CV / Résumé](../2020-05-20-tips-for-writing-a-good-cv-resume/)_

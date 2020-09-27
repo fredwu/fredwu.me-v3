@@ -92,3 +92,9 @@ Software development is evolving rapidly, some fundamentals however are always u
 I've mentioned my talk a few times, but if you haven't already, check it out below, it covers a few topics mentioned in this article, and some more. Also check out [my tiny Youtube channel](https://www.youtube.com/channel/UCYzkbDiuqtiNkQvQBzStVqQ) for more tech talks I've done in the past.
 
 `video: https://www.youtube.com/watch?v=MBczdO7RgNo`
+
+---
+
+_If you enjoyed this article, checkout my other tips articles:_
+- _[Tips for Writing a Good CV / Résumé](../2020-05-20-tips-for-writing-a-good-cv-resume/)_
+- _[Tips for Job Interviews as a Junior Software Developer](../2020-09-27-tips-for-job-interviews-as-a-junior-software-developer/)_

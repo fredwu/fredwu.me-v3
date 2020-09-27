@@ -119,3 +119,10 @@ This one is a "nice-to-have": if your CV is really well designed, you would earn
 ~
 
 These are the main points, hopefully they are helpful. To help illustrate, here is [a copy of my own CV](/img/posts/2020-05-20/cv-example.pdf), with contact details removed.
+
+
+---
+
+_If you enjoyed this article, checkout my other tips articles:_
+- _[Tips for Becoming a Better Software Developer](../2020-05-03-tips-for-becoming-a-better-software-developer/)_
+- _[Tips for Job Interviews as a Junior Software Developer](../2020-09-27-tips-for-job-interviews-as-a-junior-software-developer/)_
