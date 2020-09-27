@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Interviewing Jobs as a Junior Software Developer
+title: Tips for Job Interviews as a Junior Software Developer
 date: '2020-09-27T15:56:03+1000'
 tags:
   - tips
