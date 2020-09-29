@@ -50,7 +50,7 @@ Looking back at when I started my software career many moons ago, I never regret
 
 ### Research the Company You Apply For
 
-If you are one of those who spam your CVs to every job opening, please consider changing your tactic. A well written cover letter with not only increase your chance of getting an interview, but also allow you to ask relevant questions during the interview.
+If you are one of those who spam your CVs to every job opening, please consider changing your tactic. A well written cover letter will not only increase your chance of getting an interview, but also allow you to ask relevant questions during the interview.
 
 Check out the company's website and any social media pages on LinkedIn, Facebook and Instagram, etc. Do a bit of "stalking" on the people who work in the company, sometimes this will give you some insights into the type of work environment and culture the company has.
 
