@@ -3,9 +3,9 @@ layout: page
 title: Manager Readme
 ---
 
-# How to Work with Fred @ Xplor
+# How to Work with Fred
 
-Inspired by [other senior tech leaders](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) in the industry, this is my version of README that hopefully gives you some insights into how to work with me more effectively at Xplor.
+Inspired by [other senior tech leaders](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) in the industry, this is my version of README that hopefully gives you some insights into how to work with me more effectively.
 
 I am a big fan of valuing people over process, so please treat this document as a guideline only.
 
@@ -93,7 +93,7 @@ That said, with the help of others, I would like:
 - to ensure you know why we do or don't do certain things for you
 - to ensure you understand how we work as an engineering group
 - to ensure you are consulted before we begin a major piece of work that affects your team
-- to ensure you know we work together as one Xplor team and not as individual functional groups
+- to ensure you know we work together as one team and not as individual functional groups
 
 ## Effective Communication with Me
 
