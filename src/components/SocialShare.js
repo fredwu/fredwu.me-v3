@@ -29,7 +29,7 @@ const Share = styled.div`
 
 const size = 32
 
-export default ({ url, title }) => (
+const SocialShareComponent = ({ url, title }) => (
   <Share className="share-bar">
     <TwitterShareButton url={url} title={`${title} by @fredwu`}>
       <TwitterIcon size={size} />
@@ -51,6 +51,8 @@ export default ({ url, title }) => (
     </EmailShareButton>
   </Share>
 )
+
+export default SocialShareComponent
 
 Share.propTypes = {
   url: PropTypes.string,

@@ -85,7 +85,7 @@ const FooterInner = styled.footer`
   }
 `
 
-export default class extends React.Component {
+export default class FooterComponent extends React.Component {
   render() {
     return (
       <>

@@ -56,9 +56,11 @@ const query = graphql`
   }
 `
 
-export default () => (
+const LatestPostsComponent = () => (
   <StaticQuery
     query={query}
     render={data => <LatestPosts {...data} />}
   />
 )
+
+export default LatestPostsComponent

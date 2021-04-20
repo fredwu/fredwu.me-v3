@@ -11,7 +11,7 @@ const HomeContainer = styled.div`
   }
 `
 
-export default class extends React.Component {
+export default class HomePageComponent extends React.Component {
   render() {
     return (
       <Layout>

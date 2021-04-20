@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet'
 import Layout from '../../components/Layout'
 import Section from '../../components/Section'
 
-export default class extends React.Component {
+export default class TalksPageComponent extends React.Component {
   render() {
     return (
       <Layout>

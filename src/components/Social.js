@@ -44,7 +44,7 @@ const Social = styled.ul`
   a.contact-youtube { background-image: url(${youtube}); }
 `
 
-export default class extends React.Component {
+export default class SocialComponent extends React.Component {
   render() {
     return (
       <Social className="contact-bar">

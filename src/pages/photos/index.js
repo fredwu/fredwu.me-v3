@@ -48,7 +48,7 @@ const Item = styled.div`
   }
 `
 
-export default class extends React.Component {
+export default class PhotosPageComponent extends React.Component {
   render() {
     return (
       <Layout>

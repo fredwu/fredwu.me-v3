@@ -94,7 +94,7 @@ const NavBar = styled.div`
   }
 `
 
-export default class extends React.Component {
+export default class HeaderComponent extends React.Component {
   render() {
     return (
       <>
