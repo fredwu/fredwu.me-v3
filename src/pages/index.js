@@ -37,7 +37,7 @@ export default class HomePageComponent extends React.Component {
               from <a href="https://www.monash.edu/">Monash University</a> in 2008.
             </p>
             <p>
-              I am currently the Head of Engineering at <a href="https://verrency.com/">Verrency</a> -
+              I am currently the CTO at <a href="https://verrency.com/">Verrency</a> -
               a Fintech startup working on value added services for payments. Before Verrency, I worked at companies
               such as <a href="https://envato.com/">Envato</a>
               , <a href="https://sitepoint.com/">SitePoint</a>
