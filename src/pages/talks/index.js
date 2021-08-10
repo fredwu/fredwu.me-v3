@@ -12,6 +12,23 @@ export default class TalksPageComponent extends React.Component {
         <div className="container">
           <Section className="section content">
             <h3 className="title is-size-4">
+              What's Cool About Elixir
+            </h3>
+            <p>
+              <a href="https://www.youtube.com/watch?v=rFp69YFPPGI">Recording</a>
+              <span className="divider">|</span>
+              <a href="https://docs.google.com/presentation/d/1XwmRG7fe2VcsrBIR5-IJK4Sf9Sec6ZTI-2fNdasKy80/edit?usp=sharing">Slides</a>
+              <span className="divider">|</span>
+              <small className="note">Aug 2021, Verrency</small>
+            </p>
+            <p>
+              I gave a talk today on why Elixir is cool, and why I love it. If you've never had a chance
+              to dive into Elixir but are curious, please check it out. In under one hour I summarised
+              the cool concepts and features of Elixir.
+            </p>
+            <hr />
+
+            <h3 className="title is-size-4">
               Adaptable Human - Taking the Company and Your Career to the Next Level @ RubyConf China 2019
             </h3>
             <p>
