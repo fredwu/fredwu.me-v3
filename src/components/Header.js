@@ -135,6 +135,8 @@ export default class HeaderComponent extends React.Component {
                 <Link className="navbar-item" activeClassName="active" to="/talks">Talks</Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
                 <Link className="navbar-item" activeClassName="active" to="/photos">Photography</Link>
+                <span className="navbar-item is-hidden-mobile">|</span>
+                <Link className="navbar-item" activeClassName="active" to="/cv.pdf">My CV (PDF)</Link>
                 <div className="is-hidden-tablet">
                   <span className="navbar-item is-hidden-mobile">|</span>
                   <a className="navbar-item" href="https://www.google.com/search?q=site%3Afredwu.me">Search</a>
