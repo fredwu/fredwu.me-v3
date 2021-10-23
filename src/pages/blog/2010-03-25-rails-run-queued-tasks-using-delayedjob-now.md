@@ -8,7 +8,7 @@ tags:
 - delayed_job
 - background jobs
 - queue
-- asynchronous
+- async
 - tasks
 - interval
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 - /post/472366667/
 - /post/472366667
 ---
-If you don’t already know, ’[delayed\_job](http://github.com/collectiveidea/delayed_job)’ is a database based asynchronously priority queue system extracted from [Shopify](http://www.shopify.com/).
+If you don’t already know, ’[delayed_job](http://github.com/collectiveidea/delayed_job)’ is a database based asynchronously priority queue system extracted from [Shopify](http://www.shopify.com/).
 
 I was seeking for a lightweight, easy to use solution for queueing tasks, ‘delayed\_job’ fits the bill _almost_ perfectly. ;)
 
