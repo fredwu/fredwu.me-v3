@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "author": "Fred Wu",
   "dependencies": {
-    "babel-plugin-styled-components": "^1.13.3",
+    "babel-plugin-styled-components": "^2.0.2",
     "bulma": "^0.9.3",
     "disqus-react": "^1.1.2",
     "gatsby": "^4.0.0",
