@@ -67,6 +67,12 @@ export default class PhotosPageComponent extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/ioQ3TmCDkWTDh7Cw7">
+                  <img alt="2021-12 Verrency Xmas" src="https://lh3.googleusercontent.com/5htuUvXEkdVPIIOPgVcnge5-h9AUqBeUfF7HIpIVPkfCqw20AbC5Xc65j2Wx2S-eYkMaHsQj2pWPjwfP8hGT95E4DMe3NfOlyYtQy4FwkxAYA-lOqQOL9THQg0XgwuZPM7uusULRIoPh5V83E3p1isMHVgigAvMEMNh4-11h8HtQ3z-DnI62bbsiB5al6kCRWMRUsH3UVzHIAmUIhkYMZedNY60Y8KewCVjjmsCUdkchY_1J6W3aOzf-EwhaibV4jdCguwky13XPRX2ilp8iJdGphIoL87wsllE-iwK_BSMnovN54bHSrjQnubcsxBNEQlOQ8CUYgjJJ9fOigB6V9wbDHfZab95oB2egFeerVsLBmDUbkSuJJruUaKSiRfPiRz4ALoitl9_ytJhWJaQ5LChJ-7QNJRmwLZSafavJVAUn-rvv9wLly6l6ihcCKrDAUtuBNZJVCyjAhrvlTmff0iu0hPCpv5FSW3JfTXMvmQpSlVPQ3kzVYrBagKSdg8g2l_VDgcY9fxWw1sh0fB8Tgsc9IdsY-6TUUWdA_1ftnHOXYbuYzS_U6ydxLP-i6PpWrkDfxlxFTiFvWIPKeCBL3DxT196hr87C6tqYT1zOI9gpG7UZW74bH75-cKp-TRjU2lbgYzQVXe7rF7fu7DOPWsNYd5n_0ClMFSjmmeecPK6PRZvz4WDU-0bk1c3niyDIPIMjufpGpZ-elykaSXk7f0R5Ww=s500-p-k-no" />
+                  <h2>2021-12 Verrency Xmas</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/iQm7kBn6caTQvqfs6">
                   <img alt="2019-12 Geelong" src="https://lh3.googleusercontent.com/Pu6nGppEZIoA4XK1NRjFdgkkHkI9gwB0f4JeOYovXqKnw0GVOcDdMfRl1VJvgYNLL1VW2LKYDMcJIUi2ABExgLW19MDulKdzQhNrSd_CVRZ2MryvQ_ZT2kM1p4OnCG0bnz8YSb1sgrF3TGmQWx8_UpJgQvBAUI7CDyAvjgSZKRR91aUXc-qVQ5a9IKj_CiMQKG5kXHZbzwajXb73i2WkpQWsQXp_gR9Gy8xcUJnsgQk3o-zS9AeEu9t-ofJM38ZMiZyfR9ZF-EBUgw427JrWCN2prEF3R2ed0034NBkAoRS_nFpmaEtga9Jc_6knTor95vjcVsmGfOf12qypV_V3lFjTrK_iEtaisH_4-sTxZSydgThPjl3m2zBar8l0ohwnQ3bhUuTAb-AMQflKMQ9g9RkJxR5Pya4Lzx7h6KgQeln6qqanTJfqy0g8nXWJwxc9aZPbXBwiN9Sa3Ol0iry4MUxmdPfXc5mIl2qi9k6sQVi0_ZSsD3jh5FxuAS36H6mwCKK6MKz71dWNCVf7KRMCqoFZAkpZCrlk6QPDB5QFLPufoo1fPDDkceoDVwNKXxtWBboCu3FnAgyEdHqkLYinldmeM0UfO-LLvLAknexPKXLLz9fFIoPBgH_invaoSvL_gSTPTmrn116WmeuiiZPS8nXg6aR752Wu-8kohcqvi9l1qYAMjP4RsHPM=s500-p-k-no" />
                   <h2>2019-12 Geelong</h2>
