@@ -34,7 +34,7 @@
     "gatsby-transformer-sharp": "^4.0.0",
     "lodash": "^4.17.20",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms-app": "^2.15.54",
+    "netlify-cms-app": "^2.15.61",
     "node-gyp": "^8.3.0",
     "node-sass": "^6.0.1",
     "prismjs": "^1.25.0",
@@ -43,7 +43,7 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "react-share": "^4.3.1",
-    "sass-loader": "^12.2.0",
+    "sass-loader": "^12.4.0",
     "socket.io": "^4.3.1",
     "styled-components": "^5.3.3",
     "uuid": "^8.3.2"
@@ -66,7 +66,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^2.4.1",
+    "prettier": "^2.5.1",
     "rimraf": "^3.0.2"
   }
 }
