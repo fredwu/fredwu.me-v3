@@ -67,6 +67,12 @@ export default class PhotosPageComponent extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/5Q3oS7ReYTevqCmF9">
+                  <img alt="2021-12 Bendigo" src="https://lh3.googleusercontent.com/oqowvMFJCnDrk6dSO4sOG7KYTTFpdaVwyPzlSOe3ai-gCxGwZSb63JRPaQHvp5w7ngDBUre8zWRnrJ99g9mPPhakjwdvKjmngNyrwyBPWNY4RJIre3T_iGhPn3gf2B6-0_9FmbOPn1GXseyWpH5Wrndwm5WaiU0tMICfFxUfnngyK1-OuSx99E9HMsR9T8cGyukat9pv4P-wUl_SvJ6ISNGgi9P8qxcsHLdNnEvoUzYQDeN4PbJ1HoINlrxVKLg0kfBZ08b7tKrmV1eeyiAqaNRWVsJgAcTXxJfOE2rPgUutg0709MfitT-isFm6zw4eJD2m8_2ts9M7BfxE4zH8trZ6DOB4koc2jv3mUi7Qm90uJmD0eg_j65U2ytY_qa8PZL1xTYzXvi_lLW7vc0W74RDCpCjVlU1OxgPJ9bx3sWTlQK2RWfismlqv_NvPi2OADatzyYPgNvDw6nmqMjVO8YtrEc2STmVlPijKmCVYshRhDF9aCFrX9UNnXGGLT0QiZt6oUdugRHj3t-x_SX2rzYY9p42e6DpfiI9IlHfvO0TZVi1v98PGPf2wMIu93H_S3dc5KrZPTBi3duEO2JC2KHjP-4UouqtG40aNIfJsxTvqd4Wv1Q_HMCFULxjb6x2qnupwQ2RY8hatgAuLe20iy6HU9s0Ddp4NMjci50sFZOHMyrlJ8RmSnheXM8ZEP5VUY1__UPwaeobfaGlQaiwh30ZBSg=s500-p-k-no" />
+                  <h2>2021-12 Bendigo</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/ioQ3TmCDkWTDh7Cw7">
                   <img alt="2021-12 Verrency Xmas" src="https://lh3.googleusercontent.com/5htuUvXEkdVPIIOPgVcnge5-h9AUqBeUfF7HIpIVPkfCqw20AbC5Xc65j2Wx2S-eYkMaHsQj2pWPjwfP8hGT95E4DMe3NfOlyYtQy4FwkxAYA-lOqQOL9THQg0XgwuZPM7uusULRIoPh5V83E3p1isMHVgigAvMEMNh4-11h8HtQ3z-DnI62bbsiB5al6kCRWMRUsH3UVzHIAmUIhkYMZedNY60Y8KewCVjjmsCUdkchY_1J6W3aOzf-EwhaibV4jdCguwky13XPRX2ilp8iJdGphIoL87wsllE-iwK_BSMnovN54bHSrjQnubcsxBNEQlOQ8CUYgjJJ9fOigB6V9wbDHfZab95oB2egFeerVsLBmDUbkSuJJruUaKSiRfPiRz4ALoitl9_ytJhWJaQ5LChJ-7QNJRmwLZSafavJVAUn-rvv9wLly6l6ihcCKrDAUtuBNZJVCyjAhrvlTmff0iu0hPCpv5FSW3JfTXMvmQpSlVPQ3kzVYrBagKSdg8g2l_VDgcY9fxWw1sh0fB8Tgsc9IdsY-6TUUWdA_1ftnHOXYbuYzS_U6ydxLP-i6PpWrkDfxlxFTiFvWIPKeCBL3DxT196hr87C6tqYT1zOI9gpG7UZW74bH75-cKp-TRjU2lbgYzQVXe7rF7fu7DOPWsNYd5n_0ClMFSjmmeecPK6PRZvz4WDU-0bk1c3niyDIPIMjufpGpZ-elykaSXk7f0R5Ww=s500-p-k-no" />
                   <h2>2021-12 Verrency Xmas</h2>
