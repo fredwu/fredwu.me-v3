@@ -128,12 +128,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
-    {
       resolve: 'gatsby-plugin-purgecss',
       options: {
         develop: true,
@@ -158,6 +152,5 @@ module.exports = {
     'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',
     'gatsby-plugin-sitemap',
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
