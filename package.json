@@ -34,7 +34,7 @@
     "lodash-webpack-plugin": "^0.11.4",
     "netlify-cms-app": "^2.15.65",
     "node-gyp": "^8.3.0",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.1",
     "prismjs": "^1.26.0",
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
@@ -45,6 +45,9 @@
     "socket.io": "^4.4.1",
     "styled-components": "^5.3.3",
     "uuid": "^8.3.2"
+  },
+  "resolutions": {
+    "gatsby-plugin-sass/sass-loader": "^12.4.0"
   },
   "keywords": [
     "fredwu",
