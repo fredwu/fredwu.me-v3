@@ -35,7 +35,7 @@
     "netlify-cms-app": "^2.15.65",
     "node-gyp": "^8.3.0",
     "node-sass": "^7.0.1",
-    "prismjs": "^1.26.0",
+    "prismjs": "^1.27.0",
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
