@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-import Section from './Section'
+import Section from "./Section";
 
 export default class Projects extends React.Component {
   render() {
@@ -10,29 +10,52 @@ export default class Projects extends React.Component {
 
         <div className="content">
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/crawler">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/crawler"
+            >
               Crawler
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Elixir</small>
           </p>
-          <p className="excerpt">
-            A high performance web crawler in Elixir.
-          </p>
+          <p className="excerpt">A high performance web crawler in Elixir.</p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/opq">
+            <a
+              className="has-text-primary"
+              href="https://github.com/CoinbitsInc/ex_double_entry"
+            >
+              ExDoubleEntry
+            </a>
+            &nbsp;
+            <small className="note">Elixir</small>
+          </p>
+          <p className="excerpt">An Elixir double-entry library.</p>
+
+          <p>
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/opq"
+            >
               OPQ
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Elixir</small>
           </p>
           <p className="excerpt">
-            A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+            A simple, in-memory queue with worker pooling and rate limiting in
+            Elixir.
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/simple_bayes">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/simple_bayes"
+            >
               Simple Bayes
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Elixir</small>
           </p>
           <p className="excerpt">
@@ -40,9 +63,13 @@ export default class Projects extends React.Component {
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/stemmer">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/stemmer"
+            >
               Stemmer
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Elixir</small>
           </p>
           <p className="excerpt">
@@ -50,19 +77,28 @@ export default class Projects extends React.Component {
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/datamappify">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/datamappify"
+            >
               Datamappify
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Ruby</small>
           </p>
           <p className="excerpt">
-            Compose, decouple and manage domain logic and data persistence separately.
+            Compose, decouple and manage domain logic and data persistence
+            separately.
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/api_taster">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/api_taster"
+            >
               API Taster
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">Ruby</small>
           </p>
           <p className="excerpt">
@@ -70,34 +106,31 @@ export default class Projects extends React.Component {
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/amaze_hands">
-              Amaze Hands
-            </a>&nbsp;
-            <small className="note">Ruby</small>
-          </p>
-          <p className="excerpt">
-            An amazing tool developed for analysing Kanban board cards.
-          </p>
-
-          <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/skinny-coffee-machine">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/skinny-coffee-machine"
+            >
               Skinny Coffee Machine
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">JavaScript</small>
           </p>
           <p className="excerpt">
-            A simple JavaScript state machine with observers, for browsers and Node.js.
+            A simple JavaScript state machine with observers, for browsers and
+            Node.js.
           </p>
 
           <p>
-            <a className="has-text-primary" href="https://github.com/fredwu/jquery-endless-scroll">
+            <a
+              className="has-text-primary"
+              href="https://github.com/fredwu/jquery-endless-scroll"
+            >
               Endless Scroll
-            </a>&nbsp;
+            </a>
+            &nbsp;
             <small className="note">JavaScript</small>
           </p>
-          <p className="excerpt">
-            Endless/infinite scrolling/pagination.
-          </p>
+          <p className="excerpt">Endless/infinite scrolling/pagination.</p>
 
           <p>
             <a className="has-text-primary" href="https://github.com/fredwu/">
@@ -106,6 +139,6 @@ export default class Projects extends React.Component {
           </p>
         </div>
       </Section>
-    )
+    );
   }
 }
