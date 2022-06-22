@@ -79,3 +79,37 @@ code[class*="language-"] {
   }
 }
 /* purgecss end ignore */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+  }
+
+  * {
+    color: #aaa;
+  }
+
+  hr {
+    background-color: #333;
+  }
+
+  header .contact-bar {
+    li a {
+      filter: invert(80%);
+    }
+  }
+
+  .content {
+    h1, h2, h3, h4, p, ul, ol, blockquote {
+      color: #ccc;
+    }
+
+    a:hover {
+      color: #eee;
+    }
+
+    blockquote {
+      background-image: url('../img/quotes-dark.svg');
+    }
+  }
+}

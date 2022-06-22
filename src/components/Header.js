@@ -1,15 +1,15 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
+import React from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
 
-import Social from './Social'
+import Social from "./Social";
 
-import hero from '../img/hero.png'
-import background from '../img/background.png'
-import find from '../img/find.png'
+import hero from "../img/hero.png";
+import background from "../img/background.png";
+import find from "../img/find.png";
 
-const height = 260
-const padding = 20
+const height = 260;
+const padding = 20;
 
 const Header = styled.div`
   header {
@@ -53,12 +53,21 @@ const Header = styled.div`
     bottom: ${padding}px;
     text-align: center;
   }
-`
+
+  @media (prefers-color-scheme: dark) {
+    #logo {
+      h1,
+      li {
+        color: #eee;
+      }
+    }
+  }
+`;
 
 const HeaderStrip = styled.div`
   height: 10px;
   background-color: #ffa000;
-`
+`;
 
 const NavBar = styled.div`
   background: #eee;
@@ -92,7 +101,25 @@ const NavBar = styled.div`
       font-weight: bold;
     }
   }
-`
+
+  @media (prefers-color-scheme: dark) {
+    background: #333;
+
+    .navbar {
+      a.navbar-item {
+        color: #ccc;
+
+        &:hover {
+          color: #ffa000;
+        }
+      }
+
+      span.navbar-item {
+        color: #666;
+      }
+    }
+  }
+`;
 
 export default class HeaderComponent extends React.Component {
   render() {
@@ -124,31 +151,77 @@ export default class HeaderComponent extends React.Component {
         <HeaderStrip />
         <NavBar>
           <div className="container">
-            <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
+            <nav
+              className="navbar is-transparent"
+              role="navigation"
+              aria-label="main-navigation"
+            >
               <div className="navbar-start">
-                <Link className="navbar-item" activeClassName="active" to="/">Home</Link>
+                <Link className="navbar-item" activeClassName="active" to="/">
+                  Home
+                </Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/blogs">Blog</Link>
+                <Link
+                  className="navbar-item"
+                  activeClassName="active"
+                  to="/blogs"
+                >
+                  Blog
+                </Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/manager-readme">Manager Readme</Link>
+                <Link
+                  className="navbar-item"
+                  activeClassName="active"
+                  to="/manager-readme"
+                >
+                  Manager Readme
+                </Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/talks">Talks</Link>
+                <Link
+                  className="navbar-item"
+                  activeClassName="active"
+                  to="/talks"
+                >
+                  Talks
+                </Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/photos">Photography</Link>
+                <Link
+                  className="navbar-item"
+                  activeClassName="active"
+                  to="/photos"
+                >
+                  Photography
+                </Link>
                 <span className="navbar-item is-hidden-mobile">|</span>
-                <Link className="navbar-item" activeClassName="active" to="/cv.pdf">My CV (PDF)</Link>
+                <Link
+                  className="navbar-item"
+                  activeClassName="active"
+                  to="/cv.pdf"
+                >
+                  My CV (PDF)
+                </Link>
                 <div className="is-hidden-tablet">
                   <span className="navbar-item is-hidden-mobile">|</span>
-                  <a className="navbar-item" href="https://www.google.com/search?q=site%3Afredwu.me">Search</a>
+                  <a
+                    className="navbar-item"
+                    href="https://www.google.com/search?q=site%3Afredwu.me"
+                  >
+                    Search
+                  </a>
                 </div>
               </div>
               <div id="search" className="navbar-end is-hidden-mobile">
-                <a className="navbar-item" href="https://www.google.com/search?q=site%3Afredwu.me">Search</a>
+                <a
+                  className="navbar-item"
+                  href="https://www.google.com/search?q=site%3Afredwu.me"
+                >
+                  Search
+                </a>
               </div>
             </nav>
           </div>
         </NavBar>
       </>
-    )
+    );
   }
 }

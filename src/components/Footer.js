@@ -1,11 +1,11 @@
-import React from 'react'
-import styled from 'styled-components'
+import React from "react";
+import styled from "styled-components";
 
-import LatestPosts from './Footer/LatestPosts'
-import Projects from './Footer/Projects'
-import Social from '../components/Social'
+import LatestPosts from "./Footer/LatestPosts";
+import Projects from "./Footer/Projects";
+import Social from "../components/Social";
 
-import background from '../img/background.png'
+import background from "../img/background.png";
 
 const Latest = styled.div`
   background-color: #333;
@@ -44,12 +44,16 @@ const Latest = styled.div`
     padding-top: 20px;
     padding-bottom: 20px;
   }
-`
+
+  @media (prefers-color-scheme: dark) {
+    background-color: #111;
+  }
+`;
 
 const FooterStrip = styled.div`
   height: 10px;
   background-color: #999;
-`
+`;
 
 const FooterInner = styled.footer`
   background: #444 url(${background}) top 50% center repeat;
@@ -83,7 +87,11 @@ const FooterInner = styled.footer`
       color: #ffa000;
     }
   }
-`
+
+  @media (prefers-color-scheme: dark) {
+    background-color: #111;
+  }
+`;
 
 export default class FooterComponent extends React.Component {
   render() {
@@ -95,8 +103,12 @@ export default class FooterComponent extends React.Component {
               <div className="fw">fw</div>
             </div>
             <div className="columns latest-inner">
-              <div className="column"><LatestPosts /></div>
-              <div className="column"><Projects /></div>
+              <div className="column">
+                <LatestPosts />
+              </div>
+              <div className="column">
+                <Projects />
+              </div>
             </div>
           </div>
         </Latest>
@@ -107,11 +119,13 @@ export default class FooterComponent extends React.Component {
             <p>
               Copyright &copy; Fred Wu
               <span className="divider">|</span>
-              <a href="https://github.com/fredwu/fredwu.me-v3">Site Source Code</a>
+              <a href="https://github.com/fredwu/fredwu.me-v3">
+                Site Source Code
+              </a>
             </p>
           </div>
         </FooterInner>
       </>
-    )
+    );
   }
 }
