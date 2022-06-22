@@ -118,6 +118,10 @@ const NavBar = styled.div`
         color: #666;
       }
     }
+
+    #search a {
+      filter: invert(70%);
+    }
   }
 `;
 
