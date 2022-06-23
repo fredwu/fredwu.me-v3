@@ -3,20 +3,21 @@ layout: post
 title: Writing Sensible Tests for Happiness
 date: '2013-08-27T00:11:00+10:00'
 tags:
-- Ruby
-- testing
-- tests
-- integration
-- tdd
-- rspec
-- mocha
-- turnip
-- api taster
+  - Ruby
+  - testing
+  - tests
+  - integration
+  - tdd
+  - rspec
+  - mocha
+  - turnip
+  - api taster
 redirect_from:
-- /post/59395419899/writing-sensible-tests-for-happiness
-- /post/59395419899/
-- /post/59395419899
+  - /post/59395419899/writing-sensible-tests-for-happiness
+  - /post/59395419899/
+  - /post/59395419899
 ---
+
 Writing good, sensible tests is hard. As a Rubyist, I feel lucky to be part of a community that embraces tests. Though at the same time, I have come across too many projects that suffered from not having sensible tests.
 
 ## What are Sensible Tests?
@@ -24,7 +25,6 @@ Writing good, sensible tests is hard. As a Rubyist, I feel lucky to be part of a
 There often isn’t a silver bullet when it comes to software development. Technical stuff aside, many things contribute to the solution to a given problem - the team, the project and the business to name a few. This article does not attempt to present any insights into _the_ best practices for testing, rather it collects a few tips I believe would benefit those who are not yet comfortable with writing tests.
 
 To me, sensible tests often have the following characteristics:
-
 
 - it does not replicate implementation details;
 - it does not provide false sense of security;
@@ -663,4 +663,3 @@ Feature: Session
 Writing good, sensible tests is hard. These examples and tips are by no means the silver bullet, and you might actually find some of them counter-intuitive in your particular situation. So again, take what you get, practise, and reflect on your findings. **For Happiness!** :)
 
 Do you have any tips to share? If so please feel free to add a few comments!
-

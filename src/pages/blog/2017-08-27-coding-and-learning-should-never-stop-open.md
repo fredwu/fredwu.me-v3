@@ -3,16 +3,17 @@ layout: post
 title: Coding and Learning Should Never Stop, Open Sourcing is Caring
 date: '2017-08-27T21:21:01+10:00'
 tags:
-- learning
-- self improvement
-- continuous learning
-- elixir
-- sharing
+  - learning
+  - self improvement
+  - continuous learning
+  - elixir
+  - sharing
 redirect_from:
-- /post/164668682508/coding-and-learning-should-never-stop-open
-- /post/164668682508/
-- /post/164668682508
+  - /post/164668682508/coding-and-learning-should-never-stop-open
+  - /post/164668682508/
+  - /post/164668682508
 ---
+
 I’ve had a productive coding weekend, and so I decided to share my experience. Now, many developers choose to treat their career as a series of 9-5 jobs, but if you’re reading this, I assume you’re like the rest of us who love continuous learning and self improvement.
 
 ## Preface
@@ -20,7 +21,6 @@ I’ve had a productive coding weekend, and so I decided to share my experience.
 About a year ago I started learning Elixir. So as part of the learning experience, I wrote two matching learning related libraries: [Stemmer](https://github.com/fredwu/stemmer) and [Simple Bayes](https://github.com/fredwu/simple_bayes). It was a great, really enjoyable experience and I learnt a lot about the concepts of [word stemming](https://en.wikipedia.org/wiki/Stemming), [naive Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) and of course, functional programming.
 
 These topics have been interesting to learn about, but until one gets to use them on a daily basis for a while, key concepts are less likely to convert from short term memory to long term memory. Given my day job is not about writing Elixir (yet), I needed to find other ways to keep my skill-level up and to continue exploring new things.
-
 
 So about a month ago, I picked up a project I started a year ago but gave up shortly after: [Crawler](https://github.com/fredwu/crawler). At the time [GenStage was just announced](https://elixir-lang.org/blog/2016/07/14/announcing-genstage/) and I was interested in incorporating it into my project as I thought it’d be a great fit. But due to varies reasons - mostly not having a firm grasp of the GenStage concept and implementation, as well as taking on a CTO role at a startup, I couldn’t find enough time and patience to make it work so I had to let it go.
 
@@ -79,4 +79,3 @@ And so, [a pull request was created](https://github.com/elixir-lang/elixir/pull/
 The bulk of Crawler as well as the entirety of OPQ were built in the past month or so. I hope some people will benefit from having these libraries around. And, I hope people also enjoyed me sharing my experience, and perhaps be inspired to start sharing more too.
 
 I will leave you all with a Chinese saying: [滴水石穿](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%BB%B4%E6%B0%B4%E7%A9%BF%E7%9F%B3). The literal translation is "dripping water penetrates the stone", and what it means is "**constant perseverance yields success**".
-

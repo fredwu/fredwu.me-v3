@@ -10,11 +10,12 @@ tags:
   - job
   - hiring
 ---
+
 Due to COVID-19, not many companies are hiring at the moment. The company [I work for](https://ourxplor.com) therefore is in a very fortunate position to still be thinking about growth and hiring.
 
 As a hiring manager for almost a decade now, I've personally reviewed thousands of job applications and CVs, and many hiring managers would probably agree, the vast majority of CVs are terrible. Let's change that!
 
-During COVID-19 where more and more people are either losing jobs or having their work hours cut, we are experiencing an increased amount of applicants to [our job ads](https://apply.workable.com/xplor/). I'd say on average __I spend about 30 seconds per applicant__ due to my busy schedule - most hiring managers are busy people, it is therefore crucial for candidates to realise the importance of having a CV that is clear, easy to read and most importantly sells yourself. And if you have a cover letter, which I highly encourage that you do, congratulations you just bought yourself another 30 seconds. ;)
+During COVID-19 where more and more people are either losing jobs or having their work hours cut, we are experiencing an increased amount of applicants to [our job ads](https://apply.workable.com/xplor/). I'd say on average **I spend about 30 seconds per applicant** due to my busy schedule - most hiring managers are busy people, it is therefore crucial for candidates to realise the importance of having a CV that is clear, easy to read and most importantly sells yourself. And if you have a cover letter, which I highly encourage that you do, congratulations you just bought yourself another 30 seconds. ;)
 
 I'm writing this post mostly from my own perspective - as a hiring manager in a tech company in the western culture (we're based in Australia). Understandably, different cultural backgrounds and regions may have their own conventions, but certainly in Australia and many similar western cultures, there are things that you do and don't do on a CV, and there are things that may help your CV stand out. Let's talk about these things.
 
@@ -106,7 +107,7 @@ When possible, submit your CV in PDF format instead of Word format. Now, sometim
 
 Always attach a cover letter when possible, but keep it short too. Given the amount of CVs a hiring manager needs to go through, having a crafted cover letter is another way to grab their attention and increase your chance of getting an interview.
 
-Don't repeat the same information in the cover letter though. Your __CV is about the facts of your experiences__, your __cover letter should be about your thoughts on why the company should hire you__. Focus on the value you can bring to the table.
+Don't repeat the same information in the cover letter though. Your **CV is about the facts of your experiences**, your **cover letter should be about your thoughts on why the company should hire you**. Focus on the value you can bring to the table.
 
 ## Find A Referral
 
@@ -120,9 +121,9 @@ This one is a "nice-to-have": if your CV is really well designed, you would earn
 
 These are the main points, hopefully they are helpful. To help illustrate, here is [a copy of my own CV](/img/posts/2020-05-20/cv-example.pdf), with contact details removed.
 
-
 ---
 
 _If you enjoyed this article, checkout my other tips articles:_
+
 - _[Tips for Becoming a Better Software Developer](../2020-05-03-tips-for-becoming-a-better-software-developer/)_
 - _[Tips for Job Interviews as a Junior Software Developer](../2020-09-27-tips-for-job-interviews-as-a-junior-software-developer/)_

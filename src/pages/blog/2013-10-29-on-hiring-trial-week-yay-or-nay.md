@@ -3,15 +3,16 @@ layout: post
 title: 'On Hiring: Trial Week - Yay or Nay?'
 date: '2013-10-29T23:09:00+11:00'
 tags:
-- hiring
-- trial week
-- probation
-- commitment
+  - hiring
+  - trial week
+  - probation
+  - commitment
 redirect_from:
-- /post/65426660472/on-hiring-trial-week-yay-or-nay
-- /post/65426660472/
-- /post/65426660472
+  - /post/65426660472/on-hiring-trial-week-yay-or-nay
+  - /post/65426660472/
+  - /post/65426660472
 ---
+
 Today a blog post titled "[Trial Week: Our Hiring Secret](http://www.sequoiacap.com/grove/posts/akzj/trial-week-our-hiring-secret)" has made to the Hacker News homepage. I naively [tweeted my dislike](https://twitter.com/fredwu/status/395097315913916416) and now I feel obligated to share my thoughts in a more meaningful and constructive way.
 
 First of all, congratulations to the Weebly team, as this trial week strategy is clearly working very well for them.
@@ -19,7 +20,6 @@ First of all, congratulations to the Weebly team, as this trial week strategy is
 I, on the other hand, am against using a trial week for vetting candidates, and I am going to share my thoughts.
 
 Let this serve as a reminder to the rest of us: every organisation and team is different, so **think carefully before committing to a given strategy**.
-
 
 ## One Week is a Major Commitment for the Candidate
 

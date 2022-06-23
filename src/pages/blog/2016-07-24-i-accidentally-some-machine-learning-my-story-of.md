@@ -3,26 +3,26 @@ layout: post
 title: I Accidentally Some Machine Learning - My Story of A Month of Learning Elixir
 date: '2016-07-24T04:33:29+10:00'
 tags:
-- elixir
-- phoenix
-- ruby
-- rails
-- machine learning
-- naive bayes
-- stemming
-- simple_bayes
-- stemmer
+  - elixir
+  - phoenix
+  - ruby
+  - rails
+  - machine learning
+  - naive bayes
+  - stemming
+  - simple_bayes
+  - stemmer
 redirect_from:
-- /post/147855522498/i-accidentally-some-machine-learning-my-story-of
-- /post/147855522498/
-- /post/147855522498
+  - /post/147855522498/i-accidentally-some-machine-learning-my-story-of
+  - /post/147855522498/
+  - /post/147855522498
 ---
+
 About a month ago I was in-between jobs - I had two weeks to rest up, recharge and get ready for my new job. So I thought,&nbsp;I should use those two weeks to learn something new.
 
 Years ago I briefly looked into [Elixir](http://elixir-lang.org/) when it was first released to the wild, at the time I wasn’t interested in picking it up due to its syntax similarity to Ruby, despite their vastly different underlying semantics. I love Ruby, and it’s been my weapon of choice for the past 6-7 years, so when it came time for me to learn something _new_, I naturally wanted to learn something a bit more different than Ruby, syntax-wise.
 
 Fast-forward a few years, I am more mature and open-minded, and are now in a position to welcome Elixir and to embrace the Ruby-like syntax as well as the functional programming mindset with open arms.
-
 
 ## Learning Elixir
 
@@ -180,14 +180,14 @@ In a nutshell, Phoenix is just like Rails, but less magical (in a good way) and 
 
 There are a few popular [Hex](https://hex.pm/) packages if you’re familiar with their ruby counterparts:
 
-|| Elixir | Ruby |
--|-|-|
-Code analysis | [credo](https://hex.pm/packages/credo) | [rubocop](https://rubygems.org/gems/rubocop)
-Testing | [espec](https://hex.pm/packages/espec) | [rspec](https://rubygems.org/gems/rspec)
-Browser testing | [wallaby](https://hex.pm/packages/wallaby) | [capybara](https://rubygems.org/gems/capybara)
-Test coverage | [excoveralls](https://hex.pm/packages/excoveralls) | [simplecov](https://rubygems.org/gems/simplecov)
-Test factory | [ex_machina](https://hex.pm/packages/ex_machina) | [factory_girl](https://rubygems.org/gems/factory_girl)
-Authentication | [guardian](https://hex.pm/packages/guardian) | [devise](https://rubygems.org/gems/devise)
+|                 | Elixir                                             | Ruby                                                   |
+| --------------- | -------------------------------------------------- | ------------------------------------------------------ |
+| Code analysis   | [credo](https://hex.pm/packages/credo)             | [rubocop](https://rubygems.org/gems/rubocop)           |
+| Testing         | [espec](https://hex.pm/packages/espec)             | [rspec](https://rubygems.org/gems/rspec)               |
+| Browser testing | [wallaby](https://hex.pm/packages/wallaby)         | [capybara](https://rubygems.org/gems/capybara)         |
+| Test coverage   | [excoveralls](https://hex.pm/packages/excoveralls) | [simplecov](https://rubygems.org/gems/simplecov)       |
+| Test factory    | [ex_machina](https://hex.pm/packages/ex_machina)   | [factory_girl](https://rubygems.org/gems/factory_girl) |
+| Authentication  | [guardian](https://hex.pm/packages/guardian)       | [devise](https://rubygems.org/gems/devise)             |
 
 And the list goes on and on… Be sure to check out [Awesome Elixir](https://github.com/h4cc/awesome-elixir/) for more community curated Elixir libraries.
 
@@ -281,4 +281,3 @@ Elixir and BEAM may not be known for their raw performance, but compared to a si
 I’ve only been writing Elixir for a month, and there are still heaps to learn and to practice. So far though, I have to say my experience with both Elixir and Phoenix has been fantastic - I get the same satisfying and pumped feeling I got when I was learning Ruby and Rails years ago.
 
 If you haven’t checked out Elixir, I strongly encourage you to do so, after all, the world seems to be moving in the concurrency direction at an increasingly rapid speed, including [Ruby 3x3](http://engineering.appfolio.com/appfolio-engineering/2015/11/18/ruby-3x3). :)
-

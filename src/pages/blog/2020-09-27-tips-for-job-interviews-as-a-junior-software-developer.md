@@ -10,6 +10,7 @@ tags:
   - interview
   - hiring
 ---
+
 As coding bootcamps such as [Coder Academy](https://coderacademy.edu.au/) and [General Assembly](https://generalassemb.ly/) churn out more and more software developers, and as more and more people start to realise the importance of software, companies these days are facing an increased amount of candidates applying for junior dev roles.
 
 Recently we had to take down our job ad for a junior full stack React and Elixir role only a few days after posting it due to having received about 300 applications. Suffice to say, the competition is fierce at the entry-level end of the software engineer spectrum.
@@ -143,5 +144,6 @@ To all the junior developers out there - enjoy the journey! You are in for an am
 ---
 
 _If you enjoyed this article, checkout my other tips articles:_
+
 - _[Tips for Becoming a Better Software Developer](../2020-05-03-tips-for-becoming-a-better-software-developer/)_
 - _[Tips for Writing a Good CV / Résumé](../2020-05-20-tips-for-writing-a-good-cv-resume/)_

@@ -3,18 +3,19 @@ layout: post
 title: Deploy PHP Websites Using Capistrano (and Git)
 date: '2010-06-21T14:45:00+10:00'
 tags:
-- php
-- capistrano
-- deploy
-- deployment
-- ruby
-- git
-- github
+  - php
+  - capistrano
+  - deploy
+  - deployment
+  - ruby
+  - git
+  - github
 redirect_from:
-- /post/720733257/deploy-php-websites-using-capistrano-and-git
-- /post/720733257/
-- /post/720733257
+  - /post/720733257/deploy-php-websites-using-capistrano-and-git
+  - /post/720733257/
+  - /post/720733257
 ---
+
 The [Rails](http://rubyonrails.org/) deployment flow is really smooth thanks to the powerful (and easy to use) [Capistrano](http://www.capify.org/).
 
 Capistrano not only works with Rails and other Ruby code bases, but also code bases in any programming languages, such as [PHP](http://php.net/)!
@@ -30,7 +31,6 @@ gem install capistrano-ext railsless-deploy
 ```
 
 Now, navigate to your application’s directory and run `capify .`, this will generate some necessary files for Capistrano to recognise your app.
-
 
 Open up the generated `Capfile` file and replace the content of the file with:
 
@@ -106,4 +106,3 @@ That’s it! Now you should be able to deploy your application by -
 cap deploy:setup
 cap deploy
 ```
-

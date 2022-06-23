@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-import Section from "./Section";
+import Section from './Section'
 
 export default class Projects extends React.Component {
   render() {
@@ -139,6 +139,6 @@ export default class Projects extends React.Component {
           </p>
         </div>
       </Section>
-    );
+    )
   }
 }

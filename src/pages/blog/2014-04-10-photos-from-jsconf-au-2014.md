@@ -3,16 +3,17 @@ layout: post
 title: Photos from JSConf AU 2014
 date: '2014-04-10T22:09:00+10:00'
 tags:
-- jsconf
-- photography
-- a7r
-- voigtlander
-- zeiss
+  - jsconf
+  - photography
+  - a7r
+  - voigtlander
+  - zeiss
 redirect_from:
-- /post/82284517623/photos-from-jsconf-au-2014
-- /post/82284517623/
-- /post/82284517623
+  - /post/82284517623/photos-from-jsconf-au-2014
+  - /post/82284517623/
+  - /post/82284517623
 ---
+
 [JSConf AU](http://au.jsconf.com/) has been fun - great talks and great venue! It was also a wonderful opportunity for me to test out my new camera kit: SONY A7r + Sony Sonnar T\* FE 35mm f/2.8 ZA + Voigtlander Color Skopar 20mm f/3.5 SL-II with Novoflex SONY E-Mount to Nikon adapter.
 
 Here’s the kit (taken by Nikon D800 + Tamron SP 24-70mm F/2.8 Di VC USD):
@@ -22,7 +23,6 @@ Here’s the kit (taken by Nikon D800 + Tamron SP 24-70mm F/2.8 Di VC USD):
 ## Photos from JSConf AU 2014:
 
 ![](/img/posts/old/tumblr_inline_n3tdjop2fF1qalr27.jpg)
-
 
 ### Breakfast in North Melbourne:
 
@@ -53,4 +53,3 @@ Here’s the kit (taken by Nikon D800 + Tamron SP 24-70mm F/2.8 Di VC USD):
 ![](/img/posts/old/tumblr_inline_n3tdnxcahR1qalr27.jpg)
 
 Check out my [Google+ Photo Album](https://plus.google.com/photos/+FredWu/albums/6000598028937066865?sort=1) for larger versions.
-

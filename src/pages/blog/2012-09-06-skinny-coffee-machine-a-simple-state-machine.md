@@ -3,17 +3,18 @@ layout: post
 title: Skinny Coffee Machine - A Simple State Machine with Observers
 date: '2012-09-06T21:47:00+10:00'
 tags:
-- state machine
-- observer
-- coffeescript
-- javascript
-- skinny-coffee-machine
-- Endless Scroll
+  - state machine
+  - observer
+  - coffeescript
+  - javascript
+  - skinny-coffee-machine
+  - Endless Scroll
 redirect_from:
-- /post/30990819723/skinny-coffee-machine-a-simple-state-machine
-- /post/30990819723/
-- /post/30990819723
+  - /post/30990819723/skinny-coffee-machine-a-simple-state-machine
+  - /post/30990819723/
+  - /post/30990819723
 ---
+
 After a few nights of working on the 2.0 rewrite of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll), I am now releasing one of the tools I built for the project: **[Skinny Coffee Machine](https://github.com/fredwu/skinny-coffee-machine)**.
 
 Skinny Coffee Machine is a simple JavaScript state machine written in CoffeeScript.
@@ -77,4 +78,3 @@ It is fairly simple to use, with the flexibility of adding and removing observer
 ```
 
 Go check out the [source code](https://github.com/fredwu/skinny-coffee-machine) now! :)
-

@@ -1,15 +1,15 @@
-import React from "react";
-import { Link } from "gatsby";
-import styled from "styled-components";
+import React from 'react'
+import { Link } from 'gatsby'
+import styled from 'styled-components'
 
-import Social from "./Social";
+import Social from './Social'
 
-import hero from "../img/hero.png";
-import background from "../img/background.png";
-import find from "../img/find.png";
+import hero from '../img/hero.png'
+import background from '../img/background.png'
+import find from '../img/find.png'
 
-const height = 260;
-const padding = 20;
+const height = 260
+const padding = 20
 
 const Header = styled.div`
   header {
@@ -62,12 +62,12 @@ const Header = styled.div`
       }
     }
   }
-`;
+`
 
 const HeaderStrip = styled.div`
   height: 10px;
   background-color: #ffa000;
-`;
+`
 
 const NavBar = styled.div`
   background: #eee;
@@ -123,7 +123,7 @@ const NavBar = styled.div`
       filter: invert(70%);
     }
   }
-`;
+`
 
 export default class HeaderComponent extends React.Component {
   render() {
@@ -226,6 +226,6 @@ export default class HeaderComponent extends React.Component {
           </div>
         </NavBar>
       </>
-    );
+    )
   }
 }

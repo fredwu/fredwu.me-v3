@@ -23,7 +23,7 @@ const DateTagList = styled.div`
 
       &:not(:last-child):after {
         color: #ccc;
-        content: ", ";
+        content: ', ';
       }
     }
   }
@@ -52,7 +52,7 @@ const DateAndTags = ({ id, title, date, tags, readingTime }) => {
         <>
           <span className="divider">|</span>
           <ul className="taglist">
-            {tags.map(tag => (
+            {tags.map((tag) => (
               <li key={tag + `tag`}>
                 <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
               </li>

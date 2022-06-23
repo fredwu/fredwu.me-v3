@@ -25,7 +25,8 @@ const PostInner = styled.div`
       background: #fafafa;
     }
 
-    td, th {
+    td,
+    th {
       border: 1px solid #eee;
       border-width: 0 0 1px;
       padding: 0.5em 0.75em;
@@ -76,9 +77,7 @@ export const PostTemplate = ({
       {helmet || ''}
       <PostInner className="container">
         <Section className="section content">
-          <h1 className="title is-size-3">
-            {title}
-          </h1>
+          <h1 className="title is-size-3">{title}</h1>
 
           <DateAndTags
             id={id}
@@ -95,7 +94,9 @@ export const PostTemplate = ({
           <SocialShare url={url} title={title} />
           <hr />
 
-          <Link className="back" to="/blogs">&lt; Back to Blog</Link>
+          <Link className="back" to="/blogs">
+            &lt; Back to Blog
+          </Link>
           <hr />
 
           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />

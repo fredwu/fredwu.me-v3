@@ -3,15 +3,16 @@ layout: post
 title: 'Protip: Ruby Devs, Please Tweak Your GC Settings for Tests!'
 date: '2013-09-06T21:13:37+10:00'
 tags:
-- ruby
-- garbage collection
-- protip
-- tests
+  - ruby
+  - garbage collection
+  - protip
+  - tests
 redirect_from:
-- /post/60441991350/protip-ruby-devs-please-tweak-your-gc-settings
-- /post/60441991350/
-- /post/60441991350
+  - /post/60441991350/protip-ruby-devs-please-tweak-your-gc-settings
+  - /post/60441991350/
+  - /post/60441991350
 ---
+
 It was made apparent to me that many ruby devs either aren’t aware or couldn’t be bothered to tweak their ruby garbage collector settings.
 
 Well, if you are using MRI, please start tweaking your GC settings. Here’s what I use (on my 15" Macbook Pro Retina):
@@ -33,4 +34,3 @@ Wercker:    8m45s 6m24s
 ```
 
 YMMV depending on your system and available RAM.
-

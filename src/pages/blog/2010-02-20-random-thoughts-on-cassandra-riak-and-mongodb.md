@@ -3,17 +3,18 @@ layout: post
 title: Random Thoughts on Cassandra, Riak and MongoDB
 date: '2010-02-20T21:54:00+11:00'
 tags:
-- Cassandra
-- Riak
-- MongoDB
-- MySQL
-- RDBMS
-- NoSQL
+  - Cassandra
+  - Riak
+  - MongoDB
+  - MySQL
+  - RDBMS
+  - NoSQL
 redirect_from:
-- /post/400348678/random-thoughts-on-cassandra-riak-and-mongodb
-- /post/400348678/
-- /post/400348678
+  - /post/400348678/random-thoughts-on-cassandra-riak-and-mongodb
+  - /post/400348678/
+  - /post/400348678
 ---
+
 A few days ago I was conducting some preliminary tests and benchmarks on a couple of [NoSQL](http://en.wikipedia.org/wiki/NoSQL) solutions such as [Redis](http://code.google.com/p/redis/), [Cassandra](http://incubator.apache.org/cassandra/) and [Riak](http://riak.basho.com/).
 
 As expected, Redis performed really really well, its speed is unmatchable by Cassandra and Riak.
@@ -21,7 +22,6 @@ As expected, Redis performed really really well, its speed is unmatchable by Cas
 However, that’s not the point.
 
 One thing I noticed is that quite a few people don’t really get what ’[scalability](http://en.wikipedia.org/wiki/Scalability)’ actually means. In this case, Redis does not scale (yet), so comparing the raw performance (on a single machine) isn’t entirely useful.
-
 
 Both Cassandra and Riak scale. They are key/value solutions designed from the ground up to support distributed computing. The primary reason I wanted to evaluate them, is for their distributed nature - adding/removing nodes without impacting the application means (near) real time, automated scalability.
 
@@ -38,4 +38,3 @@ MongoDB has limited scalability via [auto-sharding](http://www.mongodb.org/displ
 To me, there are two clear advantages of using MongoDB. One, [MongoMapper](http://github.com/jnunemaker/mongomapper) is a well thought library with good community support; two, unlike Cassandra and Riak, MongoDB supports [advanced queries](http://www.mongodb.org/display/DOCS/Advanced+Queries).
 
 What are your thoughts? :)
-

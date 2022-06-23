@@ -3,16 +3,17 @@ layout: post
 title: 'On Hiring: How To Be a Non-Technical Co-Founder'
 date: '2012-01-28T17:16:00+11:00'
 tags:
-- hiring
-- technical
-- co-founder
-- entrepreneur
-- tips
+  - hiring
+  - technical
+  - co-founder
+  - entrepreneur
+  - tips
 redirect_from:
-- /post/16623516071/on-hiring-how-to-be-a-non-technical-co-founder
-- /post/16623516071/
-- /post/16623516071
+  - /post/16623516071/on-hiring-how-to-be-a-non-technical-co-founder
+  - /post/16623516071/
+  - /post/16623516071
 ---
+
 _If you are looking at hiring developers, [check out my article on this subject](/blog/2012-01-26-on-hiring-how-not-to-annoy-developers/)._
 
 The goal or the dream of working on your own startup is always full of excitement. And apart from some rare cases [such as Dropbox](http://www.forbes.com/sites/bruceupbin/2011/10/18/paul-graham-dropbox-and-the-single-founder-exception/), you probably need one or more co-founders to work with you on The Next Big Thing ™.
@@ -86,4 +87,3 @@ Are you in this for the money? Or for something else? Wealth is rarely a good mo
 "It can potentially generate massive revenue and profit" is a big red flag to me when someone pitches their projects.
 
 These are the _key_ attributes I look for. Things like people connections and experience are also important but not essential. What about you? Do you look for any particular attributes in your potential co-founder(s)?
-

@@ -1,29 +1,30 @@
 ---
 layout: post
-title: The Future of Computing, The Future of Computer Programmers - An Interview
+title:
+  The Future of Computing, The Future of Computer Programmers - An Interview
   with Yukihiro "Matz" Matsumoto
 date: '2013-06-29T22:04:00+10:00'
 tags:
-- Yukihiro Matsumoto
-- Matz
-- interview
-- ruby
-- Turing Book
-- Engineer Type
-- cloud computing
-- book
-- The Future of Computing
+  - Yukihiro Matsumoto
+  - Matz
+  - interview
+  - ruby
+  - Turing Book
+  - Engineer Type
+  - cloud computing
+  - book
+  - The Future of Computing
 redirect_from:
-- /post/54175219257/the-future-of-computing-the-future-of-computer
-- /post/54175219257/
-- /post/54175219257
+  - /post/54175219257/the-future-of-computing-the-future-of-computer
+  - /post/54175219257/
+  - /post/54175219257
 ---
+
 A while ago I [translated an interview with Matz](/blog/2012-11-25-an-interview-with-yukihiro-matz-matsumoto/) done by a Chinese book publisher. The interview and the translation were well received, so this time I am translating another interview with Matz, done by Ito, the editor-in-chief from Japanese website [Engineer Type](http://engineer.typemag.jp/article/matz). Since I don’t read Japanese, the translation is based on [Turing Book’s Chinese translation](http://www.ituring.com.cn/article/45484).
 
 The Chinese translator has done a great job translating the interview, but there are still many words and sentences lack sufficient context and therefore are difficult to grasp. I have put in many hours translating the text as well as doing researches to ensure the final article is readable. I hope you will enjoy it! :)
 
 ![](/img/posts/old/tumblr_inline_mp4x3eZbVc1qz4rgp.jpg)
-
 
 **Ito:** Thank you for doing an interview with us, Matz. I have just finished reading your latest book _[The Future of Computing](http://www.amazon.co.jp/dp/4822234630/)_, could you perhaps talk about the future of programming and software programmers in general?
 
@@ -177,7 +178,7 @@ Matz dislikes deficiency, so he invented the ruby programming language.
 
 ![](/img/posts/old/tumblr_inline_mp4x4fRpd91qz4rgp.jpg)
 
-Matz talking about developer happiness, wearing his "[Ruby City MATSUE]([https://www.facebook.com/rubycitymatsue](https://www.facebook.com/rubycitymatsue))" polo shirt.
+Matz talking about developer happiness, wearing his "[Ruby City MATSUE](<[https://www.facebook.com/rubycitymatsue](https://www.facebook.com/rubycitymatsue)>)" polo shirt.
 
 > **Matz:** I think I have the right personality for developing software. Only the software industry can tolerate my carefreeness - am I too arrogant for saying that? \*chuckles\*
 >
@@ -224,4 +225,3 @@ Matz: Technologies progress just like a pendulum clock.
 > If you are a software developer who wants a longer career longevity, please read _The Future of Computing_! \*chuckles\*
 
 **Ito:** Thank you Matz for talking to us today!
-

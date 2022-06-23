@@ -3,15 +3,16 @@ layout: post
 title: 'On Hiring: How Not to Annoy Developers'
 date: '2012-01-26T16:42:00+11:00'
 tags:
-- hiring
-- recruitment
-- developer
-- tips
+  - hiring
+  - recruitment
+  - developer
+  - tips
 redirect_from:
-- /post/16510145575/on-hiring-how-not-to-annoy-developers
-- /post/16510145575/
-- /post/16510145575
+  - /post/16510145575/on-hiring-how-not-to-annoy-developers
+  - /post/16510145575/
+  - /post/16510145575
 ---
+
 _If you are looking at finding technical co-founders, [check out my article on this subject](/2012-01-28-on-hiring-how-to-be-a-non-technical-co-founder/)._
 
 In recent years developers become hotter and hotter - especially the good ones - they are hard to find, and they have plenty of employment options to choose from.
@@ -55,4 +56,3 @@ Recently there is a company in Melbourne who burnt a huge bridge with some of th
 So, these are the few things I can think of for now. How about you? I would love to hear your thoughts and stories on hiring developers.
 
 [Hacker News comments here.](http://news.ycombinator.com/item?id=3513060)
-

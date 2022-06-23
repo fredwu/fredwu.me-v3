@@ -3,17 +3,18 @@ layout: post
 title: 'PHP Devs: Have You Started Playing with More Toys?'
 date: '2012-06-30T05:03:00+10:00'
 tags:
-- php
-- ruby
-- story
-- programming
-- software development
+  - php
+  - ruby
+  - story
+  - programming
+  - software development
 redirect_from:
-- /post/26156441619/php-devs-have-you-started-playing-with-more-toys
-- /post/26156441619/
-- /post/26156441619
+  - /post/26156441619/php-devs-have-you-started-playing-with-more-toys
+  - /post/26156441619/
+  - /post/26156441619
 ---
- **TL;DR - PHP is still a useful tool, but as a PHP developer, have you started playing with other useful tools? Here’s my story.**
+
+**TL;DR - PHP is still a useful tool, but as a PHP developer, have you started playing with other useful tools? Here’s my story.**
 
 Today Jeff Atwood’s new piece "[The PHP Singularity](http://www.codinghorror.com/blog/2012/06/the-php-singularity.html)" and Marco Arment’s "[PHP Addiction](http://www.marco.org/2012/06/29/php-addiction)" have started another round of heated discussion on PHP.
 
@@ -22,7 +23,6 @@ As someone who started his career as a PHP developer, I feel like sharing my tho
 I began my career as a freelancer - since JavaScript and PHP were the two programming languages I learnt at school, they naturally became my weapon of choice for freelancing work.
 
 At that time I knew very little about software development. My desire was simple: I liked making websites, therefore I decided I was going to do it for a living.
-
 
 Over the years I came across many people who shared a similar background - people who do not have a strong (or any) computer science / software engineering background, were making websites.
 
@@ -53,4 +53,3 @@ And that [changed everything](https://github.com/fredwu). From a PHP developer w
 An important thing to remember is though, **it’s not about Ruby** , and it certainly **is not about looking down on PHP**. Rather, the point is to see whether or not there’s something out there that might enable you to look at things differently, and do things differently, for better or for worse.
 
 PHP for some is a _double-clawed hammer_, but there is no doubt in my mind that for some others it is a near perfect tool, for now at least. Having said that, **many other kids have started playing with all sorts of toys, why haven’t you?** :)
-

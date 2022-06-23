@@ -3,16 +3,17 @@ layout: post
 title: 'Protip: Faster Ruby Tests with DatabaseCleaner and DatabaseRewinder'
 date: '2013-09-18T16:50:00+10:00'
 tags:
-- tests
-- database_cleaner
-- database_rewinder
-- protip
-- ruby
+  - tests
+  - database_cleaner
+  - database_rewinder
+  - protip
+  - ruby
 redirect_from:
-- /post/61571741083/protip-faster-ruby-tests-with-databasecleaner-and
-- /post/61571741083/
-- /post/61571741083
+  - /post/61571741083/protip-faster-ruby-tests-with-databasecleaner-and
+  - /post/61571741083/
+  - /post/61571741083
 ---
+
 _Please also see [this blog post on tweaking your ruby GC settings](/blog/2013-09-06-protip-ruby-devs-please-tweak-your-gc-settings/)._
 
 I use and love [DatabaseCleaner](https://github.com/bmabey/database_cleaner), although historically I had never paid too much attention on the performance of its varies cleaning strategies - I’d always used `truncation`.
@@ -57,7 +58,6 @@ RSpec.configure do |config|
 end
 ```
 
-By the way, we also use [parallel\_tests](https://github.com/grosser/parallel_tests) to scale our test suite to multiple processes, even on Travis CI and Wercker.
+By the way, we also use [parallel_tests](https://github.com/grosser/parallel_tests) to scale our test suite to multiple processes, even on Travis CI and Wercker.
 
 Hooray to faster tests! :)
-

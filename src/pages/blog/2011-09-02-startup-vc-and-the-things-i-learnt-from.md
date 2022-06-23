@@ -1,23 +1,25 @@
 ---
 layout: post
-title: Startup, VC, and the Things I Learnt from Open-sourcing A 200+ Hour Client
+title:
+  Startup, VC, and the Things I Learnt from Open-sourcing A 200+ Hour Client
   Project
 date: '2011-09-02T22:49:00+10:00'
 tags:
-- Angel Nest
-- Hacker News
-- startup
-- VC
-- experience
-- equity
-- freelance
-- compensation
-- job
+  - Angel Nest
+  - Hacker News
+  - startup
+  - VC
+  - experience
+  - equity
+  - freelance
+  - compensation
+  - job
 redirect_from:
-- /post/9703934823/startup-vc-and-the-things-i-learnt-from
-- /post/9703934823/
-- /post/9703934823
+  - /post/9703934823/startup-vc-and-the-things-i-learnt-from
+  - /post/9703934823/
+  - /post/9703934823
 ---
+
 A couple of days ago, a blog post titled ["First employee of startup? You are probably getting screwed!"](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/) has made to the Hacker News front page and has [spawned some great discussion and debate](http://news.ycombinator.com/item?id=2949323).
 
 Since [I had just been screwed recently](/blog/2011-08-17-open-sourcing-a-200-hour-project-the-story/), I thought it might be a good opportunity for me to share what I’ve learnt.
@@ -90,4 +92,3 @@ Why? Because I learnt a lot. I learnt many things that I would not have learnt f
 Don’t be scared by other people’s experience. Steve Jobs once said something along the line of - [they started Apple because they didn’t know any better](http://youtu.be/3LEXae1j6EY?t=28m50s).
 
 I can comfortably say that, I am very much looking forward to my next adventure! :)
-

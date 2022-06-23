@@ -27,7 +27,7 @@ Let's start by talking about my leadership style, as it's the cornerstone of eve
 
 I started working as a software engineer in 2006, and as a tech/team lead in 2011. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personality, hasn't changed.
 
-I am a firm believer in __People__, __Product__, __Profit__, in that order. One of my top priorities is to ensure people __stay motivated__ and __stay challenged__. My goal is to work with you to find the right amount of stretch so you don't get bored and you don't get too stressed.
+I am a firm believer in **People**, **Product**, **Profit**, in that order. One of my top priorities is to ensure people **stay motivated** and **stay challenged**. My goal is to work with you to find the right amount of stretch so you don't get bored and you don't get too stressed.
 
 As part of our new employee onboarding experience, you would've been asked to do a [DISC profile](https://www.tonyrobbins.com/disc/) assessment, I'd like to share with you my DISC profile.
 
@@ -41,7 +41,7 @@ You can view my full DISC profile by [downloading this PDF](assets/disc-profile.
 
 ### My MBTI (Myers-Briggs Type Indicator)
 
-I am an __INFJ__, and here is [the relevant section](https://www.16personalities.com/infjs-at-work) that applies in workplaces.
+I am an **INFJ**, and here is [the relevant section](https://www.16personalities.com/infjs-at-work) that applies in workplaces.
 
 ### Key Points that Define My Leadership Style
 
@@ -61,7 +61,7 @@ I am an __INFJ__, and here is [the relevant section](https://www.16personalities
 
 Allow me to repeat:
 
-> One of my top priorities is to ensure people __stay motivated__ and __stay challenged__. My goal is to work with you to find the right amount of stretch so you don't get bored and you don't get too stressed.
+> One of my top priorities is to ensure people **stay motivated** and **stay challenged**. My goal is to work with you to find the right amount of stretch so you don't get bored and you don't get too stressed.
 
 That said, with the help of others, I would like:
 
@@ -115,7 +115,7 @@ I am generally a well organised person. In order to communicate effectively with
 
 Feedback should be provided and received as soon as possible. Instead of waiting for our next 1:1, or the next survey, or the next water-cooler conversation, grab me and let's talk it out.
 
-Every person is different, and therefore every project and every team are different. There is __always__ room for improvement, for __everyone__. So, if you have any feedback for me, please come talk to me, I promise I won't bite! ;)
+Every person is different, and therefore every project and every team are different. There is **always** room for improvement, for **everyone**. So, if you have any feedback for me, please come talk to me, I promise I won't bite! ;)
 
 ## Trust Bank
 

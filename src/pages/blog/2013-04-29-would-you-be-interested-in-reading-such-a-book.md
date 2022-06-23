@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Would you be interested in reading such a book?
-date: "2013-04-29T22:25:00+10:00"
+date: '2013-04-29T22:25:00+10:00'
 tags:
   - baaad
   - book

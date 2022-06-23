@@ -1,20 +1,22 @@
 ---
 layout: post
-title: Leading Snowflakes by Oren Ellenbogen - A Pragmatic Book on Software Team Leadership
+title:
+  Leading Snowflakes by Oren Ellenbogen - A Pragmatic Book on Software Team Leadership
   I Wish I Read Sooner
 date: '2014-07-27T01:49:00+10:00'
 tags:
-- Leading Snowflakes
-- Oren Ellenbogen
-- leadership
-- management
-- book
-- ebook
+  - Leading Snowflakes
+  - Oren Ellenbogen
+  - leadership
+  - management
+  - book
+  - ebook
 redirect_from:
-- /post/92926561298/leading-snowflakes-by-oren-ellenbogen-a
-- /post/92926561298/
-- /post/92926561298
+  - /post/92926561298/leading-snowflakes-by-oren-ellenbogen-a
+  - /post/92926561298/
+  - /post/92926561298
 ---
+
 Two weeks ago as I was reading [Software Lead Weekly](http://softwareleadweekly.com/) which I had subscribed to for a while, I discovered its curator, [Oren Ellenbogen](http://lnbogen.com/)’s book - [Leading Snowflakes](http://leadingsnowflakes.com/).
 
 It was a moment of discovery that lead to a stream of delightfulness.
@@ -22,7 +24,6 @@ It was a moment of discovery that lead to a stream of delightfulness.
 ## It Started with a Long Day at Work…
 
 After a long day at work, I was so beat I couldn’t even listen to audio books like I always do on my way to and from work. So I drove home that night in total silence. One thing that was on my mind at the time was - who should I reach out to for some advice and mentorship?
-
 
 "Probably no one." I shrugged, and decided to simply suck it up and sleep it off, hoping solutions to the problems I had would come to the light of the day.
 
@@ -59,4 +60,3 @@ I am now ready to implement those techniques and I am hopeful that I would becom
 If you are a software team manager, or aspire to be one, I highly recommend this book!
 
 **To purchase only the ebook itself, Oren has kindly offered a 20% off discount, [click to buy now](https://gumroad.com/l/engineeringmanager/FredWu).**
-

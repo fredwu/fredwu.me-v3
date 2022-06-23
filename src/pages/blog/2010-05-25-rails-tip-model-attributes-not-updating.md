@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "[Rails Tip] Model Attributes Not Updating? `reset_column_information` To the
-  Rescue!"
+title:
+  '[Rails Tip] Model Attributes Not Updating? `reset_column_information` To the
+  Rescue!'
 date: '2010-05-25T20:58:00+10:00'
 tags:
-- ruby
-- rails
-- tips
-- ActiveRecord
-- migration
+  - ruby
+  - rails
+  - tips
+  - ActiveRecord
+  - migration
 redirect_from:
-- /post/630987126/rails-tip-model-attributes-not-updating
-- /post/630987126/
-- /post/630987126
+  - /post/630987126/rails-tip-model-attributes-not-updating
+  - /post/630987126/
+  - /post/630987126
 ---
+
 So you were wondering why some of your model attributes weren’t updating properly? Well, it is perhaps because the db schema has changed but the changed schema has not been passed onto ActiveRecord, as is often the case in DB migration.
 
 Taken from the ActiveRecord documentation:
@@ -43,4 +45,3 @@ class CreateJobLevels < ActiveRecord::Migration
   end
 end
 ```
-

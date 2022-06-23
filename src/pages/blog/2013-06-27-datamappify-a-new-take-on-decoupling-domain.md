@@ -3,19 +3,20 @@ layout: post
 title: Datamappify - A New Take on Decoupling Domain, Form and Persistence in Rails
 date: '2013-06-27T22:09:00+10:00'
 tags:
-- Datamappify
-- rails
-- repository pattern
-- entity aggregation
-- ruby
-- form
-- persistence
-- decoupling
+  - Datamappify
+  - rails
+  - repository pattern
+  - entity aggregation
+  - ruby
+  - form
+  - persistence
+  - decoupling
 redirect_from:
-- /post/54009567748/datamappify-a-new-take-on-decoupling-domain
-- /post/54009567748/
-- /post/54009567748
+  - /post/54009567748/datamappify-a-new-take-on-decoupling-domain
+  - /post/54009567748/
+  - /post/54009567748
 ---
+
 _This post is about the ruby library we are building - [Datamappify](https://github.com/fredwu/datamappify), please go check it out._
 
 At [Locomote](http://www.locomote.com.au/) we are building a relatively large web application using Rails. Before we began to lay the foundation, we knew very well that if we wanted the project to be maintainable we had to architect the system with extra care and attention. More specifically, we can’t rely on simply using ActiveRecord which combines behaviour and persistence as our domain models.
@@ -453,4 +454,3 @@ Datamappify’s concept isn’t new, but there simply isn’t anything in the ru
 I hope that this post has not only introduced you to Datamappify, but has also made you think about how to make **your** application’s domain layer more decoupled.
 
 Thanks for reading, and if you have any feedback for Datamappify please get in touch with me!
-

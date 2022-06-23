@@ -4,12 +4,13 @@ title: Hello Tumblr!
 description: ''
 date: '2010-02-20T20:58:00+11:00'
 tags:
-- Tumblr
+  - Tumblr
 redirect_from:
-- /post/400301275/hello-tumblr
-- /post/400301275/
-- /post/400301275
+  - /post/400301275/hello-tumblr
+  - /post/400301275/
+  - /post/400301275
 ---
+
 I’m hoping to post more regularly by having this Tumblr blog. :)
 
 **Ruby**
@@ -35,4 +36,3 @@ echo 'Hello Tumblr!';
 ```falcon
 >> 'Hello Tumblr!'
 ```
-

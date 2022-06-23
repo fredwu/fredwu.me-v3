@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conference Talk: Adaptable Human @ RubyConf China 2019"
+title: 'Conference Talk: Adaptable Human @ RubyConf China 2019'
 date: '2019-09-14T18:05:09+1000'
 tags:
   - conference
@@ -10,6 +10,7 @@ tags:
   - leadership
   - career
 ---
+
 Seven years ago in 2012 I spoke at [RubyConf China 2012](http://2012.rubyconfchina.org/). It was a technical talk on how to become a better developer, if you're interested you can check out [the video recording](https://www.youtube.com/watch?v=DeBsmdDmB9A).
 
 Seven years later in August 2019, I headed back to Shanghai again to speak at this year's [RubyConf China](http://rubyconfchina.org/). And this time around, it was a non-technical talk on how to develop one's career. Check out the video recording below:
@@ -33,4 +34,3 @@ And, here are [some photos](https://photos.app.goo.gl/VavY5PgBGezZaqMr6) of your
 ![](https://lh3.googleusercontent.com/gmv02CzGXpgNFo9j7TSxNJSBPQ1SHS0ezY6KLnKVcOMuSY0BciIr00Q9eQovmNZsKn8k_7c6BZZKdKd42hIutQEY9LWOW0eiHrI6ZaKLB5S5QBkvTfUR1MGWlWPO_04EeRNi5dE8SLc-1gjjpS3eAv0HiHVyDWc2P3SEslkFX94-qXB_5HjQgny8H-wIdpdYOzjwfjIqnVaePN-MOVCZooQUNRSu760DSegdU2gdSAisAVoQqMzejevk3XkiAHXNgCeQMwUCt33qMh9BhQWjPLP6r1DRFUAQ9SWKFodVe_pTxAIgxky4KS5dfGC9uhE6A5wefxiXFLJLtyJJT7uG3-v0Bp7fCxt_8SWqK0F7iqTUlv_qjIcaDt6DtBdDTFX96A2QZYArAUH9f9boiQO-TmERuc4faN6g2o0d9JgAD5DsLFmO_O6i6hgD1ONP-vzoKd0ZFQHMeVX9xhPIMV40uqUr0w72_S9LFlSIKnHmEM0JyHM_v-e4n2EnkQwKWt5W4IgQdmSDiBmnxX1KTjAoo9ddkPhXoXmzhezma0z8uRAO2M3aM_jr67sAhfSZMvPBUkwTwS7h0_KLqjJoVKmXGcNBVM9zxVWipSiu1Ny07wNdixDkS27oGY2aejzudYp2L2dNrQJuN16cesP97oodYCSOs6Qy1CF4N_7i6wrCtd9bMEK7CxEljc7gGrV9hhP-3PNDLePt3Lcb8B8RNgRdsOhTJIs5v8hsQj_VzyOTxfqzTrmy6g=w800-no)
 
 ![](https://lh3.googleusercontent.com/22Jb93H__Xpik_DJBWm1ulTks-BG0v0jwpmZj3rQzWG_cvmjZfrFrGA9y-XhddG5-9l7pe0lMLRK8UsX3eBr7wKb8ShNX73S_kCGdMSsJ1JvL4hEatyOQ7-0RhRCkZ0jot9KPJV2zJRM764kT2KR_IicD_EhTzXgoA-RoGu9C3NcQ9rAX5uWF3pleHLJ1LNmu0DEeBxF3XuoF3IVW9dbkfioyBMF-kn82RDe1f9RIIRabJSOWXl_QIYI47aE07XrCU7SRlf9jnF-W0-YxiMYHmElDKoD7HP8ySLx6QCkjQNF5lMC7dF6R25jcwrK4co7rCU20gsMBb2vkalwHvfFxcsIgShugRDzjUjdqzoZ3GT_4WFA9MoYBAShvNAn0L-eWMrAhv-XOXpkjfeeS-BVP2SwusFHK0wLkCzsmH5FD7d0J44QpkgvFojZX0zj6x-KbIsGD-yl2cEqsUkzYGZufBlo2tRobAyNOv89E9aT1BeQs76cvwykybO5AMWCsV6ikr_fExZQMPwqMTg-8FoOhpff6mTUyKVqMXlbk0-8JP-IkaCr8V8rqUUpDtDrZLNVXxIDj0rEXp9MzIZgiSe7MDViHKnEpOGY6vP_GGGpvWkZY8mAEpTTyRH0cJFAZ4jVV6hQmzqMvREmZcOLUDKIFdG_fM-bJOO-bGMx1Bi3371GJch81K273_pdJka7AUB391dOPv0wZCp3y_qRWeabrhfhpYSD_87ncMY7pgvMqtJMMmwDaQ=w800-no)
-

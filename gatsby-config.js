@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Fred Wu - Engineering, Design, Photography, Leadership',
-    description: 'Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience.',
+    description:
+      'Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience.',
     siteUrl: 'https://fredwu.me',
   },
   plugins: [
@@ -57,12 +58,12 @@ module.exports = {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
-            }
+            },
           },
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
-              classPrefix: "language-",
+              classPrefix: 'language-',
               inlineCodeMarker: null,
               aliases: {},
               showLineNumbers: false,
@@ -91,13 +92,13 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
+              return allMarkdownRemark.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
+                  custom_elements: [{ 'content:encoded': edge.node.html }],
                 })
               })
             },
@@ -120,8 +121,8 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            match: "^/blog/",
+            output: '/rss.xml',
+            match: '^/blog/',
             title: "Fred Wu's Blog Feed",
           },
         ],
@@ -146,8 +147,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        policy: [{ userAgent: '*', disallow: '/admin' }]
-      }
+        policy: [{ userAgent: '*', disallow: '/admin' }],
+      },
     },
     'gatsby-remark-responsive-iframe',
     'gatsby-redirect-from',

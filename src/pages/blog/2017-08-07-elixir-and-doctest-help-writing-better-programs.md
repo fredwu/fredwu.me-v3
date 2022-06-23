@@ -3,19 +3,19 @@ layout: post
 title: Elixir and Doctest - Help Writing Better Programs, One Function At A Time
 date: '2017-08-07T20:00:20+10:00'
 tags:
-- elixir
-- doctest
+  - elixir
+  - doctest
 redirect_from:
-- /post/163901408538/elixir-and-doctest-help-writing-better-programs
-- /post/163901408538/
-- /post/163901408538
+  - /post/163901408538/elixir-and-doctest-help-writing-better-programs
+  - /post/163901408538/
+  - /post/163901408538
 ---
+
 ## Preface
 
 If memory serves right, it’s been several years since I first dabbled in Elixir, but it was about a year ago I really started putting some serious effort into learning Elixir, and as a result I made two libraries in the machine learning space: [Simple Bayes](https://github.com/fredwu/simple_bayes), a Naive Bayes text classifier implementation, and [Stemmer](https://github.com/fredwu/stemmer), an English (Porter2) stemming implementation.
 
 Unfortunately after I’ve released those two libraries, I hadn’t had much opportunities to work with Elixir. My day jobs have been mostly Ruby, JavaScript, PHP and a dash of Golang. And so, after being silent for a year, I’ve decided to pick up something I had started a year ago - [a web Crawler](https://github.com/fredwu/crawler). If you are new to Elixir, feel free to follow this project as I am actively developing it.
-
 
 ## Learnings
 
@@ -74,7 +74,7 @@ Doctest is purposely simple, and is designed for unit tests. There have been man
 
 ## Design
 
-As much as I’d like to think about the [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) principles all the time, it is often too easy to dig deep wholes in the midst of building things.
+As much as I’d like to think about the [SOLID](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>) principles all the time, it is often too easy to dig deep wholes in the midst of building things.
 
 Every now and then I find myself extracting a piece of logic to a private function and calling it a day. In Elixir, only public functions can have doctests - again, this constraint pushes you to think about the importance and the role of a particular function, perhaps it is better to be moved to another module as a public function therefore can have its own doctests. Here is [an example](https://github.com/fredwu/crawler/commit/7ac06b40a6c75b5e01311e70710185011f82471f) when I did some refactorings on Crawler.
 
@@ -83,4 +83,3 @@ Every now and then I find myself extracting a piece of logic to a private functi
 I wanted to write this article for a while now - as I truly love and appreciate Elixir’s asthetics and features. Many developers might find functional programming as a barrier, but I can assure you that with Elixir’s tooling and ecosystem, and of course doctest (_wink_), building software feels like a breeze.
 
 Last time when I was this happy building software was when I first discovered ruby. If you haven’t given Elixir a try yet, I encourage you to do so sooner rather than later, it will not only give you a functional programming perspective, but will also help you write better code in other languages.
-

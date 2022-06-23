@@ -1,24 +1,25 @@
 ---
 layout: post
-title: History Text Analysis Over Spreadsheets - A Poker Player and Developer's Road
+title:
+  History Text Analysis Over Spreadsheets - A Poker Player and Developer's Road
   to Agile Project Management
 date: '2015-03-10T08:50:23+11:00'
 tags:
-- analysis
-- spreadsheet
-- agile
-- amaze_hands
-- parser
-- leankit
+  - analysis
+  - spreadsheet
+  - agile
+  - amaze_hands
+  - parser
+  - leankit
 redirect_from:
-- /post/113196748165/history-text-analysis-over-spreadsheets-a-poker
-- /post/113196748165/
-- /post/113196748165
+  - /post/113196748165/history-text-analysis-over-spreadsheets-a-poker
+  - /post/113196748165/
+  - /post/113196748165
 ---
+
 Ever since I started transitioning into a team leadership role over three years ago, I had been trying to find ways to [eliminate waste caused by repetitive work](https://github.com/fredwu/security_guard) and to [keep myself on the fringe of pushing the technical boundaries](/blog/2013-06-27-datamappify-a-new-take-on-decoupling-domain/).
 
 Four months ago I started my current role where my official job title is Delivery Lead. People don’t often know what a delivery lead is, but in my mind it is a role to ensure the success of the project delivery by identifying and closing the gaps in the team and in the organisation. And in order to do that, one of our responsibilities is to **measure, understand and improve our team’s agile process**.
-
 
 It is very tempting to rely on the wonderful and powerful Excel formulas to help record and analyse data points and generate metrics such as cycle time. However, punching things into a spreadsheet is tedious, error-prone, time consuming and violates the [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle.
 
@@ -117,4 +118,3 @@ It is still early stage, but I thought I’d share what I have right now to gath
 When I started Amaze Hands I was only leading one project team that uses LeanKit, but since last week I started leading another team that uses a physical wall - I can’t wait to adapt Amaze Hands to support the new input stream.
 
 So, do _you_ have any interesting tools or techniques to help you lead projects? If so, I would love to hear about them!
-

@@ -3,16 +3,17 @@ layout: post
 title: ActiveRecord and DB Migration Ate My Model Attributes!
 date: '2013-02-27T11:12:00+11:00'
 tags:
-- ruby
-- rails
-- activerecord
-- migration
+  - ruby
+  - rails
+  - activerecord
+  - migration
 redirect_from:
-- /post/44098506856/activerecord-and-db-migration-ate-my-model
-- /post/44098506856/
-- /post/44098506856
+  - /post/44098506856/activerecord-and-db-migration-ate-my-model
+  - /post/44098506856/
+  - /post/44098506856
 ---
-*Update: You might also want to check out [`reset_column_information`](/blog/2010-05-25-rails-tip-model-attributes-not-updating/).*
+
+_Update: You might also want to check out [`reset_column_information`](/blog/2010-05-25-rails-tip-model-attributes-not-updating/)._
 
 So a few days ago we started seeing the following errors on our Jenkins builds (swapped with fictional model and attribute names):
 
@@ -24,7 +25,6 @@ NoMethodError:
 `attack_power` is a new attribute we recently added to the `Ironman` ActiveRecord model.
 
 I was baffled, as the table column is clearly there but ActiveRecord couldn’t see it.
-
 
 This weird behaviour is confirmed by debugging the model:
 
@@ -67,4 +67,3 @@ The fix? Simple! Simply use another process to run the database reset:
 ```ruby
 system 'rake db:reset'
 ```
-

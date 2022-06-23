@@ -1,11 +1,11 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react'
+import styled from 'styled-components'
 
-import LatestPosts from "./Footer/LatestPosts";
-import Projects from "./Footer/Projects";
-import Social from "../components/Social";
+import LatestPosts from './Footer/LatestPosts'
+import Projects from './Footer/Projects'
+import Social from '../components/Social'
 
-import background from "../img/background.png";
+import background from '../img/background.png'
 
 const Latest = styled.div`
   background-color: #333;
@@ -48,12 +48,12 @@ const Latest = styled.div`
   @media (prefers-color-scheme: dark) {
     background-color: #111;
   }
-`;
+`
 
 const FooterStrip = styled.div`
   height: 10px;
   background-color: #999;
-`;
+`
 
 const FooterInner = styled.footer`
   background: #444 url(${background}) top 50% center repeat;
@@ -91,7 +91,7 @@ const FooterInner = styled.footer`
   @media (prefers-color-scheme: dark) {
     background-color: #111;
   }
-`;
+`
 
 export default class FooterComponent extends React.Component {
   render() {
@@ -126,6 +126,6 @@ export default class FooterComponent extends React.Component {
           </div>
         </FooterInner>
       </>
-    );
+    )
   }
 }

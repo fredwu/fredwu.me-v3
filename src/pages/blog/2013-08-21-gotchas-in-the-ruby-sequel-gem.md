@@ -3,16 +3,17 @@ layout: post
 title: Gotchas in the Ruby Sequel Gem
 date: '2013-08-21T22:39:00+10:00'
 tags:
-- ruby
-- Sequel
-- ActiveRecord
-- gotcha
-- protip
+  - ruby
+  - Sequel
+  - ActiveRecord
+  - gotcha
+  - protip
 redirect_from:
-- /post/58910814911/gotchas-in-the-ruby-sequel-gem
-- /post/58910814911/
-- /post/58910814911
+  - /post/58910814911/gotchas-in-the-ruby-sequel-gem
+  - /post/58910814911/
+  - /post/58910814911
 ---
+
 I haven’t really used [Sequel](http://sequel.rubyforge.org/) much therefore I am definitely a newbie. However, after days and nights of frustration, endless debugging and some search-fu during the development of [Datamappify](https://github.com/fredwu/datamappify), I have finally arrived at the conclusion that Sequel is a capable library, as long as you are aware of the gotchas.
 
 ### Gotcha 1: Always use "`select`"/"`select_all`", or your data records will mysteriously have wrong IDs!
@@ -24,7 +25,6 @@ Post.joins(:author)
 ```
 
 In Sequel, despite having a similar API for models to declare associations and their corresponding primary and foreign keys, you cannot do a `join` without specifying the keys:
-
 
 _Not good:_
 
@@ -95,4 +95,3 @@ Post.eager_graph(:author).all.first.class #=> Post
 ```
 
 ![](/img/posts/old/tumblr_inline_mrvsa2sBB81qz4rgp.png)
-

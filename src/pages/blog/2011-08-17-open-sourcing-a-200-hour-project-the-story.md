@@ -3,24 +3,25 @@ layout: post
 title: Open-sourcing A 200+ Hour Project - The Story Behind It
 date: '2011-08-17T21:55:00+10:00'
 tags:
-- Angel Nest
-- China
-- Hacker News
-- open source
-- GPL
-- MIT
-- VC
-- angel
-- investor
-- entrepreneur
-- equity
-- freelance
-- contract
+  - Angel Nest
+  - China
+  - Hacker News
+  - open source
+  - GPL
+  - MIT
+  - VC
+  - angel
+  - investor
+  - entrepreneur
+  - equity
+  - freelance
+  - contract
 redirect_from:
-- /post/9036730472/open-sourcing-a-200-hour-project-the-story
-- /post/9036730472/
-- /post/9036730472
+  - /post/9036730472/open-sourcing-a-200-hour-project-the-story
+  - /post/9036730472/
+  - /post/9036730472
 ---
+
 _Update: I have blogged about [the things I have learnt](/blog/2011-09-02-startup-vc-and-the-things-i-learnt-from/) from this._
 
 Last night, after some long overdue frustration, I have open sourced [Angel Nest](https://github.com/fredwu/angel_nest) - an online platform for connecting entrepreneurs and investors, similar to [AngelList](http://angel.co/).
@@ -102,4 +103,3 @@ You may find out by dropping me a line, all my contact details can be found on t
 ## I am interested, but who are you?
 
 Scroll down to the bottom of the page and you will find my bio with a couple of links. :)
-

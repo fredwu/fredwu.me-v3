@@ -1,5 +1,5 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React from 'react'
+import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import {
   TwitterShareButton,
@@ -13,7 +13,7 @@ import {
   TumblrShareButton,
   TumblrIcon,
   EmailShareButton,
-  EmailIcon
+  EmailIcon,
 } from 'react-share'
 
 const Share = styled.div`
@@ -57,4 +57,4 @@ export default SocialShareComponent
 Share.propTypes = {
   url: PropTypes.string,
   title: PropTypes.string,
-};
+}

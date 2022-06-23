@@ -10,6 +10,7 @@ tags:
   - project management
   - product management
 ---
+
 Over the past few years as I gain more and more experience in not only building software and products but also in leading teams and projects, I realised that my desire of wanting an agile tool that's super simple to use yet super flexible to adapt to different needs has grown stronger and stronger.
 
 Given the COVID-19 situation that's going on at the moment, I've finally decided to spend a few nights working on a pitch deck for myself to validate the value proposition, and some high level wireframes to visualise the ideas.

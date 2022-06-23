@@ -12,6 +12,7 @@ tags:
   - Bulma
   - Netlify
 ---
+
 In 2010 I set up this blog on [Tumblr](https://tumblr.com) mostly due to the ease of publishing and not having to worry about the hosting. I also went through two design iterations done in Photoshop:
 
 ![](/img/posts/2019-01-20/blog-layouts.png)
@@ -112,7 +113,8 @@ The fix was quite simple, given that by default it only purges the main css file
 @import '~bulma';
 
 /* purgecss start ignore */
-.my-own-css-rules-here {}
+.my-own-css-rules-here {
+}
 /* purgecss end ignore */
 ```
 
@@ -124,7 +126,8 @@ What I had to do was to "reset" those CSS rules so they can inherit from Prism.j
 
 ```scss
 .content {
-  .number, .tag {
+  .number,
+  .tag {
     align-items: inherit;
     background-color: inherit;
     border-radius: inherit;

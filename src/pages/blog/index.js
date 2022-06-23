@@ -27,14 +27,13 @@ export default class BlogPosts extends React.Component {
         <Helmet titleTemplate="%s | Blog" />
         <div className="container">
           <Section className="section content">
-            {posts
-            .map(({ node: post }) => (
-              <div
-                className="content"
-                key={post.id}
-              >
+            {posts.map(({ node: post }) => (
+              <div className="content" key={post.id}>
                 <h2>
-                  <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
+                  <Link
+                    className="title has-text-primary is-size-4"
+                    to={post.fields.slug}
+                  >
                     {post.frontmatter.title}
                   </Link>
                 </h2>
@@ -52,13 +51,17 @@ export default class BlogPosts extends React.Component {
             ))}
 
             <Pagination>
-              {nextPagePath ? <Link to={nextPagePath}>&lt; Older Posts</Link> : null}
+              {nextPagePath ? (
+                <Link to={nextPagePath}>&lt; Older Posts</Link>
+              ) : null}
 
               {nextPagePath && previousPagePath ? (
-                  <span className="divider">|</span>
-                ) : null}
+                <span className="divider">|</span>
+              ) : null}
 
-              {previousPagePath ? <Link to={previousPagePath}>Newer Posts &gt;</Link> : null}
+              {previousPagePath ? (
+                <Link to={previousPagePath}>Newer Posts &gt;</Link>
+              ) : null}
             </Pagination>
           </Section>
         </div>
@@ -78,10 +81,10 @@ BlogPosts.propTypes = {
 export const blogPostsQuery = graphql`
   query BlogPostsQuery($skip: Int, $limit: Int) {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
+      sort: { order: DESC, fields: [frontmatter___date] }
       skip: $skip
       limit: $limit
-      filter: { frontmatter: { layout: { eq: "post" } }}
+      filter: { frontmatter: { layout: { eq: "post" } } }
     ) {
       edges {
         node {

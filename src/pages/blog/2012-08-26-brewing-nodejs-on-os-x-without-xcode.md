@@ -3,16 +3,17 @@ layout: post
 title: Brewing Node.js on OS X without Xcode
 date: '2012-08-26T00:43:00+10:00'
 tags:
-- node.js
-- osx
-- xcode
-- command line tools
-- osx-gcc-installer
+  - node.js
+  - osx
+  - xcode
+  - command line tools
+  - osx-gcc-installer
 redirect_from:
-- /post/30171591426/brewing-nodejs-on-os-x-without-xcode
-- /post/30171591426/
-- /post/30171591426
+  - /post/30171591426/brewing-nodejs-on-os-x-without-xcode
+  - /post/30171591426/
+  - /post/30171591426
 ---
+
 If you are like me who has no need for a full Xcode installation just to get the command line tools, chances are you are using one of these: Apple’s [Command Line Tools](https://developer.apple.com/downloads/) or the [osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer).
 
 Recently Node.js has made some changes so that it no longer installs on OS X via [homebrew](http://mxcl.github.com/homebrew/) if you don’t have Xcode installed.
@@ -36,4 +37,3 @@ sudo xcode-select --switch /usr/bin
 ```
 
 And voila! You can now install Node.js just fine. :)
-

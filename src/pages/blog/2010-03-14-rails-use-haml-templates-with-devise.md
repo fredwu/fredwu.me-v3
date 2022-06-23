@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "[Rails] Use HAML templates with Devise"
+title: '[Rails] Use HAML templates with Devise'
 date: '2010-03-14T01:40:00+11:00'
 tags:
-- Rails
-- HAML
-- Devise
-- ERb
+  - Rails
+  - HAML
+  - Devise
+  - ERb
 redirect_from:
-- /post/445463159/rails-use-haml-templates-with-devise
-- /post/445463159/
-- /post/445463159
+  - /post/445463159/rails-use-haml-templates-with-devise
+  - /post/445463159/
+  - /post/445463159
 ---
+
 If you are a Rails developers, chances are you have heard of, or are using either [Devise](http://github.com/plataformatec/devise) or [HAML](http://haml-lang.com/) in your projects.
 
 And if you’re like me who uses both, then surely you’d wish these two worked together, i.e. generate devise views in HAML.
@@ -31,4 +32,3 @@ gem "devise", :git => "git://github.com/plataformatec/devise.git"
 ```
 
 You will also need [the edge version of HAML](http://haml-lang.com/download.html), as the stable versions do not parse ruby code correctly.
-

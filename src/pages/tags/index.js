@@ -17,7 +17,7 @@ export default class TagsPage extends React.Component {
           <Section className="container content">
             <h1 className="is-size-3">Tags</h1>
             <ul className="taglist">
-              {group.map(tag => (
+              {group.map((tag) => (
                 <li key={tag.fieldValue}>
                   <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                     {tag.fieldValue} ({tag.totalCount})

@@ -20,14 +20,17 @@ export default class TagRoute extends React.Component {
         <div className="container">
           <Section className="container content">
             <h3 className="is-size-4">{tagHeader}</h3>
-            <ul className="taglist">{posts.map(post => (
-              <li key={post.node.fields.slug}>
-                <Link to={post.node.fields.slug}>
-                  {post.node.frontmatter.title}
-                </Link>&nbsp;
-                <small className="note">{post.node.frontmatter.date}</small>
-              </li>
-            ))}</ul>
+            <ul className="taglist">
+              {posts.map((post) => (
+                <li key={post.node.fields.slug}>
+                  <Link to={post.node.fields.slug}>
+                    {post.node.frontmatter.title}
+                  </Link>
+                  &nbsp;
+                  <small className="note">{post.node.frontmatter.date}</small>
+                </li>
+              ))}
+            </ul>
             <p>
               <Link to="/tags/">Browse all tags</Link>
             </p>

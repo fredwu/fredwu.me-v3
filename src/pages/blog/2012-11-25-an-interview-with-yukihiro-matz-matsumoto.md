@@ -3,19 +3,20 @@ layout: post
 title: An Interview with Yukihiro "Matz" Matsumoto
 date: '2012-11-25T17:45:00+11:00'
 tags:
-- Yukihiro Matsumoto
-- Matz
-- interview
-- Turing Book
-- China
-- ruby
-- The Future of Computing
-- The World of Code
+  - Yukihiro Matsumoto
+  - Matz
+  - interview
+  - Turing Book
+  - China
+  - ruby
+  - The Future of Computing
+  - The World of Code
 redirect_from:
-- /post/36493181321/an-interview-with-yukihiro-matz-matsumoto
-- /post/36493181321/
-- /post/36493181321
+  - /post/36493181321/an-interview-with-yukihiro-matz-matsumoto
+  - /post/36493181321/
+  - /post/36493181321
 ---
+
 _Update: Please check out [this new interview with Matz](/blog/2013-06-29-the-future-of-computing-the-future-of-computer/), done by Engineer Type._
 
 A week ago I went to Shanghai, China to attend and to give a talk at [RubyConf China](http://rubyconfchina.org/). The day before the conference’s first day a bunch of us were invited to a VIP dinner where we [met with Matz](http://www.flickr.com/photos/76172385@N07/8212328817/in/set-72157632083056277/lightbox/) and got to play with [a device running MRuby](http://www.flickr.com/photos/76172385@N07/8213422808/in/set-72157632083056277/lightbox/). And I heard that earlier on that day Matz was ‘adopted’ by a book publisher to do an interview.
@@ -23,7 +24,6 @@ A week ago I went to Shanghai, China to attend and to give a talk at [RubyConf C
 I have found the interview ([in Chinese](http://www.ituring.com.cn/article/17487)), and found it to be really useful. So I translated it to English. Hope more people will like it. :)
 
 On November 16th, 2012 - a day before [RubyConf China](http://rubyconfchina.org/), a Chinese book publisher [Turing Book](http://www.ituring.com.cn/) has done an interview with Matz on his new book _[The Future of Computing](http://www.amazon.co.jp/dp/4822234630/)_ as well as about a few topics interested to Chinese readers. [The interview](http://www.ituring.com.cn/article/17487) was conducted by _The Future of Computing_’s Chinese translator [Zi Heng Zhou](http://www.ituring.com.cn/users/86141).
-
 
 **Zhou:** Mr. Matsumoto’s new book _The Future of Computing_ is published earlier this year and the Chinese version is being translated by yours truly, and that is going to be released some time next year in China. Your last book _[The World of Code](http://www.amazon.co.jp/dp/4822234312/)_ has received high praises amongst the readers in China, so what are the differences between the last and the new book?
 
@@ -114,4 +114,3 @@ On November 16th, 2012 - a day before [RubyConf China](http://rubyconfchina.org/
 **Zhou:** Thank you very much Matz! Do you have anything else to say to Chinese programmers?
 
 > **Matz:** In the book _The World of Code_ I have mentioned that programming will likely to develop and evolve in the form of open source. New generations of programming languages and software are likely to emerge as open source projects. People are happy to freely use the software developed by others, and to take from that, and work on your own open source projects and make a little impact on the world - then you would become a world class software engineer. The software engineers I met in China are all very hard working and enjoying learning. I hope more of these people will step up and take on the challenge, and become world class programmers who will make a decent impact.
-
