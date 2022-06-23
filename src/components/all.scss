@@ -100,7 +100,7 @@ code[class*="language-"] {
   }
 
   .content {
-    h1, h2, h3, h4, p, ul, ol, blockquote {
+    h1, h2, h3, h4, p, strong, ul, ol, blockquote, code {
       color: #ccc;
     }
 
@@ -110,6 +110,14 @@ code[class*="language-"] {
 
     blockquote {
       background-image: url('../img/quotes-dark.svg');
+    }
+
+    code {
+      background-color: #333;
+    }
+
+    p img {
+      border-color: #666;
     }
   }
 }
