@@ -1,9 +1,9 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import styled from 'styled-components'
+import React from "react";
+import { Helmet } from "react-helmet";
+import styled from "styled-components";
 
-import Layout from '../../components/Layout'
-import Section from '../../components/Section'
+import Layout from "../../components/Layout";
+import Section from "../../components/Section";
 
 const Item = styled.div`
   text-align: center;
@@ -12,7 +12,7 @@ const Item = styled.div`
     a {
       & > div {
         height: 200px;
-        background: url('https://lh3.googleusercontent.com/aPqFgM7PkgX6faqXx-_h1cWwatE6eJbJEGApDemAiU9lTEKzrbR3ten4D2ZKlvEtHTHaPKdOgQjzF-UxDQ1RMOb662OTVUj2aNwfZF42QgCZHJBm6IEinHXuhxZ2WPvCc75SWp8M-294lks3-iGXPPTy1ZjOf3ozRNxLe8EGZIvZ2tWZxCQU7H9JptO4Ue_Xg_y7pzq50sjfmJWFxVfXeAzvilAMwxgOXrrT7NUaRnC5yj6sK9_QzRLp1R5Vr0qs41-dbj3ax-IEucz2lSSPh3mUwNy_I17Ah1s1CNS4oYrDyrMAdOUkrKlyW9zLG50DVNMDK7jeKxdP5WwsseWGZ1m-Se5owWm8ZDfHxz_36lHVnahT4dsD7eKA0mCDchCRUlUlqbLl6UaXkxrtFJhR-oApDOJeVF27uAYuPE4n5GD0Renx0oN7p5NB6DDneD_7clsfOTZomSH0lRyFY5_73r6_lweBCF3njpDNXS9uIHyETNk0cVT0ut-7S-IDkHzQ2NQcwMphx_3NONcOAk3HodECsUfEPy-KTY3yOwufSXklLb7Jl6EwgXZeybZnI2aZl77iR0MZrLgZhSmCuEJmWiCK0Y67y3nH67CxFsrs2zibStm4mIyy37XZSCFNlnnHDtdAOX3evFoKmhpjdvH6sfEeb1HaohVCsOqNUnaaqg9y4Yw5EaiU2qFIKD-fIhAThpl2AkiothrAgWg93kDqtuijBA=w1344-h896-no')
+        background: url("https://lh3.googleusercontent.com/aPqFgM7PkgX6faqXx-_h1cWwatE6eJbJEGApDemAiU9lTEKzrbR3ten4D2ZKlvEtHTHaPKdOgQjzF-UxDQ1RMOb662OTVUj2aNwfZF42QgCZHJBm6IEinHXuhxZ2WPvCc75SWp8M-294lks3-iGXPPTy1ZjOf3ozRNxLe8EGZIvZ2tWZxCQU7H9JptO4Ue_Xg_y7pzq50sjfmJWFxVfXeAzvilAMwxgOXrrT7NUaRnC5yj6sK9_QzRLp1R5Vr0qs41-dbj3ax-IEucz2lSSPh3mUwNy_I17Ah1s1CNS4oYrDyrMAdOUkrKlyW9zLG50DVNMDK7jeKxdP5WwsseWGZ1m-Se5owWm8ZDfHxz_36lHVnahT4dsD7eKA0mCDchCRUlUlqbLl6UaXkxrtFJhR-oApDOJeVF27uAYuPE4n5GD0Renx0oN7p5NB6DDneD_7clsfOTZomSH0lRyFY5_73r6_lweBCF3njpDNXS9uIHyETNk0cVT0ut-7S-IDkHzQ2NQcwMphx_3NONcOAk3HodECsUfEPy-KTY3yOwufSXklLb7Jl6EwgXZeybZnI2aZl77iR0MZrLgZhSmCuEJmWiCK0Y67y3nH67CxFsrs2zibStm4mIyy37XZSCFNlnnHDtdAOX3evFoKmhpjdvH6sfEeb1HaohVCsOqNUnaaqg9y4Yw5EaiU2qFIKD-fIhAThpl2AkiothrAgWg93kDqtuijBA=w1344-h896-no")
           50% 43% no-repeat;
         border: 8px solid #ccc;
         opacity: 0.9;
@@ -47,7 +47,7 @@ const Item = styled.div`
     font-size: 1rem !important;
     margin-top: 5px !important;
   }
-`
+`;
 
 export default class PhotosPageComponent extends React.Component {
   render() {
@@ -110,15 +110,6 @@ export default class PhotosPageComponent extends React.Component {
                     src="https://lh3.googleusercontent.com/rHRSoPq-3PxJRJcB3xMC7YOpyGV__B7t9CdWTGs4fPlt53xrwQu8pOHIaxc0wbxH7Ld1DXEwAgjpfn914nENz5Qtvpey7k4iyHY5EA9So3bjwteD8jBNY-GD1Y0n-zjBcOuWmvtIY0yJODjDc0CoAyrsnu1cktwocr_u4tj6ggG7JPFYZ9tPUf6S097I79X5RtxOUxh5-a3_SrbomlATIjdoCfPy7OR-R3OkNPw3p4ovIYABXc8wKRlMyiNPXwGrVsKuuRK_DB3jYYOTB6iq-sONvRYOd8FXQkINA9TNlECIpPVP1iitUcUJRii34DSGlTix5oOLmJUYnG0xytpVrmMUjy_oYn-rqkgAxiWSVKNkdqvW26BHHK4yc4_GvTiF_XKE0ZWKLHiMwIgO-7i1WykktYgHUMPCmv5rIK44MbebpXkrZ5alMEr30wGkxJghZMGng8MBK-piANQqLULkuJoYq0kpZpZ86f-EUGW8cpruNfxaxCypDoGsinvRB_FxI1fDlI9YVVXuR6tcXLLqWtVtuMjLI5vcPtAO1Y4_Hh4-bX-vup4ez76ikk4v3v02QqeDYqe20nTOCuaUg22-v-Vmexq3a38wFe60s_PEzYHBo3AZxdKPGcTo8sT1TZFqDBv0IYioRbzgDq8JA6ykyxLK9f1alCNrLzhF72aFh8a4VIsMQ4KFVuxJ=s500-p-k-no"
                   />
                   <h2>2019-12 Xplor Xmas Lunch</h2>
-                </a>
-              </Item>
-              <Item className="column is-one-quarter">
-                <a href="https://photos.app.goo.gl/AJxCVvh81Mc5VAFU8">
-                  <img
-                    alt="2019-12 Torquay"
-                    src="https://lh3.googleusercontent.com/68nmDD25iJZmIOVegp2t2zJPxo7ylygTvemP8zuyeOpQ4quSdBVeMe5lsTDv-yi_zA_lBm_yLlEUY4byDXAv1RRtgXdSApvLHAvJlR3GKF7cLZGiCL45zBc36Je4DDWAFbBGLOOcGfasxB67NN3KfI1rKX_GYFuHW7gjlmD9_Un91JorldehxXMsLdiByYJcVlEdi-hlzV8KRTjF5en0LxAf0Z-QywYEHLnNBqU5lQCHNTvMq5cXZzV1y2HJdoFstI9IwaoZf8zWprnqaR5vJWWnCZt8fb-YLh7Ai3mDN3DhRr_LNA0kOX2YExvZApXROFP4hp714RvNp2Qfx7JckU8uwbn_TjdKEVucoYdlpZiiUwksH7aTFhmCGqHJfLX07kPm5RQ290HglCN6tNWaqFMGdexWQlyE4DWzJcv26RAPf2Bm7kWfcGa_0wo8rPmfGUNLOntKvpHECXODCxxWPeukJO_MfRLuLwHqL6sUw4J9uEhXJFEwiu0ot6g1v2gSy8B1VwcH7WE3L5d798ROmZkwWS8vI0u1E3Vefm2hqgFUunQxrAXf25B4eTtfJCQBaj4fdUTyxZ4aASakpVEzvU1wMy256U47R51ox0NJ_GADGQvKNDRgSS3OVDQ-cv7Ss9TIoouv32-7nnCam5L6h5SD7YB_9WOlNASPslxsRspbG1TYtvU8HZ8P=s500-p-k-no"
-                  />
-                  <h2>2019-12 Torquay</h2>
                 </a>
               </Item>
               <Item className="column is-one-quarter">
@@ -494,6 +485,6 @@ export default class PhotosPageComponent extends React.Component {
           </Section>
         </div>
       </Layout>
-    )
+    );
   }
 }
