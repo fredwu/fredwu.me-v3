@@ -46,9 +46,6 @@
     "styled-components": "^5.3.6",
     "uuid": "^9.0.0"
   },
-  "resolutions": {
-    "gatsby-plugin-sass/sass-loader": "^12.6.0"
-  },
   "keywords": [
     "fredwu",
     "blog",
