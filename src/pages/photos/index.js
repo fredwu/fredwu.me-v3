@@ -149,15 +149,6 @@ export default class PhotosPageComponent extends React.Component {
                 </a>
               </Item>
               <Item className="column is-one-quarter">
-                <a href="https://photos.app.goo.gl/PwEXnuLUzkbLt5pu7">
-                  <img
-                    alt="2019-05 Xplor 4th Birthday (Mobile)"
-                    src="https://lh3.googleusercontent.com/pJplcq8HdnWjeXD0u1wGZmIPoScUX74tb8sBwgi_H_n6AyqF3fhGUXko--6MzDwE_e_hhHvB9qk-NTq7SF2fTBxE4k5vjAYX7e4gk3KJzAzNaMTe_REDcFaDFH1jnAOon3I3xvdL5vuPjjTUhzsI_6PfC901zM88c8u3ITN4H8XCjqqwxEcvI1w9hghHT7mX8r8eJ3xKiGWE09KPDXmHncSmlYr-fErV9cz8SIGNbBk4bnnMDnHeARblJsFTsV0oAPpXxJoLC4431NffEwQP4vXoi8DsFMor-FfJhSJB0n_5FF6JUVCvrhveIT5S7nyXFIY54pH97GMoWRZP9CB9iMCTfEkEXLw7pAVhAGqYB09hNzTnESY1UGPWhyXG2rvcOStLD7UJQ2-P1BRG_qYxMKpgjRfIJFsWZftPCvx5CORylNe7jVOQzC2vSpZtrTrFJAu-TG1xZC0OWssRyIy5enkJ9klJla3bVu08OtcrRIVU_uh4c5ln-O-Cu2Q0uQziyQYVuDCYj4HySZJZmLpey70vXXmdY_hitA_wsuaNf1COMOwXjixOmk7l-qWgiDIqplCGQq21lS3F-n7Hp6dKH5c-KPKa_tHQEVj7H6HzjJyRYxBvZpbXLK34rdj_iJp6UNNiAK6j5U3-RKzXygA_FDZqWuIR3j6b=s500-p-k-no"
-                  />
-                  <h2>2019-05 Xplor 4th Birthday (Mobile)</h2>
-                </a>
-              </Item>
-              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/5JvdmhGTdhmYXege6">
                   <img
                     alt="2019-05 Xplor 4th Birthday"
