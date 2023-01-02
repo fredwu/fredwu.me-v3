@@ -68,6 +68,15 @@ export default class PhotosPageComponent extends React.Component {
             <hr />
             <div className="columns is-multiline">
               <Item className="column is-one-quarter">
+                <a href="https://photos.app.goo.gl/u9UYEk2LbMqj6boA7">
+                  <img
+                    alt="2022-12 New Year 2023 Ballarat"
+                    src="https://lh3.googleusercontent.com/0zAI6b2wa02pdZCS9N5_TPPPhbkluZ52IzM6IVG974SzSE7CyI71ck12y8wWpVYoSf5vEGx0fF3wSAsXw1b02kkU-BShRnQqm3NVdsu7a_HTt8mb6Lly4XzQ0P54aYMRjmniL8K3QHLdZHo4SqicB-IXxA6UBKPuYobUTwYYHhr28EZ3_eGpfgx_ZBtc6mfvDAixmA7CYLk0plKx6ApNedyUmOX6Tkt1To6ucHUgg0x4Qha869R2bM6w2Uwuhl6xcAZoYtcuw1cSkGT7hR698avTculXUAnWF_fjvw01IjEDKGfmSydkcVhPlNrK7cjRxUF1Ir4_SH1sZnJyTGqp5IXTwUCoZP2ZZVAMRJdkaDf2mNLvK_6L7uQKv5b5KqWjiu2wB1r6Fvm4qu6b5LVuzohDx8wOCIs-bMK79cDFbZ37v3gRpVSd8xVYkaZKDyn_SQuSvCcprkspJxPVh998ikl7wEsJlYWZKp6m8W3yA9E4XZtNmYmfABLN5kVFx7wtmp0ErrKW2zTAsc00ssaac9nhHehhnRaeDPk5FMrcLkF7VDa6IHyKfnGhd4GqyT1NORCV4ry2y9bSeFHF3uGVyl-16Y1dl_V1-N67A0zilyRYE4ZFe-yf3nml1GgANldeeSbKGzw4c5RH2W5BxqelCEyNcEnOasWaTZCSkxG-jnrjiDnvNqFDFtfm9hUz4pJ9cPlzxbF2gex753LkvIdP6MAZNpOBOv39dnZW-8VIzp8jeSj_aSmDKrxX-zVF-kKUx3CCNEm4oSCsyrYwARkh9NC-qZkWn359q8Nzu9nFY13rFfLw6LbkCLT8W7QXYmu-8Qb5zVWhwfh3Zind3DlkbB0Buf5NRVnrgtuQDptISfYEytqoedOB2uUh9pB4p_U_wBsHAjEP-OKFmiyova7zNuw3-nKruCagYg-4pBC_hqq6Fq1py8EpIb_V42idMmyU2Fi-K-fwuSOkSSYCTFfSwffqfe63M76UFEu0ugL25JB7Fcwhdslp1KN56LaJNwqkO7mIK8MhRgio7JwWFmVrNLyG1bzjdg=s500-p-k-no"
+                  />
+                  <h2>2022-12 New Year 2023 Ballarat</h2>
+                </a>
+              </Item>
+              <Item className="column is-one-quarter">
                 <a href="https://photos.app.goo.gl/tkVCZgKZmD24aYwv9">
                   <img
                     alt="2022-12 The Big Goose Mornington"
