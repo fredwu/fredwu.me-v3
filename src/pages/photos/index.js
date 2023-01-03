@@ -60,7 +60,7 @@ export default class PhotosPageComponent extends React.Component {
               <Item className="column is-full" id="best-collection">
                 <a href="https://photos.app.goo.gl/Uvy4A6zC2pgc1SJc7">
                   <div>
-                    <h2>Best Collection</h2>
+                    <h2>Highlights</h2>
                   </div>
                 </a>
               </Item>
