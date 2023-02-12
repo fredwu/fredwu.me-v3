@@ -11,14 +11,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: npm
+          cache: yarn
 
       - name: Build
         run: |
-          npm install
+          yarn install
           npm run build
 
       - name: Publish to Cloudflare Pages
@@ -27,4 +28,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: fredwu-me
-          directory: /public
+          directory: public
