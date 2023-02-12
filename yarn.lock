@@ -1019,7 +1019,7 @@
     core-js-pure "^3.25.1"
     regenerator-runtime "^0.13.11"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.2", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.17.9", "@babel/runtime@^7.18.0", "@babel/runtime@^7.18.3", "@babel/runtime@^7.18.9", "@babel/runtime@^7.2.0", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.2", "@babel/runtime@^7.12.0", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.17.9", "@babel/runtime@^7.18.0", "@babel/runtime@^7.18.3", "@babel/runtime@^7.18.9", "@babel/runtime@^7.2.0", "@babel/runtime@^7.20.13", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
   version "7.20.13"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.20.13.tgz#7055ab8a7cff2b8f6058bf6ae45ff84ad2aded4b"
   integrity sha512-gt3PKXs0DBoL9xCvOIIZ2NEqAGZqHjAnmVbfQtB620V0uReIQutpel14KcneZuer7UioY8ALKZ7iocavvzTNFA==
@@ -4943,13 +4943,6 @@ domelementtype@^2.0.1, domelementtype@^2.2.0, domelementtype@^2.3.0:
   resolved "https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz"
   integrity sha512-OLETBj6w0OsagBwdXnPdN0cnMfF9opN69co+7ZrbfPGrdpPVNBUj02spi6B1N7wChLQiPn4CSH/zJvXw56gmHw==
 
-domhandler@^3.0.0:
-  version "3.3.0"
-  resolved "https://registry.npmjs.org/domhandler/-/domhandler-3.3.0.tgz"
-  integrity sha512-J1C5rIANUbuYK+FuFL98650rihynUOEzRLxW+90bKZRWB6A1X1Tf82GxR1qAWLyfNPRvjqfip3Q5tdYlmAa9lA==
-  dependencies:
-    domelementtype "^2.0.1"
-
 domhandler@^4.0.0, domhandler@^4.2.0, domhandler@^4.3.1:
   version "4.3.1"
   resolved "https://registry.npmjs.org/domhandler/-/domhandler-4.3.1.tgz"
@@ -4969,7 +4962,7 @@ dompurify@^2.2.6:
   resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.4.3.tgz#f4133af0e6a50297fc8874e2eaedc13a3c308c03"
   integrity sha512-q6QaLcakcRjebxjg8/+NP+h0rPfatOgOzc46Fst9VAA3jF2ApfKBNKMzdP4DYTqtUMXSCd5pRS/8Po/OmoCHZQ==
 
-domutils@^2.0.0, domutils@^2.5.2, domutils@^2.8.0:
+domutils@^2.5.2, domutils@^2.8.0:
   version "2.8.0"
   resolved "https://registry.npmjs.org/domutils/-/domutils-2.8.0.tgz"
   integrity sha512-w96Cjofp72M5IIhpjgobBimYEfoPjx1Vx0BSX9P30WBdZW2WIKU0T1Bd0kz2eNZ9ikjKgHbEyKx8BB6H1L3h3A==
@@ -6004,6 +5997,15 @@ fs-extra@^10.0.1, fs-extra@^10.1.0:
     jsonfile "^6.0.1"
     universalify "^2.0.0"
 
+fs-extra@^11.1.0:
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.0.tgz#5784b102104433bb0e090f48bfc4a30742c357ed"
+  integrity sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==
+  dependencies:
+    graceful-fs "^4.2.0"
+    jsonfile "^6.0.1"
+    universalify "^2.0.0"
+
 fs-extra@^9.0.0:
   version "9.1.0"
   resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-9.1.0.tgz"
@@ -6133,6 +6135,28 @@ gatsby-core-utils@^3.25.0:
     file-type "^16.5.3"
     fs-extra "^10.1.0"
     got "^11.8.5"
+    import-from "^4.0.0"
+    lmdb "2.5.3"
+    lock "^1.1.0"
+    node-object-hash "^2.3.10"
+    proper-lockfile "^4.1.2"
+    resolve-from "^5.0.0"
+    tmp "^0.2.1"
+    xdg-basedir "^4.0.0"
+
+gatsby-core-utils@^4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-4.6.0.tgz#43211a386e4115f720fc461ca7568f3315c25ecf"
+  integrity sha512-wXqWZWn6VuL2caWHCryt/pYyJJxJiv2JKyzXlJ1mLac0ZB24PP3Uc9NXPgFy8XzEtcL+23+9i9CiIiz+VNgxpQ==
+  dependencies:
+    "@babel/runtime" "^7.20.13"
+    ci-info "2.0.0"
+    configstore "^5.0.1"
+    fastq "^1.13.0"
+    file-type "^16.5.3"
+    fs-extra "^11.1.0"
+    got "^11.8.5"
+    hash-wasm "^4.9.0"
     import-from "^4.0.0"
     lmdb "2.5.3"
     lock "^1.1.0"
@@ -6481,15 +6505,15 @@ gatsby-telemetry@^3.25.0:
     lodash "^4.17.21"
     node-fetch "^2.6.7"
 
-gatsby-transformer-remark@^5.24.0:
-  version "5.25.1"
-  resolved "https://registry.npmjs.org/gatsby-transformer-remark/-/gatsby-transformer-remark-5.25.1.tgz"
-  integrity sha512-6k3uOnZYsJSgmZIWq9Y+Cqb6pysusCUBYpQY1+V9ofpSRbrZGGfuoCeFKd27x/c0jI5jneuL3NXnxwn/JJK1Ig==
+gatsby-transformer-remark@^6.6.0:
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-6.6.0.tgz#abe9bae919b24ce7dc4abb1e9bb7884455eb04ca"
+  integrity sha512-OhpuidOj4PCiIy33EIclJo6ehaBTWobuZ9k1YhNOQ2YTNLkdvNcdm7HM/QKNBJ4xUdG/jwrN5/exFjzWz4/4QQ==
   dependencies:
-    "@babel/runtime" "^7.15.4"
-    gatsby-core-utils "^3.25.0"
+    "@babel/runtime" "^7.20.13"
+    gatsby-core-utils "^4.6.0"
     gray-matter "^4.0.3"
-    hast-util-raw "^6.0.2"
+    hast-util-raw "^6.1.0"
     hast-util-to-html "^7.1.3"
     lodash "^4.17.21"
     mdast-util-to-hast "^10.2.0"
@@ -6502,7 +6526,7 @@ gatsby-transformer-remark@^5.24.0:
     remark-retext "^4.0.0"
     remark-stringify "^9.0.1"
     retext-english "^3.0.4"
-    sanitize-html "^1.27.5"
+    sanitize-html "^2.7.3"
     underscore.string "^3.3.6"
     unified "^9.2.2"
     unist-util-remove-position "^3.0.0"
@@ -7172,6 +7196,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+hash-wasm@^4.9.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/hash-wasm/-/hash-wasm-4.9.0.tgz#7e9dcc9f7d6bd0cc802f2a58f24edce999744206"
+  integrity sha512-7SW7ejyfnRxuOc7ptQHSf4LDoZaWOivfzqw+5rpcQku0nHfmicPKE51ra9BiRLAmT8+gGLestr1XroUkqdjL6w==
+
 hasha@^5.2.2:
   version "5.2.2"
   resolved "https://registry.npmjs.org/hasha/-/hasha-5.2.2.tgz"
@@ -7238,9 +7267,9 @@ hast-util-parse-selector@^2.0.0:
   resolved "https://registry.npmjs.org/hast-util-parse-selector/-/hast-util-parse-selector-2.2.5.tgz"
   integrity sha512-7j6mrk/qqkSehsM92wQjdIgWM2/BW61u/53G6xmC8i1OmEdKLHbk419QKQUjz6LglWsfqoiHmyMRkP1BGjecNQ==
 
-hast-util-raw@^6.0.2:
+hast-util-raw@^6.1.0:
   version "6.1.0"
-  resolved "https://registry.npmjs.org/hast-util-raw/-/hast-util-raw-6.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/hast-util-raw/-/hast-util-raw-6.1.0.tgz#e16a3c2642f65cc7c480c165400a40d604ab75d0"
   integrity sha512-5FoZLDHBpka20OlZZ4I/+RBw5piVQ8iI1doEvffQhx5CbCyTtP8UCq8Tw6NmTAMtXgsQxmhW7Ly8OdFre5/YMQ==
   dependencies:
     "@types/hast" "^2.0.0"
@@ -7396,16 +7425,6 @@ html-void-elements@^1.0.0:
   resolved "https://registry.npmjs.org/html-void-elements/-/html-void-elements-1.0.5.tgz"
   integrity sha512-uE/TxKuyNIcx44cIWnjr/rfIATDH7ZaOMmstu0CwhFG1Dunhlp4OC6/NMbhiwoq5BpW0ubi303qnEk/PZj614w==
 
-htmlparser2@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmjs.org/htmlparser2/-/htmlparser2-4.1.0.tgz"
-  integrity sha512-4zDq1a1zhE4gQso/c5LP1OtrhYTncXNSpvJYtWJBtXAETPlMfi3IFNjGuQbYLuVY4ZR0QMqRVvo4Pdy9KLyP8Q==
-  dependencies:
-    domelementtype "^2.0.1"
-    domhandler "^3.0.0"
-    domutils "^2.0.0"
-    entities "^2.0.0"
-
 htmlparser2@^6.1.0:
   version "6.1.0"
   resolved "https://registry.npmjs.org/htmlparser2/-/htmlparser2-6.1.0.tgz"
@@ -7416,7 +7435,7 @@ htmlparser2@^6.1.0:
     domutils "^2.5.2"
     entities "^2.0.0"
 
-htmlparser2@^8.0.1:
+htmlparser2@^8.0.0, htmlparser2@^8.0.1:
   version "8.0.1"
   resolved "https://registry.npmjs.org/htmlparser2/-/htmlparser2-8.0.1.tgz"
   integrity sha512-4lVbmc1diZC7GUJQtRQ5yBAeUCL1exyMwmForWkRLnwyzWBFxN633SALPMGYaWZvKe9j1pRZJpauvmxENSp/EA==
@@ -7915,6 +7934,11 @@ is-plain-object@^2.0.4:
   integrity sha512-h5PpgXkWitc38BBMYawTYMWJHFZJVnBquFE57xFpjB8pJFiF6gZ+bU+WyI/yqXiFR5mdLsgYNaPe8uao6Uv9Og==
   dependencies:
     isobject "^3.0.1"
+
+is-plain-object@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/is-plain-object/-/is-plain-object-5.0.0.tgz#4427f50ab3429e9025ea7d52e9043a9ef4159344"
+  integrity sha512-VRSzKkbMm5jMDoKLbltAkFQ5Qr7VDiTFGXxYFXXowVj387GeGNOCsOH6Msy00SGZ3Fp84b1Naa1psqgcCIEP5Q==
 
 is-promise@^2.2.2:
   version "2.2.2"
@@ -10499,11 +10523,6 @@ physical-cpu-count@^2.0.0:
   resolved "https://registry.npmjs.org/physical-cpu-count/-/physical-cpu-count-2.0.0.tgz"
   integrity sha512-rxJOljMuWtYlvREBmd6TZYanfcPhNUKtGDZBjBBS8WG1dpN2iwPsRJZgQqN/OtJuiQckdRFOfzogqJClTrsi7g==
 
-picocolors@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/picocolors/-/picocolors-0.2.1.tgz"
-  integrity sha512-cMlDqaLEqfSaW8Z7N5Jw+lyIW869EzT73/F5lhtY9cLGoVxSXznfgfXMO0Z5K0o0Q2TkTXq+0KFsdnSe3jDViA==
-
 picocolors@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
@@ -10793,14 +10812,6 @@ postcss@7.0.36:
     chalk "^2.4.2"
     source-map "^0.6.1"
     supports-color "^6.1.0"
-
-postcss@^7.0.27:
-  version "7.0.39"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-7.0.39.tgz"
-  integrity sha512-yioayjNbHn6z1/Bywyb2Y4s3yvDAeXGOyxqD+LnVOinq6Mdmd++SW2wUNVzavyyHxd6+DxzWGIuosg6P1Rj8uA==
-  dependencies:
-    picocolors "^0.2.1"
-    source-map "^0.6.1"
 
 postcss@^8.2.15, postcss@^8.2.9, postcss@^8.3.11, postcss@^8.3.5:
   version "8.4.21"
@@ -12137,15 +12148,17 @@ sanitize-filename@^1.6.1:
   dependencies:
     truncate-utf8-bytes "^1.0.0"
 
-sanitize-html@^1.27.5:
-  version "1.27.5"
-  resolved "https://registry.npmjs.org/sanitize-html/-/sanitize-html-1.27.5.tgz"
-  integrity sha512-M4M5iXDAUEcZKLXkmk90zSYWEtk5NH3JmojQxKxV371fnMh+x9t1rqdmXaGoyEHw3z/X/8vnFhKjGL5xFGOJ3A==
+sanitize-html@^2.7.3:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/sanitize-html/-/sanitize-html-2.9.0.tgz#f4829557b0175df9059d90fe972d5e6facb8565c"
+  integrity sha512-KY1hpSbqFNcpoLf+nP7iStbP5JfQZ2Nd19ZEE7qFsQqRdp+sO5yX/e5+HoG9puFAcSTEpzQuihfKUltDcLlQjg==
   dependencies:
-    htmlparser2 "^4.1.0"
-    lodash "^4.17.15"
+    deepmerge "^4.2.2"
+    escape-string-regexp "^4.0.0"
+    htmlparser2 "^8.0.0"
+    is-plain-object "^5.0.0"
     parse-srcset "^1.0.2"
-    postcss "^7.0.27"
+    postcss "^8.3.11"
 
 sass-graph@^4.0.1:
   version "4.0.1"
