@@ -7881,7 +7881,7 @@ __metadata:
     gatsby-awesome-pagination: ^0.3.8
     gatsby-cli: ^5.8.0
     gatsby-plugin-feed: ^5.8.0
-    gatsby-plugin-google-analytics: ^5.8.0
+    gatsby-plugin-google-gtag: ^5.9.0
     gatsby-plugin-image: ^3.8.0
     gatsby-plugin-purgecss: ^6.2.1
     gatsby-plugin-react-helmet: ^6.8.0
@@ -8222,18 +8222,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-google-analytics@npm:^5.8.0":
-  version: 5.8.0
-  resolution: "gatsby-plugin-google-analytics@npm:5.8.0"
+"gatsby-plugin-google-gtag@npm:^5.9.0":
+  version: 5.9.0
+  resolution: "gatsby-plugin-google-gtag@npm:5.9.0"
   dependencies:
     "@babel/runtime": ^7.20.13
     minimatch: ^3.1.2
-    web-vitals: ^1.1.2
   peerDependencies:
     gatsby: ^5.0.0-next
     react: ^18.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^0.0.0
-  checksum: 8e9ab4ad36fc71cb0887843a1ebb6a8257ac5c36f2a7c7b0d6df9e7094e7fea0564af93bb8cdc35241119844a566d169b408ee08a996887f7fbe94355d99f06a
+  checksum: 2846dd7dea898d529d9f18350125c46dcbd5d4ae9c2cec76c16229d356bc0c3695c3f480464de0d8fb62e379b84a1d51fdcce70ce5ef05136b6100c2cac0b380
   languageName: node
   linkType: hard
 
@@ -18624,13 +18623,6 @@ __metadata:
   version: 1.1.4
   resolution: "web-namespaces@npm:1.1.4"
   checksum: 5149842ccbfbc56fe4f8758957b3f8c8616a281874a5bb84aa1b305e4436a9bad853d21c629a7b8f174902449e1489c7a6c724fccf60965077c5636bd8aed42b
-  languageName: node
-  linkType: hard
-
-"web-vitals@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "web-vitals@npm:1.1.2"
-  checksum: 92071029089277166e11141b735831d9011e85737d32c1360034676db898ab0ca95f19041ee01904f2189ad6e711b9da6b17567e4831290a429a586c98bc573f
   languageName: node
   linkType: hard
 
